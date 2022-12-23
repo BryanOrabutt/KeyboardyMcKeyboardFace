@@ -3213,6 +3213,12 @@
   )
 
   (symbol_instances
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/b364acf1-fc0b-4b6a-8f7c-6b1284b4282d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/f81fe1a0-ebbf-4a56-8ba7-8274a48381c5"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
     (path "/00fa7605-e738-4f03-b10e-908b1b433acf"
       (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
     )
@@ -3524,6 +3530,48 @@
     )
     (path "/fe1b3bb1-e9c2-4d5c-99bc-3f611fd6af4d"
       (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/20b6e50f-13e1-44f6-ad04-b0a948f35b30"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/25c9d9fd-54c5-4c35-8b9e-a6ae705f4108"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/438f713f-f1ca-45d9-99da-0090020455f0"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/44e68587-8f95-4c36-befd-f337d44c79ed"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/489be7e5-dff6-43b2-a322-a1003f645637"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/496e6348-c88c-4bc2-aecb-c08e39e968f8"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/4c52fa99-8073-4b2a-9b32-99b102819b63"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/658a0bfb-e9ab-408b-b5a0-56d76214d97c"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/ae58a562-e294-414f-ae92-293a5599270f"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/af95c7e0-fe4b-4421-bafb-f2b344487841"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/d83db553-1354-496f-b376-4dbb62de1825"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/e562c07d-8f69-412f-928f-bd7be46ccfff"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/eb93cc4d-2d52-4cf0-8ad6-1fe1c1ebb3d8"
+      (reference "U?") (unit 1) (value "ESP32-WROOM-32D") (footprint "RF_Module:ESP32-WROOM-32")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/f2cbd441-5e57-42e5-8224-61e37a29ba8d"
+      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
     )
   )
 )
