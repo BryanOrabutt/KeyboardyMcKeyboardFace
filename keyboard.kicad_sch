@@ -3213,11 +3213,32 @@
   )
 
   (symbol_instances
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/167c753a-a621-4708-951c-3ae47f791421"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/b364acf1-fc0b-4b6a-8f7c-6b1284b4282d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/f81fe1a0-ebbf-4a56-8ba7-8274a48381c5"
       (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/31cd0780-5511-46ba-9878-b725e6e86c1d"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/a2151a9c-6ec2-4d43-ab57-f5ad6104fa51"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/e7ef7d1c-ed58-40be-b78d-d3ca7718c0dc"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/505e57bf-b18c-4b2c-8a43-1832fae52bc0"
+      (reference "R?") (unit 1) (value "200") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/7bc95e93-afb8-4c29-b8dd-3193f58a6b98"
+      (reference "R?") (unit 1) (value "200") (footprint "")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/9d9c58f5-a08b-415d-8dd9-1337c78a2272"
+      (reference "R?") (unit 1) (value "200") (footprint "")
     )
     (path "/00fa7605-e738-4f03-b10e-908b1b433acf"
       (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
