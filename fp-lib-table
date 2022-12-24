@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SAM4_User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SAM4_User.pretty")(options "")(descr ""))
+)
