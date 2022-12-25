@@ -3791,8 +3791,20 @@
   )
 
   (symbol_instances
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/3c272cb2-1c26-43ca-9023-35d88386f380"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4c983542-41b5-4e56-94bc-9155665b3ec3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/6c679bb3-4cfb-4701-93f3-2ccdd14380ac"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b806580f-80a8-4636-b816-9de86dbbd3fc"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e0c85bed-4ca1-4954-968e-e7da54799150"
+      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/84a09a01-2ef6-49bb-be4c-94b276821b3b"
       (reference "D?") (unit 1) (value "LED") (footprint "")
@@ -3802,6 +3814,9 @@
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aea6479a-1cda-43a0-95be-1d5bed838f4c"
       (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e5aa98ce-6ab0-49f4-93ab-735d8eb24e17"
+      (reference "J?") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9c406405-a624-4002-a0b7-d220d69a76d9"
       (reference "R?") (unit 1) (value "220") (footprint "")
@@ -3946,6 +3961,9 @@
     )
     (path "/5c048b27-25ec-47fe-9399-766cddfc8e8e"
       (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5fe496f0-1da7-4790-91d7-fc4b4769f4db"
+      (reference "SW?") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
     )
     (path "/654304e0-1a14-4891-a9c9-2034740fa33c"
       (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
