@@ -2072,9 +2072,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 00fa7605-e738-4f03-b10e-908b1b433acf)
-    (property "Reference" "SW?" (id 0) (at 262.89 187.96 0))
+    (property "Reference" "SW72" (id 0) (at 262.89 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 190.5 0))
-    (property "Footprint" "" (id 2) (at 262.89 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 195.58 0)
@@ -2087,9 +2087,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 030b797e-c689-4460-a59d-a49505592fc1)
-    (property "Reference" "SW?" (id 0) (at 130.81 187.96 0))
+    (property "Reference" "SW32" (id 0) (at 130.81 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 190.5 0))
-    (property "Footprint" "" (id 2) (at 130.81 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 195.58 0)
@@ -2102,9 +2102,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 04971321-0e33-471a-8d1b-a88107e1ae87)
-    (property "Reference" "SW?" (id 0) (at 342.9 166.37 0))
+    (property "Reference" "SW95" (id 0) (at 342.9 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 168.91 0))
-    (property "Footprint" "" (id 2) (at 342.9 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 173.99 0)
@@ -2117,9 +2117,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 088ac1b1-efa4-4a14-b658-632d284a1375)
-    (property "Reference" "SW?" (id 0) (at 236.22 187.96 0))
+    (property "Reference" "SW64" (id 0) (at 236.22 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 190.5 0))
-    (property "Footprint" "" (id 2) (at 236.22 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 195.58 0)
@@ -2132,9 +2132,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0adc260b-54ef-46ca-b368-49f3286bf9ae)
-    (property "Reference" "SW?" (id 0) (at 78.74 144.78 0))
+    (property "Reference" "SW14" (id 0) (at 78.74 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 147.32 0))
-    (property "Footprint" "" (id 2) (at 78.74 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 152.4 0)
@@ -2147,9 +2147,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0ba6ab2a-a025-4d60-8b09-985b26d7a228)
-    (property "Reference" "SW?" (id 0) (at 289.56 35.56 0))
+    (property "Reference" "SW73" (id 0) (at 289.56 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 38.1 0))
-    (property "Footprint" "" (id 2) (at 289.56 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 43.18 0)
@@ -2162,9 +2162,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1737c18a-fc5d-424b-a08a-adb69f3c092a)
-    (property "Reference" "SW?" (id 0) (at 210.82 57.15 0))
+    (property "Reference" "SW50" (id 0) (at 210.82 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 59.69 0))
-    (property "Footprint" "" (id 2) (at 210.82 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 64.77 0)
@@ -2177,9 +2177,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18925365-ba61-4472-a5fe-ff8c8d89e5c4)
-    (property "Reference" "SW?" (id 0) (at 289.56 57.15 0))
+    (property "Reference" "SW74" (id 0) (at 289.56 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 59.69 0))
-    (property "Footprint" "" (id 2) (at 289.56 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 64.77 0)
@@ -2192,9 +2192,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 19eb32ef-40d6-4ca7-8711-ad4eba6d54cd)
-    (property "Reference" "SW?" (id 0) (at 157.48 78.74 0))
+    (property "Reference" "SW35" (id 0) (at 157.48 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 81.28 0))
-    (property "Footprint" "" (id 2) (at 157.48 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 86.36 0)
@@ -2207,9 +2207,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a5b58b1-3660-4fb8-9f7f-a66f27187cc1)
-    (property "Reference" "SW?" (id 0) (at 105.41 57.15 0))
+    (property "Reference" "SW18" (id 0) (at 105.41 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 59.69 0))
-    (property "Footprint" "" (id 2) (at 105.41 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 64.77 0)
@@ -2222,9 +2222,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a9d8ec2-27d5-4ba4-a47d-907f6c04d753)
-    (property "Reference" "SW?" (id 0) (at 210.82 78.74 0))
+    (property "Reference" "SW51" (id 0) (at 210.82 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 81.28 0))
-    (property "Footprint" "" (id 2) (at 210.82 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 86.36 0)
@@ -2237,9 +2237,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1d82f223-c405-469a-904d-c9e8c7b7a9c9)
-    (property "Reference" "SW?" (id 0) (at 157.48 144.78 0))
+    (property "Reference" "SW38" (id 0) (at 157.48 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 147.32 0))
-    (property "Footprint" "" (id 2) (at 157.48 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 152.4 0)
@@ -2252,9 +2252,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1eb7ca1a-609b-44bc-94d7-8e2c4c73fd32)
-    (property "Reference" "SW?" (id 0) (at 184.15 144.78 0))
+    (property "Reference" "SW46" (id 0) (at 184.15 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 147.32 0))
-    (property "Footprint" "" (id 2) (at 184.15 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 152.4 0)
@@ -2267,9 +2267,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f9fd93c-4030-4c42-8bdf-fe2671334853)
-    (property "Reference" "SW?" (id 0) (at 316.23 187.96 0))
+    (property "Reference" "SW88" (id 0) (at 316.23 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 190.5 0))
-    (property "Footprint" "" (id 2) (at 316.23 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 195.58 0)
@@ -2282,9 +2282,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 22cea168-1c89-4a13-9d35-eec0802408ce)
-    (property "Reference" "SW?" (id 0) (at 52.07 100.33 0))
+    (property "Reference" "SW4" (id 0) (at 52.07 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 102.87 0))
-    (property "Footprint" "" (id 2) (at 52.07 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 107.95 0)
@@ -2297,9 +2297,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 22d762aa-311b-4361-84b2-020380b6c19d)
-    (property "Reference" "SW?" (id 0) (at 316.23 78.74 0))
+    (property "Reference" "SW83" (id 0) (at 316.23 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 81.28 0))
-    (property "Footprint" "" (id 2) (at 316.23 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 86.36 0)
@@ -2312,9 +2312,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 24c5fda0-3fbe-4e06-a63f-8e7611a043b3)
-    (property "Reference" "SW?" (id 0) (at 157.48 35.56 0))
+    (property "Reference" "SW33" (id 0) (at 157.48 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 38.1 0))
-    (property "Footprint" "" (id 2) (at 157.48 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 43.18 0)
@@ -2327,9 +2327,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 27963062-b367-49bd-bdcb-45a3bd1f404b)
-    (property "Reference" "SW?" (id 0) (at 342.9 187.96 0))
+    (property "Reference" "SW96" (id 0) (at 342.9 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 190.5 0))
-    (property "Footprint" "" (id 2) (at 342.9 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 195.58 0)
@@ -2342,9 +2342,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2955eb85-5ac2-4577-b655-d295d4aad692)
-    (property "Reference" "SW?" (id 0) (at 157.48 123.19 0))
+    (property "Reference" "SW37" (id 0) (at 157.48 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 125.73 0))
-    (property "Footprint" "" (id 2) (at 157.48 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 130.81 0)
@@ -2357,9 +2357,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b590353-621c-449c-9152-ca32365f08aa)
-    (property "Reference" "SW?" (id 0) (at 368.3 78.74 0))
+    (property "Reference" "SW99" (id 0) (at 368.3 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 81.28 0))
-    (property "Footprint" "" (id 2) (at 368.3 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 86.36 0)
@@ -2372,9 +2372,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 32f960aa-af92-436c-a801-d017a0b335e0)
-    (property "Reference" "SW?" (id 0) (at 78.74 57.15 0))
+    (property "Reference" "SW10" (id 0) (at 78.74 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 59.69 0))
-    (property "Footprint" "" (id 2) (at 78.74 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 64.77 0)
@@ -2387,9 +2387,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33e01b85-1552-473a-84b9-55a891d19f24)
-    (property "Reference" "SW?" (id 0) (at 368.3 123.19 0))
+    (property "Reference" "SW101" (id 0) (at 368.3 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 125.73 0))
-    (property "Footprint" "" (id 2) (at 368.3 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 130.81 0)
@@ -2402,9 +2402,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 34d0f21a-8a80-464f-b545-8c3a0ad8d409)
-    (property "Reference" "SW?" (id 0) (at 52.07 166.37 0))
+    (property "Reference" "SW7" (id 0) (at 52.07 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 168.91 0))
-    (property "Footprint" "" (id 2) (at 52.07 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 173.99 0)
@@ -2417,9 +2417,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 361a0f88-f2a5-4c3d-ac49-5838f70c9819)
-    (property "Reference" "SW?" (id 0) (at 157.48 166.37 0))
+    (property "Reference" "SW39" (id 0) (at 157.48 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 168.91 0))
-    (property "Footprint" "" (id 2) (at 157.48 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 173.99 0)
@@ -2432,9 +2432,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3a55d62a-1c6e-46af-a03c-d128247e04a2)
-    (property "Reference" "SW?" (id 0) (at 78.74 187.96 0))
+    (property "Reference" "SW16" (id 0) (at 78.74 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 190.5 0))
-    (property "Footprint" "" (id 2) (at 78.74 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 195.58 0)
@@ -2447,9 +2447,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3c1083b9-b67f-410b-955c-8666d7860386)
-    (property "Reference" "SW?" (id 0) (at 262.89 100.33 0))
+    (property "Reference" "SW68" (id 0) (at 262.89 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 102.87 0))
-    (property "Footprint" "" (id 2) (at 262.89 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 107.95 0)
@@ -2462,9 +2462,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3c2bb5d3-cd45-4326-b314-138a7e596d5c)
-    (property "Reference" "SW?" (id 0) (at 184.15 35.56 0))
+    (property "Reference" "SW41" (id 0) (at 184.15 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 38.1 0))
-    (property "Footprint" "" (id 2) (at 184.15 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 43.18 0)
@@ -2477,9 +2477,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3d9fda1f-48cf-4c64-b694-68304189270b)
-    (property "Reference" "SW?" (id 0) (at 289.56 166.37 0))
+    (property "Reference" "SW79" (id 0) (at 289.56 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 168.91 0))
-    (property "Footprint" "" (id 2) (at 289.56 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 173.99 0)
@@ -2492,9 +2492,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3f656d27-82e5-4f5e-8389-2eb0f2ea2823)
-    (property "Reference" "SW?" (id 0) (at 105.41 187.96 0))
+    (property "Reference" "SW24" (id 0) (at 105.41 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 190.5 0))
-    (property "Footprint" "" (id 2) (at 105.41 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 195.58 0)
@@ -2507,9 +2507,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 40ed6fcd-bc70-4ba3-8b0d-2fcb82fa9c2d)
-    (property "Reference" "SW?" (id 0) (at 316.23 35.56 0))
+    (property "Reference" "SW81" (id 0) (at 316.23 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 38.1 0))
-    (property "Footprint" "" (id 2) (at 316.23 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 43.18 0)
@@ -2522,9 +2522,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 425e6efa-7edb-40b1-9b45-24669e35d0b7)
-    (property "Reference" "SW?" (id 0) (at 316.23 57.15 0))
+    (property "Reference" "SW82" (id 0) (at 316.23 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 59.69 0))
-    (property "Footprint" "" (id 2) (at 316.23 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 64.77 0)
@@ -2537,9 +2537,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 43e5ec73-f2a1-4c85-b147-41bf0f85243e)
-    (property "Reference" "SW?" (id 0) (at 342.9 35.56 0))
+    (property "Reference" "SW89" (id 0) (at 342.9 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 38.1 0))
-    (property "Footprint" "" (id 2) (at 342.9 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 43.18 0)
@@ -2552,9 +2552,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 45a374b0-b25f-4919-bf55-e75f9aaecf7e)
-    (property "Reference" "SW?" (id 0) (at 130.81 100.33 0))
+    (property "Reference" "SW28" (id 0) (at 130.81 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 102.87 0))
-    (property "Footprint" "" (id 2) (at 130.81 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 107.95 0)
@@ -2567,9 +2567,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 46d19547-48aa-40a4-be49-c49fb440b3be)
-    (property "Reference" "SW?" (id 0) (at 130.81 57.15 0))
+    (property "Reference" "SW26" (id 0) (at 130.81 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 59.69 0))
-    (property "Footprint" "" (id 2) (at 130.81 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 64.77 0)
@@ -2582,9 +2582,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 49fcf459-4cc7-46b9-8168-57ad9a57cc25)
-    (property "Reference" "SW?" (id 0) (at 236.22 100.33 0))
+    (property "Reference" "SW60" (id 0) (at 236.22 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 102.87 0))
-    (property "Footprint" "" (id 2) (at 236.22 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 107.95 0)
@@ -2597,9 +2597,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4c247bb9-4bdf-4a0d-899f-0259a27dfe84)
-    (property "Reference" "SW?" (id 0) (at 78.74 166.37 0))
+    (property "Reference" "SW15" (id 0) (at 78.74 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 168.91 0))
-    (property "Footprint" "" (id 2) (at 78.74 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 173.99 0)
@@ -2612,9 +2612,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4dc2e541-9e26-4588-96dc-759798f22bed)
-    (property "Reference" "SW?" (id 0) (at 105.41 166.37 0))
+    (property "Reference" "SW23" (id 0) (at 105.41 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 168.91 0))
-    (property "Footprint" "" (id 2) (at 105.41 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 173.99 0)
@@ -2627,9 +2627,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4e0e8b0b-8b64-4091-b419-292c438a517a)
-    (property "Reference" "SW?" (id 0) (at 342.9 144.78 0))
+    (property "Reference" "SW94" (id 0) (at 342.9 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 147.32 0))
-    (property "Footprint" "" (id 2) (at 342.9 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 152.4 0)
@@ -2642,9 +2642,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4f8522ad-1c85-4689-9b7a-556e83d815d4)
-    (property "Reference" "SW?" (id 0) (at 210.82 123.19 0))
+    (property "Reference" "SW53" (id 0) (at 210.82 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 125.73 0))
-    (property "Footprint" "" (id 2) (at 210.82 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 130.81 0)
@@ -2657,9 +2657,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 55e3488f-6d6c-4f4c-8016-c2a0655d9f60)
-    (property "Reference" "SW?" (id 0) (at 289.56 78.74 0))
+    (property "Reference" "SW75" (id 0) (at 289.56 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 81.28 0))
-    (property "Footprint" "" (id 2) (at 289.56 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 86.36 0)
@@ -2672,9 +2672,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 579b7ed0-25ff-47ac-b7b3-d5b7916d0a17)
-    (property "Reference" "SW?" (id 0) (at 368.3 35.56 0))
+    (property "Reference" "SW97" (id 0) (at 368.3 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 38.1 0))
-    (property "Footprint" "" (id 2) (at 368.3 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 43.18 0)
@@ -2687,9 +2687,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 57d75b57-5c91-482d-83ff-d2cc12e70970)
-    (property "Reference" "SW?" (id 0) (at 289.56 123.19 0))
+    (property "Reference" "SW77" (id 0) (at 289.56 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 125.73 0))
-    (property "Footprint" "" (id 2) (at 289.56 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 130.81 0)
@@ -2702,9 +2702,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58dfaf50-7caf-4730-a621-385ca7d1d1b0)
-    (property "Reference" "SW?" (id 0) (at 289.56 187.96 0))
+    (property "Reference" "SW80" (id 0) (at 289.56 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 190.5 0))
-    (property "Footprint" "" (id 2) (at 289.56 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 195.58 0)
@@ -2717,9 +2717,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58f572a4-ee1f-4f56-a70d-c6b698608f2a)
-    (property "Reference" "SW?" (id 0) (at 105.41 35.56 0))
+    (property "Reference" "SW17" (id 0) (at 105.41 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 38.1 0))
-    (property "Footprint" "" (id 2) (at 105.41 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 43.18 0)
@@ -2732,9 +2732,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c048b27-25ec-47fe-9399-766cddfc8e8e)
-    (property "Reference" "SW?" (id 0) (at 130.81 35.56 0))
+    (property "Reference" "SW25" (id 0) (at 130.81 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 38.1 0))
-    (property "Footprint" "" (id 2) (at 130.81 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 43.18 0)
@@ -2747,9 +2747,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 654304e0-1a14-4891-a9c9-2034740fa33c)
-    (property "Reference" "SW?" (id 0) (at 105.41 144.78 0))
+    (property "Reference" "SW22" (id 0) (at 105.41 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 147.32 0))
-    (property "Footprint" "" (id 2) (at 105.41 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 152.4 0)
@@ -2762,9 +2762,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6c1df78a-3234-424d-9974-a6d75a6f95ef)
-    (property "Reference" "SW?" (id 0) (at 289.56 144.78 0))
+    (property "Reference" "SW78" (id 0) (at 289.56 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 147.32 0))
-    (property "Footprint" "" (id 2) (at 289.56 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 152.4 0)
@@ -2777,9 +2777,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6d3e1e38-993f-4970-b08c-067d6a0c544e)
-    (property "Reference" "SW?" (id 0) (at 52.07 57.15 0))
+    (property "Reference" "SW2" (id 0) (at 52.07 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 59.69 0))
-    (property "Footprint" "" (id 2) (at 52.07 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 64.77 0)
@@ -2792,9 +2792,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6f87bebb-d871-451d-8093-bcdbb1c372d4)
-    (property "Reference" "SW?" (id 0) (at 184.15 78.74 0))
+    (property "Reference" "SW43" (id 0) (at 184.15 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 81.28 0))
-    (property "Footprint" "" (id 2) (at 184.15 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 86.36 0)
@@ -2807,9 +2807,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 75e8dfee-d0e7-4a4e-99b9-bf7aa910928f)
-    (property "Reference" "SW?" (id 0) (at 184.15 166.37 0))
+    (property "Reference" "SW47" (id 0) (at 184.15 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 168.91 0))
-    (property "Footprint" "" (id 2) (at 184.15 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 173.99 0)
@@ -2822,9 +2822,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 75eba17d-0a3e-41f3-a47a-0d0d2aee08ab)
-    (property "Reference" "SW?" (id 0) (at 210.82 166.37 0))
+    (property "Reference" "SW55" (id 0) (at 210.82 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 168.91 0))
-    (property "Footprint" "" (id 2) (at 210.82 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 173.99 0)
@@ -2837,9 +2837,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7779bfb0-a1e0-4088-95de-e6d92cac627d)
-    (property "Reference" "SW?" (id 0) (at 184.15 57.15 0))
+    (property "Reference" "SW42" (id 0) (at 184.15 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 59.69 0))
-    (property "Footprint" "" (id 2) (at 184.15 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 64.77 0)
@@ -2852,9 +2852,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 828818cc-a7a7-49fd-9c5b-e1dadc787a5f)
-    (property "Reference" "SW?" (id 0) (at 210.82 35.56 0))
+    (property "Reference" "SW49" (id 0) (at 210.82 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 38.1 0))
-    (property "Footprint" "" (id 2) (at 210.82 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 43.18 0)
@@ -2867,9 +2867,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 837f8481-c1ab-4fb3-a7a7-b1763d6291bd)
-    (property "Reference" "SW?" (id 0) (at 368.3 57.15 0))
+    (property "Reference" "SW98" (id 0) (at 368.3 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 59.69 0))
-    (property "Footprint" "" (id 2) (at 368.3 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 64.77 0)
@@ -2882,9 +2882,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86182424-3ad2-47f4-be47-76205bd19a50)
-    (property "Reference" "SW?" (id 0) (at 342.9 57.15 0))
+    (property "Reference" "SW90" (id 0) (at 342.9 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 59.69 0))
-    (property "Footprint" "" (id 2) (at 342.9 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 64.77 0)
@@ -2897,9 +2897,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86767e9d-3f22-4281-992f-2f3d75049e5c)
-    (property "Reference" "SW?" (id 0) (at 184.15 187.96 0))
+    (property "Reference" "SW48" (id 0) (at 184.15 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 190.5 0))
-    (property "Footprint" "" (id 2) (at 184.15 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 195.58 0)
@@ -2912,9 +2912,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 897ba867-b445-479f-b932-a957e3e2b0cd)
-    (property "Reference" "SW?" (id 0) (at 184.15 100.33 0))
+    (property "Reference" "SW44" (id 0) (at 184.15 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 102.87 0))
-    (property "Footprint" "" (id 2) (at 184.15 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 107.95 0)
@@ -2927,9 +2927,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8a996ce5-5753-43d3-9a2e-2c9dba3a429c)
-    (property "Reference" "SW?" (id 0) (at 342.9 78.74 0))
+    (property "Reference" "SW91" (id 0) (at 342.9 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 81.28 0))
-    (property "Footprint" "" (id 2) (at 342.9 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 86.36 0)
@@ -2942,9 +2942,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8f8873cf-6ece-4528-abcc-6f45999a2cf3)
-    (property "Reference" "SW?" (id 0) (at 236.22 166.37 0))
+    (property "Reference" "SW63" (id 0) (at 236.22 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 168.91 0))
-    (property "Footprint" "" (id 2) (at 236.22 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 173.99 0)
@@ -2957,9 +2957,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 289.56 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 945b4619-982f-4f56-9ef5-6e3569c86721)
-    (property "Reference" "SW?" (id 0) (at 289.56 100.33 0))
+    (property "Reference" "SW76" (id 0) (at 289.56 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 102.87 0))
-    (property "Footprint" "" (id 2) (at 289.56 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 107.95 0)
@@ -2972,9 +2972,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 184.15 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 956c8953-87fe-4089-9a8a-7294e3bc2f5c)
-    (property "Reference" "SW?" (id 0) (at 184.15 123.19 0))
+    (property "Reference" "SW45" (id 0) (at 184.15 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 125.73 0))
-    (property "Footprint" "" (id 2) (at 184.15 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 130.81 0)
@@ -2987,9 +2987,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 980c21ed-4162-4959-b18e-33090dd99e08)
-    (property "Reference" "SW?" (id 0) (at 262.89 166.37 0))
+    (property "Reference" "SW71" (id 0) (at 262.89 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 168.91 0))
-    (property "Footprint" "" (id 2) (at 262.89 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 173.99 0)
@@ -3002,9 +3002,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 99a65a7b-7ff3-4b3a-b17f-438c09eced5d)
-    (property "Reference" "SW?" (id 0) (at 316.23 100.33 0))
+    (property "Reference" "SW84" (id 0) (at 316.23 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 102.87 0))
-    (property "Footprint" "" (id 2) (at 316.23 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 107.95 0)
@@ -3017,9 +3017,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 99db0a6d-8176-4428-b9b4-f607e734c551)
-    (property "Reference" "SW?" (id 0) (at 262.89 123.19 0))
+    (property "Reference" "SW69" (id 0) (at 262.89 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 125.73 0))
-    (property "Footprint" "" (id 2) (at 262.89 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 130.81 0)
@@ -3032,9 +3032,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9b694c33-3c8f-4d93-b67d-158907bb4ffa)
-    (property "Reference" "SW?" (id 0) (at 52.07 35.56 0))
+    (property "Reference" "SW1" (id 0) (at 52.07 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 38.1 0))
-    (property "Footprint" "" (id 2) (at 52.07 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 43.18 0)
@@ -3047,9 +3047,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9f47fa17-3aca-48db-904a-bdc961a95170)
-    (property "Reference" "SW?" (id 0) (at 130.81 123.19 0))
+    (property "Reference" "SW29" (id 0) (at 130.81 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 125.73 0))
-    (property "Footprint" "" (id 2) (at 130.81 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 130.81 0)
@@ -3062,9 +3062,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a3e8aa3e-422e-484a-acc4-128ae45cfb76)
-    (property "Reference" "SW?" (id 0) (at 105.41 78.74 0))
+    (property "Reference" "SW19" (id 0) (at 105.41 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 81.28 0))
-    (property "Footprint" "" (id 2) (at 105.41 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 86.36 0)
@@ -3077,9 +3077,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a51254bf-7f27-407e-95cb-d8e09b05884d)
-    (property "Reference" "SW?" (id 0) (at 130.81 166.37 0))
+    (property "Reference" "SW31" (id 0) (at 130.81 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 168.91 0))
-    (property "Footprint" "" (id 2) (at 130.81 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 173.99 0)
@@ -3092,9 +3092,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a51df3b6-2677-40b5-a5cb-f0a0f9a42dfc)
-    (property "Reference" "SW?" (id 0) (at 236.22 35.56 0))
+    (property "Reference" "SW57" (id 0) (at 236.22 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 38.1 0))
-    (property "Footprint" "" (id 2) (at 236.22 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 43.18 0)
@@ -3107,9 +3107,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a5a77ece-8f75-4464-a3b4-4366d96a98b7)
-    (property "Reference" "SW?" (id 0) (at 52.07 123.19 0))
+    (property "Reference" "SW5" (id 0) (at 52.07 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 125.73 0))
-    (property "Footprint" "" (id 2) (at 52.07 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 130.81 0)
@@ -3122,9 +3122,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a69439cd-9588-48f9-bdc5-0ab3bdfa84ce)
-    (property "Reference" "SW?" (id 0) (at 210.82 100.33 0))
+    (property "Reference" "SW52" (id 0) (at 210.82 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 102.87 0))
-    (property "Footprint" "" (id 2) (at 210.82 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 107.95 0)
@@ -3137,9 +3137,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a6dd8b54-8bea-4d93-a47b-ec28fafb4783)
-    (property "Reference" "SW?" (id 0) (at 236.22 144.78 0))
+    (property "Reference" "SW62" (id 0) (at 236.22 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 147.32 0))
-    (property "Footprint" "" (id 2) (at 236.22 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 152.4 0)
@@ -3152,9 +3152,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ac648043-336b-4157-b719-8038f4f5615b)
-    (property "Reference" "SW?" (id 0) (at 368.3 144.78 0))
+    (property "Reference" "SW102" (id 0) (at 368.3 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 147.32 0))
-    (property "Footprint" "" (id 2) (at 368.3 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 152.4 0)
@@ -3167,9 +3167,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid af47600a-154f-4528-bda2-e936a70f352c)
-    (property "Reference" "SW?" (id 0) (at 210.82 144.78 0))
+    (property "Reference" "SW54" (id 0) (at 210.82 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 147.32 0))
-    (property "Footprint" "" (id 2) (at 210.82 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 152.4 0)
@@ -3182,9 +3182,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b47b0e7e-ea09-493e-993d-213a09418ca3)
-    (property "Reference" "SW?" (id 0) (at 342.9 123.19 0))
+    (property "Reference" "SW93" (id 0) (at 342.9 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 125.73 0))
-    (property "Footprint" "" (id 2) (at 342.9 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 130.81 0)
@@ -3197,9 +3197,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b4ac7007-3d1a-462b-b85b-e010decbd5b2)
-    (property "Reference" "SW?" (id 0) (at 368.3 187.96 0))
+    (property "Reference" "SW104" (id 0) (at 368.3 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 190.5 0))
-    (property "Footprint" "" (id 2) (at 368.3 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 195.58 0)
@@ -3212,9 +3212,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b5703b30-6b23-42a6-a2f4-d31dd8c9d6b4)
-    (property "Reference" "SW?" (id 0) (at 157.48 57.15 0))
+    (property "Reference" "SW34" (id 0) (at 157.48 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 59.69 0))
-    (property "Footprint" "" (id 2) (at 157.48 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 64.77 0)
@@ -3227,9 +3227,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b6525903-2efd-4b80-92fc-981a6b8007b1)
-    (property "Reference" "SW?" (id 0) (at 130.81 144.78 0))
+    (property "Reference" "SW30" (id 0) (at 130.81 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 147.32 0))
-    (property "Footprint" "" (id 2) (at 130.81 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 152.4 0)
@@ -3242,9 +3242,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b84a99f8-28d3-4c4e-9e25-3e011e89e94f)
-    (property "Reference" "SW?" (id 0) (at 157.48 187.96 0))
+    (property "Reference" "SW40" (id 0) (at 157.48 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 190.5 0))
-    (property "Footprint" "" (id 2) (at 157.48 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 195.58 0)
@@ -3257,9 +3257,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b9003e4a-40c7-455d-bcf5-b25730368bb2)
-    (property "Reference" "SW?" (id 0) (at 368.3 100.33 0))
+    (property "Reference" "SW100" (id 0) (at 368.3 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 102.87 0))
-    (property "Footprint" "" (id 2) (at 368.3 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 107.95 0)
@@ -3272,9 +3272,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bb00df15-ff04-43ad-81ae-94a4517c0cf4)
-    (property "Reference" "SW?" (id 0) (at 52.07 187.96 0))
+    (property "Reference" "SW8" (id 0) (at 52.07 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 190.5 0))
-    (property "Footprint" "" (id 2) (at 52.07 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 195.58 0)
@@ -3287,9 +3287,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bdbe5c16-cc36-42e3-a259-571afa16bcf0)
-    (property "Reference" "SW?" (id 0) (at 262.89 144.78 0))
+    (property "Reference" "SW70" (id 0) (at 262.89 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 147.32 0))
-    (property "Footprint" "" (id 2) (at 262.89 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 152.4 0)
@@ -3302,9 +3302,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid befb92c2-53cf-4ff5-868b-c0d92bf84d3b)
-    (property "Reference" "SW?" (id 0) (at 262.89 78.74 0))
+    (property "Reference" "SW67" (id 0) (at 262.89 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 81.28 0))
-    (property "Footprint" "" (id 2) (at 262.89 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 86.36 0)
@@ -3317,9 +3317,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c3e2fd2a-4b42-4835-8ccb-c0ad8493103d)
-    (property "Reference" "SW?" (id 0) (at 78.74 123.19 0))
+    (property "Reference" "SW13" (id 0) (at 78.74 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 125.73 0))
-    (property "Footprint" "" (id 2) (at 78.74 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 130.81 0)
@@ -3332,9 +3332,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c5088851-b192-4c98-906a-f6638ed4a7ff)
-    (property "Reference" "SW?" (id 0) (at 262.89 35.56 0))
+    (property "Reference" "SW65" (id 0) (at 262.89 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 38.1 0))
-    (property "Footprint" "" (id 2) (at 262.89 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 43.18 0)
@@ -3347,9 +3347,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 262.89 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c9d16be1-e1ff-4620-8d3e-a2dad2d07dc9)
-    (property "Reference" "SW?" (id 0) (at 262.89 57.15 0))
+    (property "Reference" "SW66" (id 0) (at 262.89 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 59.69 0))
-    (property "Footprint" "" (id 2) (at 262.89 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 64.77 0)
@@ -3362,9 +3362,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cb87baf3-6302-4158-bec6-a5fb2060cfdc)
-    (property "Reference" "SW?" (id 0) (at 52.07 78.74 0))
+    (property "Reference" "SW3" (id 0) (at 52.07 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 81.28 0))
-    (property "Footprint" "" (id 2) (at 52.07 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 86.36 0)
@@ -3377,9 +3377,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d107a214-46a4-4021-93e3-9097beb7d1a7)
-    (property "Reference" "SW?" (id 0) (at 78.74 78.74 0))
+    (property "Reference" "SW11" (id 0) (at 78.74 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 81.28 0))
-    (property "Footprint" "" (id 2) (at 78.74 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 86.36 0)
@@ -3392,9 +3392,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 52.07 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d110a327-5eab-44ec-ac0c-c0fa4233b551)
-    (property "Reference" "SW?" (id 0) (at 52.07 144.78 0))
+    (property "Reference" "SW6" (id 0) (at 52.07 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 147.32 0))
-    (property "Footprint" "" (id 2) (at 52.07 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 152.4 0)
@@ -3407,9 +3407,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 210.82 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d1aa0a6c-b2ee-48c8-a2b0-66996a4b7212)
-    (property "Reference" "SW?" (id 0) (at 210.82 187.96 0))
+    (property "Reference" "SW56" (id 0) (at 210.82 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 190.5 0))
-    (property "Footprint" "" (id 2) (at 210.82 195.58 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 195.58 0)
@@ -3422,9 +3422,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d244cb4b-6fdc-4eae-8b5f-64ee308f6ce7)
-    (property "Reference" "SW?" (id 0) (at 236.22 57.15 0))
+    (property "Reference" "SW58" (id 0) (at 236.22 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 59.69 0))
-    (property "Footprint" "" (id 2) (at 236.22 64.77 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 64.77 0)
@@ -3437,9 +3437,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d341944c-c60a-48ad-a6ac-5bc440b9b7a3)
-    (property "Reference" "SW?" (id 0) (at 316.23 166.37 0))
+    (property "Reference" "SW87" (id 0) (at 316.23 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 168.91 0))
-    (property "Footprint" "" (id 2) (at 316.23 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 173.99 0)
@@ -3452,9 +3452,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 368.3 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e893eebf-7fb5-4bc4-8be3-4db97ea7938c)
-    (property "Reference" "SW?" (id 0) (at 368.3 166.37 0))
+    (property "Reference" "SW103" (id 0) (at 368.3 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 168.91 0))
-    (property "Footprint" "" (id 2) (at 368.3 173.99 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 173.99 0)
@@ -3467,9 +3467,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 342.9 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8abde90-ab7e-4df3-abc3-9d50cf30b88c)
-    (property "Reference" "SW?" (id 0) (at 342.9 100.33 0))
+    (property "Reference" "SW92" (id 0) (at 342.9 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 102.87 0))
-    (property "Footprint" "" (id 2) (at 342.9 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 107.95 0)
@@ -3482,9 +3482,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ec1a2a84-7467-47a2-a822-a96bb90e7872)
-    (property "Reference" "SW?" (id 0) (at 316.23 123.19 0))
+    (property "Reference" "SW85" (id 0) (at 316.23 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 125.73 0))
-    (property "Footprint" "" (id 2) (at 316.23 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 130.81 0)
@@ -3497,9 +3497,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ec43d550-0a0d-4254-9e19-63fc0cd3f6bc)
-    (property "Reference" "SW?" (id 0) (at 236.22 123.19 0))
+    (property "Reference" "SW61" (id 0) (at 236.22 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 125.73 0))
-    (property "Footprint" "" (id 2) (at 236.22 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 130.81 0)
@@ -3512,9 +3512,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eded1802-62b3-48e6-b4da-302d3d31ba52)
-    (property "Reference" "SW?" (id 0) (at 78.74 35.56 0))
+    (property "Reference" "SW9" (id 0) (at 78.74 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 38.1 0))
-    (property "Footprint" "" (id 2) (at 78.74 43.18 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 43.18 0)
@@ -3527,9 +3527,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 236.22 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f06daaf9-f380-496f-9e0a-aa054218b4a7)
-    (property "Reference" "SW?" (id 0) (at 236.22 78.74 0))
+    (property "Reference" "SW59" (id 0) (at 236.22 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 81.28 0))
-    (property "Footprint" "" (id 2) (at 236.22 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 86.36 0)
@@ -3542,9 +3542,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 157.48 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f2c5f095-49b1-4092-a437-ec7d56ed53b1)
-    (property "Reference" "SW?" (id 0) (at 157.48 100.33 0))
+    (property "Reference" "SW36" (id 0) (at 157.48 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 102.87 0))
-    (property "Footprint" "" (id 2) (at 157.48 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 107.95 0)
@@ -3557,9 +3557,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 316.23 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f66761f0-35dd-449c-9b3f-9b606862ec22)
-    (property "Reference" "SW?" (id 0) (at 316.23 144.78 0))
+    (property "Reference" "SW86" (id 0) (at 316.23 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 147.32 0))
-    (property "Footprint" "" (id 2) (at 316.23 152.4 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 152.4 0)
@@ -3572,9 +3572,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 130.81 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f6cd31aa-6764-4af1-9781-30444b8b5980)
-    (property "Reference" "SW?" (id 0) (at 130.81 78.74 0))
+    (property "Reference" "SW27" (id 0) (at 130.81 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 81.28 0))
-    (property "Footprint" "" (id 2) (at 130.81 86.36 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 86.36 0)
@@ -3587,9 +3587,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f9297c4d-297e-431b-bdcb-fd4bc5c946e9)
-    (property "Reference" "SW?" (id 0) (at 105.41 123.19 0))
+    (property "Reference" "SW21" (id 0) (at 105.41 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 125.73 0))
-    (property "Footprint" "" (id 2) (at 105.41 130.81 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 130.81 0)
@@ -3602,9 +3602,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 105.41 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid faf1c224-6c02-40f5-ba0d-299c2e40b04e)
-    (property "Reference" "SW?" (id 0) (at 105.41 100.33 0))
+    (property "Reference" "SW20" (id 0) (at 105.41 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 102.87 0))
-    (property "Footprint" "" (id 2) (at 105.41 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 107.95 0)
@@ -3617,9 +3617,9 @@
   (symbol (lib_id "Switch:SW_DIP_x01") (at 78.74 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fe1b3bb1-e9c2-4d5c-99bc-3f611fd6af4d)
-    (property "Reference" "SW?" (id 0) (at 78.74 100.33 0))
+    (property "Reference" "SW12" (id 0) (at 78.74 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 102.87 0))
-    (property "Footprint" "" (id 2) (at 78.74 107.95 0)
+    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 107.95 0)
@@ -3793,590 +3793,1569 @@
     (path "/" (page "1"))
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1" (page "2"))
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485" (page "3"))
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8" (page "4"))
   )
 
   (symbol_instances
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1c96fb1a-816b-4937-b0f2-19c22d6d5200"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/3038117d-5aa1-4ed3-b6be-7135f2a0bba6"
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1db9a1da-ce57-4844-bdab-c12c3cad5196"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8bca934f-18fc-4d13-b11d-6a0413e6844d"
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1f0cfb95-730d-4043-8baa-1800ff7e0ca7"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1f6144b1-4286-4293-b4d6-b174fee94260"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/33d83eb8-a3ad-4aab-ba50-8f415f1437af"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4602cfee-b767-4eac-b57d-d32d02e4b24c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/49c99316-771a-4d89-912a-7f1580eb8431"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4c983542-41b5-4e56-94bc-9155665b3ec3"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4d847998-1237-4faa-8ff5-45c6edc22cf9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/55c61934-1dba-48ed-835b-12039ef9ba1a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5e45d272-2275-4462-b25b-6fb6f9ce79ae"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/7678549a-b100-43a1-a5ae-1e2ec9d2c7e3"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8974272a-9a9a-41bf-b30d-43ca8ff0bf03"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8ce8488f-b655-4f0d-bd28-47d11af3e2fb"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9f908240-52dd-45cf-a283-aa3d288e4169"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a00050db-18c1-4736-a451-331c36c3a102"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a23bb19e-cf7e-49dd-ba20-2b58c4a0cdaa"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a2614f17-30d3-4ea5-961c-8f56a3d3d635"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a8aad9a4-b905-42ea-a506-c8f32ae3d6c8"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/18303ccd-dfd7-41ed-96e1-6b37be4c8e69"
+      (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aee9babb-cd8b-4b48-ba9a-8f12a2c547f8"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+      (reference "#PWR01") (unit 1) (value "VBUS") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b1f2b439-5d5d-4c62-9102-b6f215989c8f"
-      (reference "#PWR?") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b806580f-80a8-4636-b816-9de86dbbd3fc"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ba99ab3b-ab04-42f1-bdeb-1249dc598c4c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c166788f-d628-41d0-8ddb-05505d3276f0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c8117c83-d8c2-4610-b65b-07b0a69eb0b1"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/cbd97935-f2e9-4041-bc61-393f4ae8e3e0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/d690fb03-b0a4-485f-afe2-aeda27547596"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/dfcb81de-5fae-45eb-9f9f-651d8b7c83b9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e5e993bb-8f28-4039-bc30-16acf7dffaf0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ebf6df76-7541-4cfb-ba2d-1012d19dd58c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/55c61934-1dba-48ed-835b-12039ef9ba1a"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f3c7c4a5-d619-4ef9-b799-06ce472b2e74"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f4529a1b-4d8a-4b7c-b174-5891da77815a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b806580f-80a8-4636-b816-9de86dbbd3fc"
+      (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f6239279-7a3a-4856-b642-0946ed63690d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b1f2b439-5d5d-4c62-9102-b6f215989c8f"
+      (reference "#PWR05") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fa6276b9-d79b-4f1e-a24d-363bd9cfd8e7"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1f6144b1-4286-4293-b4d6-b174fee94260"
+      (reference "#PWR06") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fb1906e6-cc55-4cba-a220-83d48f6bf68b"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/49c99316-771a-4d89-912a-7f1580eb8431"
+      (reference "#PWR07") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fc078fe5-c0fd-4928-9b51-3ad7ace3302b"
+      (reference "#PWR08") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/d690fb03-b0a4-485f-afe2-aeda27547596"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1db9a1da-ce57-4844-bdab-c12c3cad5196"
+      (reference "#PWR010") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a00050db-18c1-4736-a451-331c36c3a102"
+      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fecc99a2-b45c-457d-869c-fa72ee3c6f2d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/11fed8e5-5fb0-4411-826e-77406c80e7bd"
-      (reference "C?") (unit 1) (value "2.2u") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a9ecc446-9d07-4f25-8dd8-0d8fdaea81e1"
+      (reference "#PWR013") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/3ba861e6-2da8-4563-bab5-fe00ad08ce06"
-      (reference "C?") (unit 1) (value "1u") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1c96fb1a-816b-4937-b0f2-19c22d6d5200"
+      (reference "#PWR014") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/48b360ce-0a8e-47e2-b7b3-ed76afa25553"
-      (reference "C?") (unit 1) (value "22p") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a23bb19e-cf7e-49dd-ba20-2b58c4a0cdaa"
+      (reference "#PWR015") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5a0414fb-7659-42d1-953b-9392dee32d2a"
-      (reference "C?") (unit 1) (value "100n") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4c983542-41b5-4e56-94bc-9155665b3ec3"
+      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/626b75e9-3ee5-4480-ab77-93f67205bdc0"
-      (reference "C?") (unit 1) (value "4.7u") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ebf6df76-7541-4cfb-ba2d-1012d19dd58c"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ba99ab3b-ab04-42f1-bdeb-1249dc598c4c"
+      (reference "#PWR018") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/7678549a-b100-43a1-a5ae-1e2ec9d2c7e3"
+      (reference "#PWR019") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fb1906e6-cc55-4cba-a220-83d48f6bf68b"
+      (reference "#PWR020") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5e45d272-2275-4462-b25b-6fb6f9ce79ae"
+      (reference "#PWR021") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c166788f-d628-41d0-8ddb-05505d3276f0"
+      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8ce8488f-b655-4f0d-bd28-47d11af3e2fb"
+      (reference "#PWR023") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a8aad9a4-b905-42ea-a506-c8f32ae3d6c8"
+      (reference "#PWR024") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8974272a-9a9a-41bf-b30d-43ca8ff0bf03"
+      (reference "#PWR025") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4602cfee-b767-4eac-b57d-d32d02e4b24c"
+      (reference "#PWR026") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a2614f17-30d3-4ea5-961c-8f56a3d3d635"
+      (reference "#PWR027") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f4529a1b-4d8a-4b7c-b174-5891da77815a"
+      (reference "#PWR028") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fa6276b9-d79b-4f1e-a24d-363bd9cfd8e7"
+      (reference "#PWR029") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/cbd97935-f2e9-4041-bc61-393f4ae8e3e0"
+      (reference "#PWR030") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/4d847998-1237-4faa-8ff5-45c6edc22cf9"
+      (reference "#PWR031") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1f0cfb95-730d-4043-8baa-1800ff7e0ca7"
+      (reference "#PWR032") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/33d83eb8-a3ad-4aab-ba50-8f415f1437af"
+      (reference "#PWR033") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f6239279-7a3a-4856-b642-0946ed63690d"
+      (reference "#PWR034") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9f908240-52dd-45cf-a283-aa3d288e4169"
+      (reference "#PWR035") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c8117c83-d8c2-4610-b65b-07b0a69eb0b1"
+      (reference "#PWR036") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e5e993bb-8f28-4039-bc30-16acf7dffaf0"
+      (reference "#PWR037") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/dfcb81de-5fae-45eb-9f9f-651d8b7c83b9"
+      (reference "#PWR038") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/01e03224-5c4e-4ae9-8628-4fe2df627623"
+      (reference "#PWR039") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/105218b4-c889-41c5-a46c-80b670b89314"
+      (reference "#PWR040") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1e52dc98-3bbb-4484-a141-60947f103160"
+      (reference "#PWR041") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8c1dc077-fcb5-4aee-9c33-0e82acd821e8"
+      (reference "#PWR042") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4e5ce8c8-6f3a-49ad-9df2-1a127c1ee84e"
+      (reference "#PWR043") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3a043014-07cb-4154-9f92-bd192541b737"
+      (reference "#PWR044") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/939dfade-ebcc-4200-8088-65142be535ee"
+      (reference "#PWR045") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f30be132-07f9-4c3f-8dfa-20239f3ff17d"
+      (reference "#PWR046") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/99e5b7d9-c972-41f4-829b-d39eb59939eb"
+      (reference "#PWR047") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4cc89933-1f79-4f45-9ae2-d39056a4de12"
+      (reference "#PWR048") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f53da0b1-73f0-46b5-a97f-2d8a2b4f0019"
+      (reference "#PWR049") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c8a3f6c9-e526-4db3-8c23-7e4bfd5a2e53"
+      (reference "#PWR050") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1f34ee50-8cd1-4bab-9034-cf8f31639a2f"
+      (reference "#PWR051") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cd9ac5ad-7b94-4d75-afb5-80e07a014efb"
+      (reference "#PWR052") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/44de044d-8eb1-4ccd-a47a-b0ca3ed44dde"
+      (reference "#PWR053") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c69b794f-d080-4efd-a4a0-c62eef722573"
+      (reference "#PWR054") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ca379c63-49c6-4268-a9d1-3329630d2c9e"
+      (reference "#PWR055") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f8721a4d-2399-4a12-812e-fd2958d6065f"
+      (reference "#PWR056") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2f65f458-2738-43a4-b1e1-9eca3f55660d"
+      (reference "#PWR057") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/407dd0ad-7802-48a6-94d4-7804b13706a2"
+      (reference "#PWR058") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4a1ebb8-f7e4-4b6f-992a-8019b7057fb1"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c0c4bd11-95ad-42f2-8c44-778455c7bcb7"
+      (reference "#PWR060") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2f1281cd-c979-4ecf-9e70-8745f5d3dff0"
+      (reference "#PWR061") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/aa820331-e6e4-4a14-86da-cc76cf715674"
+      (reference "#PWR062") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/44c54b1c-f012-4484-bbd4-b5f1bbbc5dab"
+      (reference "#PWR063") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b54da54c-429c-4d85-a623-3d43d1ff0925"
+      (reference "#PWR064") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/18b5d18d-a4ab-4602-aff9-9ccc6d439d8d"
+      (reference "#PWR065") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d80dd903-79a1-45c6-bcff-53e31e23feb3"
+      (reference "#PWR066") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fba1398c-17cc-453d-90fd-1b2b62723170"
+      (reference "#PWR067") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4e9a4660-620e-46f4-9f8c-adb7aa41862f"
+      (reference "#PWR068") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7d8bcbe9-2ee8-4796-b04b-94b872bfe496"
+      (reference "#PWR069") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c2cfe3f0-cdec-4a2a-b018-9bd1f0b3bdd8"
+      (reference "#PWR070") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1ff60e36-66d7-42b0-88a8-be02702a8406"
+      (reference "#PWR071") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7cd0e105-1921-4889-9d8a-b874cf5d3051"
+      (reference "#PWR072") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0e1a0979-dd13-4872-beb1-75f37dce85c3"
+      (reference "#PWR073") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/874edc43-6068-44c9-8e8b-c35f038264e8"
+      (reference "#PWR074") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/acb9ef4a-035b-46b2-9273-198eb00acbd7"
+      (reference "#PWR075") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a8debd4a-b002-4878-9eb5-567f8c0fcf11"
+      (reference "#PWR076") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6c8650a0-59dc-4dc2-85ac-d660b6058028"
+      (reference "#PWR077") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/27653e94-9dd7-4769-ada8-a6da1509d5d0"
+      (reference "#PWR078") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5c815fc5-cc04-4b1f-9842-972ae489e6a2"
+      (reference "#PWR079") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8298b079-1c60-42b6-83cb-8c9b95765dd6"
+      (reference "#PWR080") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f42e594-b7b2-4e2c-8401-d39c1a2e68dc"
+      (reference "#PWR081") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f8ba15b-55ea-4436-a953-7fd34cbc2666"
+      (reference "#PWR082") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5d81bafc-1d63-4689-8676-754231201329"
+      (reference "#PWR083") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d291001c-b4d7-4639-836c-3f2709034bc0"
+      (reference "#PWR084") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a01c3163-1c80-4c34-8eb8-9e1d232387c5"
+      (reference "#PWR085") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7f994ed4-858f-4b42-a53a-13211927d7de"
+      (reference "#PWR086") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/390df583-4650-4f93-aa0f-b644e7aca749"
+      (reference "#PWR087") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4221d61c-b002-4ddf-8a38-ba81cfc2149f"
+      (reference "#PWR088") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/77c4b69e-e979-4e99-ad8d-3fc76c084495"
+      (reference "#PWR089") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8a0442b9-b438-4bd4-97db-f25f61e463f1"
+      (reference "#PWR090") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/17f7e850-49e5-429b-a2f0-4741ea584055"
+      (reference "#PWR091") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f8576389-40b9-4120-9ad8-c425a6c69f36"
+      (reference "#PWR092") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c853dd5b-d052-4301-a11d-3796b0ef532d"
+      (reference "#PWR093") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b4d70ae0-7dfd-4958-9af1-6efc504c7bfb"
+      (reference "#PWR094") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/37482a9b-4e3f-4011-9a7f-9cd3d57ded74"
+      (reference "#PWR095") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/13adbdda-dbaf-45b6-a04c-2692cb48938f"
+      (reference "#PWR096") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6d9fb6dc-b168-45a6-bd0d-0f497dda0c50"
+      (reference "#PWR097") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8f1854b0-1566-479a-bf8b-579a18e36a2e"
+      (reference "#PWR098") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/76528891-55fd-499c-9e61-8a8f30bf4754"
+      (reference "#PWR099") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2fed9b89-7f54-4247-83ec-dc9254c3af31"
+      (reference "#PWR0100") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b7b1b377-92c9-494d-8a15-33de916c28f7"
+      (reference "#PWR0101") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9ea16443-a736-4649-8ca3-d7b8fd6ef8cf"
+      (reference "#PWR0102") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/12dd68a5-9f6c-4320-85e1-6deebf886719"
+      (reference "#PWR0103") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b878ae01-314a-472b-af50-e75eba168281"
+      (reference "#PWR0104") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/05b75678-4327-49db-ae72-8169c1753b31"
+      (reference "#PWR0105") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/12064a7f-34ce-437c-a20a-101d889f51a6"
+      (reference "#PWR0106") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/96baca18-000e-4da3-83e1-6af57f2249a5"
+      (reference "#PWR0107") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9821ef8c-5d8b-4fd6-bb83-51db448e01fd"
+      (reference "#PWR0108") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/09bd1c42-2d38-4394-ab96-8cb568f7caa8"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ca92478d-e67b-444d-a998-d747ab0d4bb5"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/45599949-a5ba-4ecd-8895-c0c180c1604d"
+      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/270f2688-a9fe-48fa-bd69-e3e5a09b491c"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/27e4f6f2-97f3-43eb-b793-c7a276aa1bf5"
+      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/aa0218c5-0248-4f70-b2ad-49f581a91cb5"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f6f671f-fdd8-41ff-b9d2-0d9cf48d0848"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/836585c5-b02a-4f16-ae48-d4d041aa033c"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f91dac61-3a35-4c6d-90df-61332648dbf1"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2919fe88-fe92-4adf-93ca-8f7dfda3f82a"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7b1198a0-c6da-4dd2-b7be-9b45eb389168"
+      (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5623dc57-c673-4c51-8e40-62669fea550f"
+      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/da2ced81-bfc1-44d2-a3d3-f72e0db4ce07"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/158f7fe7-abb3-4c97-b938-788224dcea2a"
+      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fea95752-98cd-48f4-a078-6be5a4232002"
+      (reference "#PWR0123") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/00fa0318-0063-4983-a106-ac6129e08771"
+      (reference "#PWR0124") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/87e65532-f55f-412c-b194-e16bc2ea1ed3"
+      (reference "#PWR0125") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/776adb95-8ecb-479b-9f85-a23d58a4b690"
+      (reference "#PWR0126") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2ded5c1b-d841-44f3-bd75-b416932c603d"
+      (reference "#PWR0127") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4ce7545-52f2-43d5-957b-6713c53df4f3"
+      (reference "#PWR0128") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9de31731-2086-4f6b-9439-4572fd371311"
+      (reference "#PWR0129") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9ae6180a-acaa-49c5-a9e9-140aa9384ec0"
+      (reference "#PWR0130") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5d9bed00-efbd-4762-80c0-7ff99eba3c4d"
+      (reference "#PWR0131") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ff774182-cec5-49b2-abbd-44fbbe652853"
+      (reference "#PWR0132") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/748fc589-8df8-43a1-aaf3-58e0bb77fb74"
+      (reference "#PWR0133") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5d442452-c90b-4c62-8175-eb852b74753f"
+      (reference "#PWR0134") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9c6dd518-104c-480e-9f99-5f03f0a46ad8"
+      (reference "#PWR0135") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7fa17826-fd52-4040-b5aa-d13e7438e9ae"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9eda37f9-5a6c-404b-9e70-fba201f8df66"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/151b5c4e-609e-4ce4-988d-d6dad9681369"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3dc59a95-c44a-43ab-9472-a653bdcdde60"
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/30b4776e-141c-42d4-9892-cd9ac70c06bc"
+      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ced2e9f9-950f-4275-90bb-71eabe157e7e"
+      (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a6bfee5a-e8c9-46aa-860c-0ff50442db0d"
+      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f191ac1d-b9e7-4cc2-bc7e-c52d90b74c57"
+      (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d01318e1-811d-4666-93c2-07bab7d6c120"
+      (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cbf4e8ca-db3f-4c5d-b375-40b71325cd39"
+      (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/36550480-2bbc-4992-acb7-e7264f0dbead"
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/39f322d2-122b-449f-84ad-54d7465f039c"
+      (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/71c90b68-1f39-4ca2-b85d-3c9bc2a73f0d"
+      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/00dd9215-34d0-4a72-8a4f-0cfc181bdcd9"
+      (reference "#PWR0149") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fe69342b-43a8-408f-b02e-6858ef9e03a9"
+      (reference "#PWR0150") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/34fc57bc-0d8d-461b-8286-d42b46672eb8"
+      (reference "#PWR0151") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1051b7cc-4db3-482a-8e06-91e529f76a16"
+      (reference "#PWR0152") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e21a9297-f548-4d15-a5bb-cf362fa7b277"
+      (reference "#PWR0153") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/edb87abb-b097-4ef2-93a6-e2ee784afcb7"
+      (reference "#PWR0154") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/971b7cd3-a5d1-40bb-a3e5-dd28b4237d61"
+      (reference "#PWR0155") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f0481c6a-2800-480a-a737-9396bb136114"
+      (reference "#PWR0156") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7ca0fc78-6111-4825-b6e1-e9b90b62eccd"
+      (reference "#PWR0157") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/530f5549-e50c-4aa0-9d2a-fb1b3e182de1"
+      (reference "#PWR0158") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d2a0037d-eac4-425a-9468-9ce788c5260e"
+      (reference "#PWR0159") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/dc417f9d-0f72-4947-bc3d-053f4be1f448"
+      (reference "#PWR0160") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e95443a7-27f3-4af1-b263-1a756c0ea71b"
+      (reference "#PWR0161") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0bc2b9a5-fc90-4656-ab12-1415502d7c20"
+      (reference "#PWR0162") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/06976115-3693-49f4-bcb5-0fd6e7a76b06"
+      (reference "#PWR0163") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/324c95f2-687e-4e8d-a57a-07cee0a15f5f"
+      (reference "#PWR0164") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6aa8474a-d8da-4251-bcb4-0fa4a4ab6d8f"
+      (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/93ca7b0e-fd9b-4669-bf41-23c9ab665e1a"
+      (reference "#PWR0166") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0bb8f13a-deb3-4b26-9787-4ec6263dc719"
+      (reference "#PWR0167") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/825aca82-34ba-45b2-bb42-165a29a28534"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e18c1e09-8f2d-4753-aff2-b42d6c9edb11"
+      (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/da52a4a8-a473-4c19-8fb7-cedfc666047f"
+      (reference "#PWR0170") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5aea11d6-fe5e-4dde-ae0b-26140f0ed76d"
+      (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3d0f06c4-82de-40c4-b063-0870a2cb8da3"
+      (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fc65bec7-202f-44f5-83d6-895e62e6b2f6"
+      (reference "#PWR0173") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c0dc2f0e-d064-4212-bc14-0c0c57668a2d"
+      (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/776ad856-ae20-4416-afb6-9d0985c43dcb"
+      (reference "#PWR0175") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/13f0cfbe-0c07-492a-97f9-0a06811142a2"
+      (reference "#PWR0176") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f4549fa7-a3c8-45d0-843e-5443b2a49789"
+      (reference "#PWR0177") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/08709af9-c0ff-4770-9035-7037d69d1ec6"
+      (reference "#PWR0178") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f173a6c3-a38a-4ca3-9c59-964e38246f9c"
+      (reference "#PWR0179") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/62f1831e-b4eb-41d8-9dc1-740ab02d0e4e"
+      (reference "#PWR0180") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0160e2d5-aeaf-4ddf-bc8e-37c1e2bd7e02"
+      (reference "#PWR0181") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/69d29bb6-a172-494c-b144-37c53e0ea817"
+      (reference "#PWR0182") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f027fbe6-751c-44d6-8e39-d048c0e3042d"
+      (reference "#PWR0183") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5f20da60-42dc-404d-b2d1-7faa34815cbc"
+      (reference "#PWR0184") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8afd7022-d287-41d0-841f-6c2374940da5"
+      (reference "#PWR0185") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ad19f8f8-fd40-47b5-b4f2-db261a47d5b8"
+      (reference "#PWR0186") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/703a4550-3ddd-43f8-a3b2-f5df27dda1a9"
+      (reference "#PWR0187") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/89daf006-6c2c-4912-88a4-f7303984dcc4"
+      (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1d2b614b-2d7b-4d7f-8d41-8c35a5bdc437"
+      (reference "#PWR0189") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c23aa635-39c0-4ec1-b289-34e58d1f09f0"
+      (reference "#PWR0190") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d126932d-c4fb-45d4-8001-5a4a75eb215f"
+      (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/86fc1a13-aaba-4886-9497-2a64a6e69927"
+      (reference "#PWR0192") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/98bd1ce5-235e-4bce-a424-5bcd764d7507"
+      (reference "#PWR0193") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5f8ff61f-e00c-4aef-8b84-bef265fa8e4d"
+      (reference "#PWR0194") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fbadc29b-4e17-4ec8-8336-e2dd60fc3f0f"
+      (reference "#PWR0195") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/16a2c1b4-fbcc-4090-8bc7-2ce24a686f08"
+      (reference "#PWR0196") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/eded1d71-52f3-4c2e-aa14-d677d0d5bd74"
+      (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/69e1193c-2043-4129-adad-a9bca5752bac"
+      (reference "#PWR0198") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2575a7e6-eef8-41d2-bb0b-9d4e16273821"
+      (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9130c967-1282-48e5-98ce-44b82b1a170d"
+      (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f756c8b9-98e3-41f4-91d5-695cea05adee"
+      (reference "#PWR0201") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/49ddbe4b-9b15-4952-b021-8c235154c9e5"
+      (reference "#PWR0202") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1e3a53e5-9ece-44d8-82b6-e89afdc2b048"
+      (reference "#PWR0203") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/71686e1a-033f-472f-a2d1-28c0d065f7ee"
+      (reference "#PWR0204") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2d1c0112-5e16-4a7a-9260-afd934271531"
+      (reference "#PWR0205") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c1d4c171-8696-41b8-9b66-ff8440482bac"
+      (reference "#PWR0206") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/53c4dbe2-30ea-40e3-b674-9ac24262a851"
+      (reference "#PWR0207") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/89d5b81e-7180-42ed-8b1e-d4f6e73652a7"
+      (reference "#PWR0208") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f56c5a5-c564-41cb-bfd8-1e9bb410fb94"
+      (reference "#PWR0209") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9e415372-ffe2-482d-adca-1379717b8e26"
+      (reference "#PWR0210") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/288a05c1-a37f-4ec7-8682-d21121f44e92"
+      (reference "#PWR0211") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8206d914-3fae-4ab8-b3ed-b009b42b581b"
+      (reference "#PWR0212") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/247b944e-79e3-4913-ab7c-4d7b524cc948"
+      (reference "#PWR0213") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/47ca9551-f299-4eb0-b1df-6009f2d9cb82"
+      (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ba44e715-92bc-4176-9b19-94050207dc52"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0f876e49-7f8e-403e-bef3-55bb05e3c272"
+      (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b85ccbaf-9065-425c-b33b-35114b3e2f2b"
+      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f2538572-f3f3-4f54-8cfb-108bdb5a84a4"
+      (reference "#PWR0218") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/968ab718-d314-4a13-a292-8361888fcd47"
+      (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/37abdb2d-0115-4a92-b429-d9b1ed5a1b3d"
+      (reference "#PWR0220") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/31aa9d6a-acf2-4682-a143-2755ed281661"
+      (reference "#PWR0221") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0755b90a-746b-4503-a5a8-56ef5785c4ce"
+      (reference "#PWR0222") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0e305f12-fd6f-4a9c-9e4e-c7a85baae043"
+      (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9206b2da-3f22-4a69-a2ec-422efc861f8c"
+      (reference "#PWR0224") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/90e29e19-fff4-474d-a46d-9265509113e6"
+      (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e45d4960-d4d8-460f-a291-345b0b4c7e64"
+      (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c0877ca1-4897-4dd9-9b78-ea63515883e7"
+      (reference "#PWR0227") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b00f7605-8b13-4c13-bf20-8a3ca52740ed"
+      (reference "#PWR0228") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6d54cd02-666c-4bd1-a78d-fa7603a4d10f"
+      (reference "#PWR0229") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7971b97f-b191-4ac8-bde0-875b6541ae66"
+      (reference "#PWR0230") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/49326e10-b613-46ed-b054-0a7cc4f14371"
+      (reference "#PWR0231") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e62f5a6e-dace-4e72-814d-f24c35a559d8"
+      (reference "#PWR0232") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1882dc20-1649-4fb0-91a5-83c9bf5e7696"
+      (reference "#PWR0233") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f0a3414e-2516-45fa-8c48-8b8f5b3cfcb0"
+      (reference "#PWR0234") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/66e66604-aba2-43d1-9666-fbf85a068c36"
+      (reference "#PWR0235") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f877e208-5f94-4229-8f7b-2a4a711f7f50"
+      (reference "#PWR0236") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4d103a5-26ad-4746-8e5f-cbf20439865c"
+      (reference "#PWR0237") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/30920b31-f545-4e67-a768-866f9af83976"
+      (reference "#PWR0238") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d250ad8c-140f-483e-8cf0-4220bfcbe47d"
+      (reference "#PWR0239") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6484d24f-38eb-424e-8bcf-faa717bc253e"
+      (reference "#PWR0240") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cbb63190-ad2d-4749-a60d-fbcd2858ffec"
+      (reference "#PWR0241") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/bcbfcc8d-fbc7-4950-9aab-ef4cd63fd539"
+      (reference "#PWR0242") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/74ce15a8-0bc3-4097-9a2b-16a3b7b6d67c"
+      (reference "#PWR0243") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/da8f54a7-c7c7-4e60-910b-6f779439a120"
+      (reference "#PWR0244") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/90ccb18f-f50f-4d43-909d-6d8d3061d866"
+      (reference "#PWR0245") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c59dfcb7-e2f6-41c1-8c6b-213bc3274b8d"
+      (reference "#PWR0246") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b53523c7-b4da-4058-90d0-a5b8f11d3b9a"
+      (reference "#PWR0247") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/372c5133-2844-4bb1-9d73-1149655dda62"
+      (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b3abd843-f5b8-4dfe-967a-9143a08dd3f1"
+      (reference "#PWR0249") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/37b39705-3ad2-4d15-a1c9-154c3dc307cf"
+      (reference "#PWR0250") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3a8ec8a6-7b59-4c96-8a01-bcc8d5c616ef"
+      (reference "#PWR0251") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5070c3a4-b0b5-4958-af3b-7e68f623dc21"
+      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/917033a0-4769-4bae-8967-5b2bebee1e29"
-      (reference "C?") (unit 1) (value "1u") (footprint "")
+      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/3ba861e6-2da8-4563-bab5-fe00ad08ce06"
+      (reference "C2") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fa135c27-276c-42d8-a7d7-d2aa6c4e0f0c"
-      (reference "C?") (unit 1) (value "22p") (footprint "")
+      (reference "C3") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/84a09a01-2ef6-49bb-be4c-94b276821b3b"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/48b360ce-0a8e-47e2-b7b3-ed76afa25553"
+      (reference "C4") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/11fed8e5-5fb0-4411-826e-77406c80e7bd"
+      (reference "C5") (unit 1) (value "2.2u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5a0414fb-7659-42d1-953b-9392dee32d2a"
+      (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/626b75e9-3ee5-4480-ab77-93f67205bdc0"
+      (reference "C7") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ab1a81d3-2daf-4754-a3d1-423961f666d8"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/84a09a01-2ef6-49bb-be4c-94b276821b3b"
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aea6479a-1cda-43a0-95be-1d5bed838f4c"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/79bf98bd-c0fc-450d-a86a-b29531f20dc5"
-      (reference "J?") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/01b79ee4-9737-4721-be1a-42bae027db1a"
-      (reference "R?") (unit 1) (value "56K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/15419263-ae95-4408-bb7a-26842f0d6d79"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/17564b16-2682-4a9e-89a4-869924be1eca"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/2be5d219-ceae-40a3-b3f5-a2feaf667382"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/34634fe1-a561-454c-90f3-90128f2d78bb"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/45d29bfd-8539-43eb-8aab-7dfb3ff34c30"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/46da33e2-9e9b-4252-a32e-4406c7251405"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/483caac3-e2db-4001-b5fd-54365a61ec4e"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/499046a8-af48-4df3-a091-49a3f5e8db46"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/54060d77-4c31-4584-845f-eab70f04b82b"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5c8ca59e-5148-4b7c-877b-a44c270148f5"
-      (reference "R?") (unit 1) (value "56K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/7ab39730-70a7-4c11-a5cb-49890295c48f"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8cac41de-cb9e-49dd-8040-bf909bc6d1cd"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9c406405-a624-4002-a0b7-d220d69a76d9"
-      (reference "R?") (unit 1) (value "220") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9edc7ee4-b20c-4420-9a61-fca0ad277a7a"
-      (reference "R?") (unit 1) (value "27") (footprint "")
+      (reference "R1") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a19e659d-abc3-46cf-8f19-53ac2cd752de"
-      (reference "R?") (unit 1) (value "220") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b1ffbb1c-f03f-4f70-ad24-e558328ddfe9"
-      (reference "R?") (unit 1) (value "27") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c6b26e77-5899-4ffe-9901-39856199197b"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e492243f-3043-497e-aae7-7c19fd17f41f"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e968546e-c44c-4742-bdd1-3a98a9af8b1a"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f68e7ff3-5913-4e3d-9b66-11059bc8e6f7"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
+      (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fa90c4da-5c50-44e2-8823-0fcc7f8703e5"
-      (reference "R?") (unit 1) (value "220") (footprint "")
+      (reference "R3") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/15419263-ae95-4408-bb7a-26842f0d6d79"
+      (reference "R4") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/54060d77-4c31-4584-845f-eab70f04b82b"
+      (reference "R5") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f68e7ff3-5913-4e3d-9b66-11059bc8e6f7"
+      (reference "R6") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5c8ca59e-5148-4b7c-877b-a44c270148f5"
+      (reference "R7") (unit 1) (value "56K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9edc7ee4-b20c-4420-9a61-fca0ad277a7a"
+      (reference "R8") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b1ffbb1c-f03f-4f70-ad24-e558328ddfe9"
+      (reference "R9") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/01b79ee4-9737-4721-be1a-42bae027db1a"
+      (reference "R10") (unit 1) (value "56K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e968546e-c44c-4742-bdd1-3a98a9af8b1a"
+      (reference "R11") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/c6b26e77-5899-4ffe-9901-39856199197b"
+      (reference "R12") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/2be5d219-ceae-40a3-b3f5-a2feaf667382"
+      (reference "R13") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/8cac41de-cb9e-49dd-8040-bf909bc6d1cd"
+      (reference "R14") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/45d29bfd-8539-43eb-8aab-7dfb3ff34c30"
+      (reference "R15") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/7ab39730-70a7-4c11-a5cb-49890295c48f"
+      (reference "R16") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/46da33e2-9e9b-4252-a32e-4406c7251405"
+      (reference "R17") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/17564b16-2682-4a9e-89a4-869924be1eca"
+      (reference "R18") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/499046a8-af48-4df3-a091-49a3f5e8db46"
+      (reference "R19") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fe34848e-f36a-41f7-b5db-85004730a48b"
-      (reference "R?") (unit 1) (value "10K") (footprint "")
+      (reference "R20") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/00fa7605-e738-4f03-b10e-908b1b433acf"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/34634fe1-a561-454c-90f3-90128f2d78bb"
+      (reference "R21") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/030b797e-c689-4460-a59d-a49505592fc1"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/483caac3-e2db-4001-b5fd-54365a61ec4e"
+      (reference "R22") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/04971321-0e33-471a-8d1b-a88107e1ae87"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/088ac1b1-efa4-4a14-b658-632d284a1375"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/0adc260b-54ef-46ca-b368-49f3286bf9ae"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/0ba6ab2a-a025-4d60-8b09-985b26d7a228"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1737c18a-fc5d-424b-a08a-adb69f3c092a"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/18925365-ba61-4472-a5fe-ff8c8d89e5c4"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/19eb32ef-40d6-4ca7-8711-ad4eba6d54cd"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1a5b58b1-3660-4fb8-9f7f-a66f27187cc1"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1a9d8ec2-27d5-4ba4-a47d-907f6c04d753"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1d82f223-c405-469a-904d-c9e8c7b7a9c9"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1eb7ca1a-609b-44bc-94d7-8e2c4c73fd32"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/1f9fd93c-4030-4c42-8bdf-fe2671334853"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/22cea168-1c89-4a13-9d35-eec0802408ce"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/22d762aa-311b-4361-84b2-020380b6c19d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/24c5fda0-3fbe-4e06-a63f-8e7611a043b3"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/27963062-b367-49bd-bdcb-45a3bd1f404b"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/2955eb85-5ac2-4577-b655-d295d4aad692"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/2b590353-621c-449c-9152-ca32365f08aa"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/32f960aa-af92-436c-a801-d017a0b335e0"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/33e01b85-1552-473a-84b9-55a891d19f24"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/34d0f21a-8a80-464f-b545-8c3a0ad8d409"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/361a0f88-f2a5-4c3d-ac49-5838f70c9819"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/3a55d62a-1c6e-46af-a03c-d128247e04a2"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/3c1083b9-b67f-410b-955c-8666d7860386"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/3c2bb5d3-cd45-4326-b314-138a7e596d5c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/3d9fda1f-48cf-4c64-b694-68304189270b"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/3f656d27-82e5-4f5e-8389-2eb0f2ea2823"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/40ed6fcd-bc70-4ba3-8b0d-2fcb82fa9c2d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/425e6efa-7edb-40b1-9b45-24669e35d0b7"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/43e5ec73-f2a1-4c85-b147-41bf0f85243e"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/45a374b0-b25f-4919-bf55-e75f9aaecf7e"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/46d19547-48aa-40a4-be49-c49fb440b3be"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/49c7d7b1-6bc7-4b54-9dc6-bfa2f72977f6"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/49fcf459-4cc7-46b9-8168-57ad9a57cc25"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/4c247bb9-4bdf-4a0d-899f-0259a27dfe84"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/4dc2e541-9e26-4588-96dc-759798f22bed"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/4e0e8b0b-8b64-4091-b419-292c438a517a"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/4f8522ad-1c85-4689-9b7a-556e83d815d4"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/55e3488f-6d6c-4f4c-8016-c2a0655d9f60"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/579b7ed0-25ff-47ac-b7b3-d5b7916d0a17"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/57d75b57-5c91-482d-83ff-d2cc12e70970"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/58dfaf50-7caf-4730-a621-385ca7d1d1b0"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/58f572a4-ee1f-4f56-a70d-c6b698608f2a"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/5c048b27-25ec-47fe-9399-766cddfc8e8e"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5fe589ea-3cf1-46b3-8382-2e682b269f17"
-      (reference "SW?") (unit 1) (value "RotaryEncoder") (footprint "")
-    )
-    (path "/654304e0-1a14-4891-a9c9-2034740fa33c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/6c1df78a-3234-424d-9974-a6d75a6f95ef"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/6d3e1e38-993f-4970-b08c-067d6a0c544e"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/6f87bebb-d871-451d-8093-bcdbb1c372d4"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/75e8dfee-d0e7-4a4e-99b9-bf7aa910928f"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/75eba17d-0a3e-41f3-a47a-0d0d2aee08ab"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/7779bfb0-a1e0-4088-95de-e6d92cac627d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/828818cc-a7a7-49fd-9c5b-e1dadc787a5f"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/837f8481-c1ab-4fb3-a7a7-b1763d6291bd"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/86182424-3ad2-47f4-be47-76205bd19a50"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/86767e9d-3f22-4281-992f-2f3d75049e5c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/897ba867-b445-479f-b932-a957e3e2b0cd"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/8a996ce5-5753-43d3-9a2e-2c9dba3a429c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/8f8873cf-6ece-4528-abcc-6f45999a2cf3"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/945b4619-982f-4f56-9ef5-6e3569c86721"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/956c8953-87fe-4089-9a8a-7294e3bc2f5c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/980c21ed-4162-4959-b18e-33090dd99e08"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/99a65a7b-7ff3-4b3a-b17f-438c09eced5d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/99db0a6d-8176-4428-b9b4-f607e734c551"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e492243f-3043-497e-aae7-7c19fd17f41f"
+      (reference "R23") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9b694c33-3c8f-4d93-b67d-158907bb4ffa"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/9f47fa17-3aca-48db-904a-bdc961a95170"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a3e8aa3e-422e-484a-acc4-128ae45cfb76"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a51254bf-7f27-407e-95cb-d8e09b05884d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a51df3b6-2677-40b5-a5cb-f0a0f9a42dfc"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a5a77ece-8f75-4464-a3b4-4366d96a98b7"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a69439cd-9588-48f9-bdc5-0ab3bdfa84ce"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/a6dd8b54-8bea-4d93-a47b-ec28fafb4783"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aa8e004f-446c-42a6-86de-3c88f2ede2d1"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/ac648043-336b-4157-b719-8038f4f5615b"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/af47600a-154f-4528-bda2-e936a70f352c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b2301261-f732-4593-999e-2141e93dc747"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b47b0e7e-ea09-493e-993d-213a09418ca3"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b4ac7007-3d1a-462b-b85b-e010decbd5b2"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b5703b30-6b23-42a6-a2f4-d31dd8c9d6b4"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b6525903-2efd-4b80-92fc-981a6b8007b1"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b84a99f8-28d3-4c4e-9e25-3e011e89e94f"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/b9003e4a-40c7-455d-bcf5-b25730368bb2"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/bb00df15-ff04-43ad-81ae-94a4517c0cf4"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/bdbe5c16-cc36-42e3-a259-571afa16bcf0"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/befb92c2-53cf-4ff5-868b-c0d92bf84d3b"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/c3e2fd2a-4b42-4835-8ccb-c0ad8493103d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/c5088851-b192-4c98-906a-f6638ed4a7ff"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/c9d16be1-e1ff-4620-8d3e-a2dad2d07dc9"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/6d3e1e38-993f-4970-b08c-067d6a0c544e"
+      (reference "SW2") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
     (path "/cb87baf3-6302-4158-bec6-a5fb2060cfdc"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "SW3") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/d107a214-46a4-4021-93e3-9097beb7d1a7"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/22cea168-1c89-4a13-9d35-eec0802408ce"
+      (reference "SW4") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a5a77ece-8f75-4464-a3b4-4366d96a98b7"
+      (reference "SW5") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
     (path "/d110a327-5eab-44ec-ac0c-c0fa4233b551"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "SW6") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/d1aa0a6c-b2ee-48c8-a2b0-66996a4b7212"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/34d0f21a-8a80-464f-b545-8c3a0ad8d409"
+      (reference "SW7") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/d244cb4b-6fdc-4eae-8b5f-64ee308f6ce7"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/d341944c-c60a-48ad-a6ac-5bc440b9b7a3"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/e893eebf-7fb5-4bc4-8be3-4db97ea7938c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/e8abde90-ab7e-4df3-abc3-9d50cf30b88c"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/ec1a2a84-7467-47a2-a822-a96bb90e7872"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/ec43d550-0a0d-4254-9e19-63fc0cd3f6bc"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/bb00df15-ff04-43ad-81ae-94a4517c0cf4"
+      (reference "SW8") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
     (path "/eded1802-62b3-48e6-b4da-302d3d31ba52"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "SW9") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/f06daaf9-f380-496f-9e0a-aa054218b4a7"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/32f960aa-af92-436c-a801-d017a0b335e0"
+      (reference "SW10") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/f2c5f095-49b1-4092-a437-ec7d56ed53b1"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/f66761f0-35dd-449c-9b3f-9b606862ec22"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/f6cd31aa-6764-4af1-9781-30444b8b5980"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/f9297c4d-297e-431b-bdcb-fd4bc5c946e9"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
-    )
-    (path "/faf1c224-6c02-40f5-ba0d-299c2e40b04e"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+    (path "/d107a214-46a4-4021-93e3-9097beb7d1a7"
+      (reference "SW11") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
     (path "/fe1b3bb1-e9c2-4d5c-99bc-3f611fd6af4d"
-      (reference "SW?") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "SW12") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1c983152-5f3b-4bd8-9687-4444748d89c1"
-      (reference "U?") (unit 1) (value "TLV1117LV") (footprint "")
+    (path "/c3e2fd2a-4b42-4835-8ccb-c0ad8493103d"
+      (reference "SW13") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/20b6e50f-13e1-44f6-ad04-b0a948f35b30"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    (path "/0adc260b-54ef-46ca-b368-49f3286bf9ae"
+      (reference "SW14") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/25c9d9fd-54c5-4c35-8b9e-a6ae705f4108"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+    (path "/4c247bb9-4bdf-4a0d-899f-0259a27dfe84"
+      (reference "SW15") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/3a55d62a-1c6e-46af-a03c-d128247e04a2"
+      (reference "SW16") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/58f572a4-ee1f-4f56-a70d-c6b698608f2a"
+      (reference "SW17") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1a5b58b1-3660-4fb8-9f7f-a66f27187cc1"
+      (reference "SW18") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a3e8aa3e-422e-484a-acc4-128ae45cfb76"
+      (reference "SW19") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/faf1c224-6c02-40f5-ba0d-299c2e40b04e"
+      (reference "SW20") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/f9297c4d-297e-431b-bdcb-fd4bc5c946e9"
+      (reference "SW21") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/654304e0-1a14-4891-a9c9-2034740fa33c"
+      (reference "SW22") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/4dc2e541-9e26-4588-96dc-759798f22bed"
+      (reference "SW23") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/3f656d27-82e5-4f5e-8389-2eb0f2ea2823"
+      (reference "SW24") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/5c048b27-25ec-47fe-9399-766cddfc8e8e"
+      (reference "SW25") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/46d19547-48aa-40a4-be49-c49fb440b3be"
+      (reference "SW26") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/f6cd31aa-6764-4af1-9781-30444b8b5980"
+      (reference "SW27") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/45a374b0-b25f-4919-bf55-e75f9aaecf7e"
+      (reference "SW28") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/9f47fa17-3aca-48db-904a-bdc961a95170"
+      (reference "SW29") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b6525903-2efd-4b80-92fc-981a6b8007b1"
+      (reference "SW30") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a51254bf-7f27-407e-95cb-d8e09b05884d"
+      (reference "SW31") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/030b797e-c689-4460-a59d-a49505592fc1"
+      (reference "SW32") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/24c5fda0-3fbe-4e06-a63f-8e7611a043b3"
+      (reference "SW33") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b5703b30-6b23-42a6-a2f4-d31dd8c9d6b4"
+      (reference "SW34") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/19eb32ef-40d6-4ca7-8711-ad4eba6d54cd"
+      (reference "SW35") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/f2c5f095-49b1-4092-a437-ec7d56ed53b1"
+      (reference "SW36") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/2955eb85-5ac2-4577-b655-d295d4aad692"
+      (reference "SW37") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1d82f223-c405-469a-904d-c9e8c7b7a9c9"
+      (reference "SW38") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/361a0f88-f2a5-4c3d-ac49-5838f70c9819"
+      (reference "SW39") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b84a99f8-28d3-4c4e-9e25-3e011e89e94f"
+      (reference "SW40") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/3c2bb5d3-cd45-4326-b314-138a7e596d5c"
+      (reference "SW41") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/7779bfb0-a1e0-4088-95de-e6d92cac627d"
+      (reference "SW42") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/6f87bebb-d871-451d-8093-bcdbb1c372d4"
+      (reference "SW43") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/897ba867-b445-479f-b932-a957e3e2b0cd"
+      (reference "SW44") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/956c8953-87fe-4089-9a8a-7294e3bc2f5c"
+      (reference "SW45") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1eb7ca1a-609b-44bc-94d7-8e2c4c73fd32"
+      (reference "SW46") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/75e8dfee-d0e7-4a4e-99b9-bf7aa910928f"
+      (reference "SW47") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/86767e9d-3f22-4281-992f-2f3d75049e5c"
+      (reference "SW48") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/828818cc-a7a7-49fd-9c5b-e1dadc787a5f"
+      (reference "SW49") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1737c18a-fc5d-424b-a08a-adb69f3c092a"
+      (reference "SW50") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1a9d8ec2-27d5-4ba4-a47d-907f6c04d753"
+      (reference "SW51") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a69439cd-9588-48f9-bdc5-0ab3bdfa84ce"
+      (reference "SW52") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/4f8522ad-1c85-4689-9b7a-556e83d815d4"
+      (reference "SW53") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/af47600a-154f-4528-bda2-e936a70f352c"
+      (reference "SW54") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/75eba17d-0a3e-41f3-a47a-0d0d2aee08ab"
+      (reference "SW55") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/d1aa0a6c-b2ee-48c8-a2b0-66996a4b7212"
+      (reference "SW56") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a51df3b6-2677-40b5-a5cb-f0a0f9a42dfc"
+      (reference "SW57") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/d244cb4b-6fdc-4eae-8b5f-64ee308f6ce7"
+      (reference "SW58") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/f06daaf9-f380-496f-9e0a-aa054218b4a7"
+      (reference "SW59") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/49fcf459-4cc7-46b9-8168-57ad9a57cc25"
+      (reference "SW60") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/ec43d550-0a0d-4254-9e19-63fc0cd3f6bc"
+      (reference "SW61") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/a6dd8b54-8bea-4d93-a47b-ec28fafb4783"
+      (reference "SW62") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/8f8873cf-6ece-4528-abcc-6f45999a2cf3"
+      (reference "SW63") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/088ac1b1-efa4-4a14-b658-632d284a1375"
+      (reference "SW64") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/c5088851-b192-4c98-906a-f6638ed4a7ff"
+      (reference "SW65") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/c9d16be1-e1ff-4620-8d3e-a2dad2d07dc9"
+      (reference "SW66") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/befb92c2-53cf-4ff5-868b-c0d92bf84d3b"
+      (reference "SW67") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/3c1083b9-b67f-410b-955c-8666d7860386"
+      (reference "SW68") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/99db0a6d-8176-4428-b9b4-f607e734c551"
+      (reference "SW69") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/bdbe5c16-cc36-42e3-a259-571afa16bcf0"
+      (reference "SW70") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/980c21ed-4162-4959-b18e-33090dd99e08"
+      (reference "SW71") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/00fa7605-e738-4f03-b10e-908b1b433acf"
+      (reference "SW72") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/0ba6ab2a-a025-4d60-8b09-985b26d7a228"
+      (reference "SW73") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/18925365-ba61-4472-a5fe-ff8c8d89e5c4"
+      (reference "SW74") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/55e3488f-6d6c-4f4c-8016-c2a0655d9f60"
+      (reference "SW75") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/945b4619-982f-4f56-9ef5-6e3569c86721"
+      (reference "SW76") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/57d75b57-5c91-482d-83ff-d2cc12e70970"
+      (reference "SW77") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/6c1df78a-3234-424d-9974-a6d75a6f95ef"
+      (reference "SW78") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/3d9fda1f-48cf-4c64-b694-68304189270b"
+      (reference "SW79") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/58dfaf50-7caf-4730-a621-385ca7d1d1b0"
+      (reference "SW80") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/40ed6fcd-bc70-4ba3-8b0d-2fcb82fa9c2d"
+      (reference "SW81") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/425e6efa-7edb-40b1-9b45-24669e35d0b7"
+      (reference "SW82") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/22d762aa-311b-4361-84b2-020380b6c19d"
+      (reference "SW83") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/99a65a7b-7ff3-4b3a-b17f-438c09eced5d"
+      (reference "SW84") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/ec1a2a84-7467-47a2-a822-a96bb90e7872"
+      (reference "SW85") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/f66761f0-35dd-449c-9b3f-9b606862ec22"
+      (reference "SW86") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/d341944c-c60a-48ad-a6ac-5bc440b9b7a3"
+      (reference "SW87") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/1f9fd93c-4030-4c42-8bdf-fe2671334853"
+      (reference "SW88") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/43e5ec73-f2a1-4c85-b147-41bf0f85243e"
+      (reference "SW89") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/86182424-3ad2-47f4-be47-76205bd19a50"
+      (reference "SW90") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/8a996ce5-5753-43d3-9a2e-2c9dba3a429c"
+      (reference "SW91") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/e8abde90-ab7e-4df3-abc3-9d50cf30b88c"
+      (reference "SW92") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b47b0e7e-ea09-493e-993d-213a09418ca3"
+      (reference "SW93") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/4e0e8b0b-8b64-4091-b419-292c438a517a"
+      (reference "SW94") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/04971321-0e33-471a-8d1b-a88107e1ae87"
+      (reference "SW95") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/27963062-b367-49bd-bdcb-45a3bd1f404b"
+      (reference "SW96") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/579b7ed0-25ff-47ac-b7b3-d5b7916d0a17"
+      (reference "SW97") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/837f8481-c1ab-4fb3-a7a7-b1763d6291bd"
+      (reference "SW98") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/2b590353-621c-449c-9152-ca32365f08aa"
+      (reference "SW99") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b9003e4a-40c7-455d-bcf5-b25730368bb2"
+      (reference "SW100") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/33e01b85-1552-473a-84b9-55a891d19f24"
+      (reference "SW101") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/ac648043-336b-4157-b719-8038f4f5615b"
+      (reference "SW102") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/e893eebf-7fb5-4bc4-8be3-4db97ea7938c"
+      (reference "SW103") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/b4ac7007-3d1a-462b-b85b-e010decbd5b2"
+      (reference "SW104") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5fe589ea-3cf1-46b3-8382-2e682b269f17"
+      (reference "SW105") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Bourns_Vertical_PEC12R-3xxxF-Sxxxx")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b2301261-f732-4593-999e-2141e93dc747"
+      (reference "SW106") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/49c7d7b1-6bc7-4b54-9dc6-bfa2f72977f6"
+      (reference "SW107") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aa8e004f-446c-42a6-86de-3c88f2ede2d1"
+      (reference "SW108") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
     )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/438f713f-f1ca-45d9-99da-0090020455f0"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/44e68587-8f95-4c36-befd-f337d44c79ed"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/489be7e5-dff6-43b2-a322-a1003f645637"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/496e6348-c88c-4bc2-aecb-c08e39e968f8"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+      (reference "U1") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/4c52fa99-8073-4b2a-9b32-99b102819b63"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/658a0bfb-e9ab-408b-b5a0-56d76214d97c"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/818d94df-4bd8-4592-9461-937e162d5258"
-      (reference "U?") (unit 1) (value "ATSAM4S4BA-AU") (footprint "QFP64-10x10MC_MCH")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/ae58a562-e294-414f-ae92-293a5599270f"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/af95c7e0-fe4b-4421-bafb-f2b344487841"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/d83db553-1354-496f-b376-4dbb62de1825"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
-    )
-    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/e562c07d-8f69-412f-928f-bd7be46ccfff"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+      (reference "U2") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/f2cbd441-5e57-42e5-8224-61e37a29ba8d"
-      (reference "U?") (unit 1) (value "S16-4148") (footprint "")
+      (reference "U3") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/20b6e50f-13e1-44f6-ad04-b0a948f35b30"
+      (reference "U4") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/496e6348-c88c-4bc2-aecb-c08e39e968f8"
+      (reference "U5") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/489be7e5-dff6-43b2-a322-a1003f645637"
+      (reference "U6") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/af95c7e0-fe4b-4421-bafb-f2b344487841"
+      (reference "U7") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/d83db553-1354-496f-b376-4dbb62de1825"
+      (reference "U8") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/25c9d9fd-54c5-4c35-8b9e-a6ae705f4108"
+      (reference "U9") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/658a0bfb-e9ab-408b-b5a0-56d76214d97c"
+      (reference "U10") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/e562c07d-8f69-412f-928f-bd7be46ccfff"
+      (reference "U11") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/44e68587-8f95-4c36-befd-f337d44c79ed"
+      (reference "U12") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/ae58a562-e294-414f-ae92-293a5599270f"
+      (reference "U13") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/1c983152-5f3b-4bd8-9687-4444748d89c1"
+      (reference "U14") (unit 1) (value "TLV1117LV") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/818d94df-4bd8-4592-9461-937e162d5258"
+      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7a7edaa8-d372-4d2e-9a3c-76eefbd11fe4"
+      (reference "U16") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d1d2ab00-0a80-4ace-b31c-694d87055dad"
+      (reference "U17") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/56e37891-2a2f-4892-a6e4-9ad54f93ba2c"
+      (reference "U18") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/52c98cbb-0949-4356-8e90-c85d71ee271c"
+      (reference "U19") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/651b78a8-0873-4d0d-8b9f-c1748c6a0acc"
+      (reference "U20") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9d3e3fc7-9638-438b-bc64-f271f246565b"
+      (reference "U21") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e7f3316d-95eb-42ed-a7cd-7968daf10b7e"
+      (reference "U22") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/14fc540c-3023-4909-80e4-af2c49e04032"
+      (reference "U23") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8a27484a-a50f-4436-8ff1-c9b94455cc39"
+      (reference "U24") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/417fcc42-7283-48ea-bc1f-d3847eeb19bf"
+      (reference "U25") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8803afda-e5ae-49d1-bd88-d6ef4ef6bcf4"
+      (reference "U26") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3120d354-1dd6-4224-8160-238b5d236442"
+      (reference "U27") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0275a371-47bd-4243-a08a-58223909be97"
+      (reference "U28") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8192f247-180e-41f9-9876-f70b4a3f6963"
+      (reference "U29") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cf1edfa6-b253-4759-a3a1-b50c0c377ba8"
+      (reference "U30") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/52ba72c9-99af-44c9-92cc-c3b654b31dbf"
+      (reference "U31") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/04b73229-4c24-48eb-8acd-abde09d1a444"
+      (reference "U32") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ec5ac806-28d2-43d4-8fd4-c531edea3867"
+      (reference "U33") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b7caa210-2a4b-47c2-b4c7-ae4cf20d51d2"
+      (reference "U34") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/45516151-4105-40a3-a3a7-65c0b3e44655"
+      (reference "U35") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/23c00f3f-29ba-4aec-80f6-b6282c3b9932"
+      (reference "U36") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ad01cad6-9656-4142-aaa6-9b1bc1c749f3"
+      (reference "U37") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/79f34886-e63b-4fd0-9d87-a7605e6d505c"
+      (reference "U38") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1984f89c-7ee5-4fc1-9574-9029472b2aa5"
+      (reference "U39") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7efac57f-3497-4b1b-95b5-c84af72aaa20"
+      (reference "U40") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4d5231e8-8102-4514-a169-aeddb51c9025"
+      (reference "U41") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/eeb05790-5940-4b9b-8e83-2d938b913d0b"
+      (reference "U42") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/da3557d5-425c-459b-9a76-8d67afd4913e"
+      (reference "U43") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b9c64439-507d-43e0-bf1d-8d745720e81e"
+      (reference "U44") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/19344d0d-16bf-4df3-af52-8c2bf4e78aa7"
+      (reference "U45") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f64956a2-341b-4cc6-8588-c98b22171ac0"
+      (reference "U46") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e85a255c-4765-4ce4-b42a-f5d17aafa4e5"
+      (reference "U47") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c139c500-679b-40b5-a1c6-e2e65937cff7"
+      (reference "U48") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/acfb97fc-6c2d-490e-94bc-a517830dd2f6"
+      (reference "U49") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a684c5d0-f4bd-4941-b054-ab1fff0c4a45"
+      (reference "U50") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d98df5c5-009b-47fe-baba-1f6839b553b9"
+      (reference "U51") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/574d9b82-3415-40a6-95f9-b48485445314"
+      (reference "U52") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/73237e38-18df-4cf8-b407-cc898f699e2d"
+      (reference "U53") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0ba4bf60-6f1a-4920-a418-71f257bc7e92"
+      (reference "U54") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f21a127a-26c6-4e58-8ad5-ef2e7192fb89"
+      (reference "U55") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a8cb946c-3f92-4be6-b496-55b7a0cc1bc5"
+      (reference "U56") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1ca790bf-839d-4b2b-a96e-27f882daea73"
+      (reference "U57") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f5306314-c5ff-40a6-9343-ad15b608e882"
+      (reference "U58") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9f776d78-ed17-4690-ba63-ccc504431b59"
+      (reference "U59") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c96fa331-d983-4ff9-9057-1dcdade0b6f1"
+      (reference "U60") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1ef3c02a-5377-4707-a604-103c3371b0b2"
+      (reference "U61") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/175280c5-1f1e-4173-9d70-243fbf2f07d7"
+      (reference "U62") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e8d6dd20-ebc0-495e-80a4-5c9902b6c0b7"
+      (reference "U63") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/15d9b729-8400-481c-bb2a-04278d39048a"
+      (reference "U64") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f0ffd1d3-5c51-4469-a401-a93f95f51f08"
+      (reference "U65") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/072776f2-1dbf-4d11-b45c-73eabb45d5cd"
+      (reference "U66") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/55e0a5d3-62b4-4292-97f3-3ba20ed4d45d"
+      (reference "U67") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/85105179-b571-4100-97b8-3029f328c11c"
+      (reference "U68") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3667152f-ecb5-4713-83ee-23cef24bfcd3"
+      (reference "U69") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c298c47b-a71a-40e3-aa90-ca979f966e5b"
+      (reference "U70") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/66b48a7c-a6d9-46d6-b589-ec2c3bbd9ca4"
+      (reference "U71") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a2a89674-b720-4724-b3e7-6b3a17177494"
+      (reference "U72") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ab04cfdd-ca12-4c26-bc99-3af01d50bf38"
+      (reference "U73") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/78e0f93b-dddd-4f81-9dc0-201d77318341"
+      (reference "U74") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e43e8ec9-fe88-4c43-a8d1-42f44776bc85"
+      (reference "U75") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9dd11c6c-6997-4dcc-992f-fa86f422e0ea"
+      (reference "U76") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a5301ddb-3b42-45be-a544-fe470e086921"
+      (reference "U77") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/321e6fe0-e254-4b15-bf2d-fd1a7eb0d49b"
+      (reference "U78") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5540e9d8-0dcb-40fa-8ee2-93eb93da0e0a"
+      (reference "U79") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/858e5cf7-9e96-4dd5-ae80-9fab91654be8"
+      (reference "U80") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cf6efdce-51f7-4444-b618-c3ac14ca89a2"
+      (reference "U81") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e3ce6cdd-9116-4eca-972d-7ab7beaa6195"
+      (reference "U82") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5e8830d9-e3ca-428b-b01f-3d5e79bd9f1e"
+      (reference "U83") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2dfa487b-a971-4ffb-b81c-b58abe7402ac"
+      (reference "U84") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b7d26bf3-d661-4657-9cb0-cedd8d4de0da"
+      (reference "U85") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4729bdfd-e2f1-4ce4-9a63-75156a165b94"
+      (reference "U86") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4b43cd38-bfc7-41c3-9972-3c34cedd210d"
+      (reference "U87") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c5a5c304-1595-4df2-8044-ca0b130b1892"
+      (reference "U88") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/469c8b9e-ca8f-4152-9b23-86b6103317a3"
+      (reference "U89") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0314ee46-4b7a-4830-8b25-9abac59348f6"
+      (reference "U90") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/662e5055-29e5-4254-aa11-8e92c7f0e69a"
+      (reference "U91") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e3d729cf-dfc3-4211-ac43-447133ccffe7"
+      (reference "U92") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f8c497f5-5f32-42a6-afcf-8157a8e6203e"
+      (reference "U93") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a693c579-a694-4b20-8d20-97e18524e7e1"
+      (reference "U94") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4e2c338-73b9-4303-80b1-4e79a94acf8b"
+      (reference "U95") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/083e4c7e-57a7-406d-8218-663ccbbd6317"
+      (reference "U96") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1260a3bb-16ac-46e4-a888-05ff4a34968b"
+      (reference "U97") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d42d505f-98e1-42b4-9e4e-6042fb592d59"
+      (reference "U98") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/dde1c9d9-544a-4b91-af5d-5176a6113dc1"
+      (reference "U99") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8cae6983-f528-49d4-a667-7620feb5db74"
+      (reference "U100") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7fd7bc24-c3b4-49b4-b252-dd3ea008351c"
+      (reference "U101") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/aea7ad84-8cab-4952-8786-e3a83d59eea1"
+      (reference "U102") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9e1f4123-ddb8-49c8-81c6-6cfe29469af6"
+      (reference "U103") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c8fc0289-5c9d-4c24-af1a-b2a77cb00744"
+      (reference "U104") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/520e1f9f-f6a2-4958-b55e-46f5b92dae80"
+      (reference "U105") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ba22a120-201c-4a8c-9457-9687b76d7549"
+      (reference "U106") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/011f5f79-9a2b-4a01-9c30-5333506e6ce8"
+      (reference "U107") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/927f690c-fa79-4871-af31-8e0748c367d0"
+      (reference "U108") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c6b6c502-2c2a-4859-b2a9-3a537fb6e7ec"
+      (reference "U109") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/55460c73-4d53-4cee-ac3a-709f234c0def"
+      (reference "U110") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cf887f2c-28d2-4b11-b89c-b8fe969aa924"
+      (reference "U111") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/71092aba-8486-4631-a6c0-bd506a0578f1"
+      (reference "U112") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/15bdf078-92a4-4920-867d-c85dee7128f9"
+      (reference "U113") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/437c9429-f7db-4a68-9362-6adaf40e011f"
+      (reference "U114") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d2f966c6-004d-4e2e-9c75-d8d8188334f9"
+      (reference "U115") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/db6c4732-5105-40aa-8495-4aae2e64e1c1"
+      (reference "U116") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fc90995d-cbf0-4fb9-9420-65373ffe08ba"
+      (reference "U117") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3ed94a92-b5be-4bcd-adb4-ef9df3d3f226"
+      (reference "U118") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c7d1b9de-111b-4b79-bebc-31b741297cdd"
+      (reference "U119") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9fb03621-92dc-4020-96e0-af4e97574d1b"
+      (reference "U120") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/34485d65-1542-45df-bb6a-ce23fdbfd8dd"
+      (reference "U121") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/39608fa4-db6a-4c08-94f4-63114a1b3f15"
+      (reference "U122") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/983d2e15-168f-42e2-a578-b185a713cff8"
-      (reference "Y?") (unit 1) (value "XTAL-12M") (footprint "")
+      (reference "Y1") (unit 1) (value "XTAL-12M") (footprint "Crystal:Crystal_SMD_HC49-SD_HandSoldering")
     )
   )
 )
