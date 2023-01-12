@@ -539,11 +539,11 @@
         )
       )
     )
-    (symbol "power:VDD" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:VBUS" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "VDD" (id 1) (at 0 3.81 0)
+      (property "Value" "VBUS" (id 1) (at 0 3.81 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (id 2) (at 0 0 0)
@@ -555,10 +555,10 @@
       (property "ki_keywords" "global power" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"VDD\"" (id 5) (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"VBUS\"" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "VDD_0_1"
+      (symbol "VBUS_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -584,9 +584,9 @@
           (fill (type none))
         )
       )
-      (symbol "VDD_1_1"
+      (symbol "VBUS_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "VDD" (effects (font (size 1.27 1.27))))
+          (name "VBUS" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -2477,13 +2477,13 @@
     (uuid 7e673eac-8f7a-4dcc-83ec-a1cd84a765ab)
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00dd9215-34d0-4a72-8a4f-0cfc181bdcd9)
     (property "Reference" "#PWR0149" (id 0) (at 158.75 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 23.495 0))
     (property "Footprint" "" (id 2) (at 154.94 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2493,13 +2493,13 @@
     (pin "1" (uuid 2fb34181-0bee-41e9-9f3c-474bc6896e9c))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00fa0318-0063-4983-a106-ac6129e08771)
     (property "Reference" "#PWR0124" (id 0) (at 127 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 34.29 0))
     (property "Footprint" "" (id 2) (at 123.19 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2526,13 +2526,13 @@
     (pin "4" (uuid 6ef4d6a7-81a8-4a43-9bcf-36631aef5888))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0160e2d5-aeaf-4ddf-bc8e-37c1e2bd7e02)
     (property "Reference" "#PWR0181" (id 0) (at 190.5 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 88.265 0))
     (property "Footprint" "" (id 2) (at 186.69 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2542,13 +2542,13 @@
     (pin "1" (uuid 2c837024-19b8-4cf3-a4f9-5f7a03866369))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 01e03224-5c4e-4ae9-8628-4fe2df627623)
     (property "Reference" "#PWR039" (id 0) (at 31.75 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 23.495 0))
     (property "Footprint" "" (id 2) (at 27.94 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2609,13 +2609,13 @@
     (pin "4" (uuid e84e6f46-1f6b-47fe-a741-e484f9a13367))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 05b75678-4327-49db-ae72-8169c1753b31)
     (property "Reference" "#PWR0105" (id 0) (at 95.25 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 131.445 0))
     (property "Footprint" "" (id 2) (at 91.44 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2691,13 +2691,13 @@
     (pin "4" (uuid c59cf253-8680-4078-be31-02e067e4d10f))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 08709af9-c0ff-4770-9035-7037d69d1ec6)
     (property "Reference" "#PWR0178" (id 0) (at 190.5 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 55.88 0))
     (property "Footprint" "" (id 2) (at 186.69 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2772,13 +2772,13 @@
     (pin "1" (uuid 28f58064-b0d2-446f-94bd-d506863bb52b))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0e1a0979-dd13-4872-beb1-75f37dce85c3)
     (property "Reference" "#PWR073" (id 0) (at 63.5 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 88.265 0))
     (property "Footprint" "" (id 2) (at 59.69 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2820,13 +2820,13 @@
     (pin "1" (uuid e9186331-622e-45aa-8539-deae9a4b4091))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1051b7cc-4db3-482a-8e06-91e529f76a16)
     (property "Reference" "#PWR0152" (id 0) (at 158.75 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 55.88 0))
     (property "Footprint" "" (id 2) (at 154.94 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2836,13 +2836,13 @@
     (pin "1" (uuid d333502b-d07d-42f4-95a9-7a83d5624b5c))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 105218b4-c889-41c5-a46c-80b670b89314)
     (property "Reference" "#PWR040" (id 0) (at 31.75 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 34.29 0))
     (property "Footprint" "" (id 2) (at 27.94 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2852,13 +2852,13 @@
     (pin "1" (uuid e053b028-61cd-4461-8e05-bfcfcff80fd2))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 12064a7f-34ce-437c-a20a-101d889f51a6)
     (property "Reference" "#PWR0106" (id 0) (at 95.25 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 142.24 0))
     (property "Footprint" "" (id 2) (at 91.44 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2885,13 +2885,13 @@
     (pin "4" (uuid 1901316c-2f65-4fa6-8335-d4ee0eb34fd6))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 12dd68a5-9f6c-4320-85e1-6deebf886719)
     (property "Reference" "#PWR0103" (id 0) (at 95.25 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 109.855 0))
     (property "Footprint" "" (id 2) (at 91.44 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2901,13 +2901,13 @@
     (pin "1" (uuid e8ab4db6-beae-424f-a1e6-ecad3ab875ae))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 13adbdda-dbaf-45b6-a04c-2692cb48938f)
     (property "Reference" "#PWR096" (id 0) (at 95.25 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 34.29 0))
     (property "Footprint" "" (id 2) (at 91.44 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2917,13 +2917,13 @@
     (pin "1" (uuid 68cb62b0-8536-414b-a48c-ebe126996709))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 13f0cfbe-0c07-492a-97f9-0a06811142a2)
     (property "Reference" "#PWR0176" (id 0) (at 190.5 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 34.29 0))
     (property "Footprint" "" (id 2) (at 186.69 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3065,13 +3065,13 @@
     (pin "1" (uuid 7552828f-7241-467b-93e7-50c7cf52d0d0))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1882dc20-1649-4fb0-91a5-83c9bf5e7696)
     (property "Reference" "#PWR0233" (id 0) (at 254 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 88.265 0))
     (property "Footprint" "" (id 2) (at 250.19 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3164,13 +3164,13 @@
     (pin "1" (uuid dea0f173-d334-469f-a6e7-df4838149cfa))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1e3a53e5-9ece-44d8-82b6-e89afdc2b048)
     (property "Reference" "#PWR0203" (id 0) (at 222.25 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 45.085 0))
     (property "Footprint" "" (id 2) (at 218.44 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3180,13 +3180,13 @@
     (pin "1" (uuid d3e8c443-a3fe-40aa-b521-d5f7646f877e))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1e52dc98-3bbb-4484-a141-60947f103160)
     (property "Reference" "#PWR041" (id 0) (at 31.75 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 45.085 0))
     (property "Footprint" "" (id 2) (at 27.94 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3213,13 +3213,13 @@
     (pin "4" (uuid 054c0299-58dc-40d4-8bda-52ad4c7ddf90))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1f34ee50-8cd1-4bab-9034-cf8f31639a2f)
     (property "Reference" "#PWR051" (id 0) (at 31.75 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 153.035 0))
     (property "Footprint" "" (id 2) (at 27.94 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3229,13 +3229,13 @@
     (pin "1" (uuid 659ae197-630b-415d-8af5-796560c45331))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1ff60e36-66d7-42b0-88a8-be02702a8406)
     (property "Reference" "#PWR071" (id 0) (at 63.5 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 66.675 0))
     (property "Footprint" "" (id 2) (at 59.69 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3262,13 +3262,13 @@
     (pin "4" (uuid 353e6ee1-e71c-4d80-a55e-39f11e98b690))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 247b944e-79e3-4913-ab7c-4d7b524cc948)
     (property "Reference" "#PWR0213" (id 0) (at 222.25 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 153.035 0))
     (property "Footprint" "" (id 2) (at 218.44 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3310,13 +3310,13 @@
     (pin "1" (uuid a2bf8942-5bda-44cc-88e0-d10d9f3e7c6b))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 27653e94-9dd7-4769-ada8-a6da1509d5d0)
     (property "Reference" "#PWR078" (id 0) (at 63.5 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 142.24 0))
     (property "Footprint" "" (id 2) (at 59.69 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3342,13 +3342,13 @@
     (pin "1" (uuid b7d84953-7e8d-487c-bf32-89f6095905ea))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 288a05c1-a37f-4ec7-8682-d21121f44e92)
     (property "Reference" "#PWR0211" (id 0) (at 222.25 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 131.445 0))
     (property "Footprint" "" (id 2) (at 218.44 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3374,13 +3374,13 @@
     (pin "1" (uuid 5ac3e6f3-0024-4829-8ae9-72d4317878f7))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2d1c0112-5e16-4a7a-9260-afd934271531)
     (property "Reference" "#PWR0205" (id 0) (at 222.25 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 66.675 0))
     (property "Footprint" "" (id 2) (at 218.44 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3390,13 +3390,13 @@
     (pin "1" (uuid 97d2564a-5d93-4d35-92a3-90e8728f9e75))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2ded5c1b-d841-44f3-bd75-b416932c603d)
     (property "Reference" "#PWR0127" (id 0) (at 127 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 66.675 0))
     (property "Footprint" "" (id 2) (at 123.19 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3455,13 +3455,13 @@
     (pin "1" (uuid 393041de-601d-4f15-8900-d8457760617a))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2fed9b89-7f54-4247-83ec-dc9254c3af31)
     (property "Reference" "#PWR0100" (id 0) (at 95.25 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 77.47 0))
     (property "Footprint" "" (id 2) (at 91.44 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3471,13 +3471,13 @@
     (pin "1" (uuid 4b219bd4-a8ed-49d1-9895-003256bf5363))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 30920b31-f545-4e67-a768-866f9af83976)
     (property "Reference" "#PWR0238" (id 0) (at 254 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 142.24 0))
     (property "Footprint" "" (id 2) (at 250.19 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3586,13 +3586,13 @@
     (pin "4" (uuid a8622fea-1bff-4492-8f3c-ae3b1fe3034b))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 34fc57bc-0d8d-461b-8286-d42b46672eb8)
     (property "Reference" "#PWR0151" (id 0) (at 158.75 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 45.085 0))
     (property "Footprint" "" (id 2) (at 154.94 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3651,13 +3651,13 @@
     (pin "1" (uuid bcf3a28d-e4b5-4315-9325-585f3b0fc178))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 37482a9b-4e3f-4011-9a7f-9cd3d57ded74)
     (property "Reference" "#PWR095" (id 0) (at 95.25 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 23.495 0))
     (property "Footprint" "" (id 2) (at 91.44 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3748,13 +3748,13 @@
     (pin "1" (uuid e25f0a15-e6c5-42a3-8026-533ffc41e341))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3a043014-07cb-4154-9f92-bd192541b737)
     (property "Reference" "#PWR044" (id 0) (at 31.75 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 77.47 0))
     (property "Footprint" "" (id 2) (at 27.94 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4010,13 +4010,13 @@
     (pin "1" (uuid 14f5e683-7d96-4114-954e-c4c843e7e427))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 49326e10-b613-46ed-b054-0a7cc4f14371)
     (property "Reference" "#PWR0231" (id 0) (at 254 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 66.675 0))
     (property "Footprint" "" (id 2) (at 250.19 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4026,13 +4026,13 @@
     (pin "1" (uuid 664e0d60-1e09-4e0f-ac93-0e87d8d99ca7))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 49ddbe4b-9b15-4952-b021-8c235154c9e5)
     (property "Reference" "#PWR0202" (id 0) (at 222.25 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 34.29 0))
     (property "Footprint" "" (id 2) (at 218.44 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4059,13 +4059,13 @@
     (pin "4" (uuid 5600589b-07fd-46e2-b71c-45e1ee187560))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4cc89933-1f79-4f45-9ae2-d39056a4de12)
     (property "Reference" "#PWR048" (id 0) (at 31.75 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 120.65 0))
     (property "Footprint" "" (id 2) (at 27.94 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4092,13 +4092,13 @@
     (pin "4" (uuid f68fa77d-d3bf-434c-870d-3c5208e4c24a))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4e5ce8c8-6f3a-49ad-9df2-1a127c1ee84e)
     (property "Reference" "#PWR043" (id 0) (at 31.75 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 66.675 0))
     (property "Footprint" "" (id 2) (at 27.94 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4108,13 +4108,13 @@
     (pin "1" (uuid c8427488-afbb-4ccc-b5c1-d8e568eb1b82))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4e9a4660-620e-46f4-9f8c-adb7aa41862f)
     (property "Reference" "#PWR068" (id 0) (at 63.5 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 34.29 0))
     (property "Footprint" "" (id 2) (at 59.69 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4140,13 +4140,13 @@
     (pin "1" (uuid 266d80e4-620f-42cf-81d0-2c52ca0502ac))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4f56c5a5-c564-41cb-bfd8-1e9bb410fb94)
     (property "Reference" "#PWR0209" (id 0) (at 222.25 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 109.855 0))
     (property "Footprint" "" (id 2) (at 218.44 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4255,13 +4255,13 @@
     (pin "4" (uuid 83fb19e8-9f75-468e-8923-6f9ef3619620))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 530f5549-e50c-4aa0-9d2a-fb1b3e182de1)
     (property "Reference" "#PWR0158" (id 0) (at 158.75 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 120.65 0))
     (property "Footprint" "" (id 2) (at 154.94 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4271,13 +4271,13 @@
     (pin "1" (uuid f78fbed2-1689-45d4-b5b4-abff44f29523))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 53c4dbe2-30ea-40e3-b674-9ac24262a851)
     (property "Reference" "#PWR0207" (id 0) (at 222.25 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 88.265 0))
     (property "Footprint" "" (id 2) (at 218.44 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4404,13 +4404,13 @@
     (pin "1" (uuid cef92547-cb34-407b-b42f-db4418866146))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5c815fc5-cc04-4b1f-9842-972ae489e6a2)
     (property "Reference" "#PWR079" (id 0) (at 63.5 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 153.035 0))
     (property "Footprint" "" (id 2) (at 59.69 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4420,13 +4420,13 @@
     (pin "1" (uuid b50b76fd-5ae3-4fe6-9167-076b330b62da))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5d442452-c90b-4c62-8175-eb852b74753f)
     (property "Reference" "#PWR0134" (id 0) (at 127 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 142.24 0))
     (property "Footprint" "" (id 2) (at 123.19 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4452,13 +4452,13 @@
     (pin "1" (uuid 6ab9dd5e-ee21-4c53-861c-8a3b2d8117eb))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5d9bed00-efbd-4762-80c0-7ff99eba3c4d)
     (property "Reference" "#PWR0131" (id 0) (at 127 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 109.855 0))
     (property "Footprint" "" (id 2) (at 123.19 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4485,13 +4485,13 @@
     (pin "4" (uuid 0e6982e6-d23f-4ff9-aeb8-de1eafcec1e6))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5f20da60-42dc-404d-b2d1-7faa34815cbc)
     (property "Reference" "#PWR0184" (id 0) (at 190.5 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 120.65 0))
     (property "Footprint" "" (id 2) (at 186.69 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4517,13 +4517,13 @@
     (pin "1" (uuid 77f53a28-c9f6-4f29-80fb-42a55414692d))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 62f1831e-b4eb-41d8-9dc1-740ab02d0e4e)
     (property "Reference" "#PWR0180" (id 0) (at 190.5 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 77.47 0))
     (property "Footprint" "" (id 2) (at 186.69 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4600,13 +4600,13 @@
     (pin "4" (uuid 97f99adf-add6-49a3-89aa-38a8fb170e41))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 66e66604-aba2-43d1-9666-fbf85a068c36)
     (property "Reference" "#PWR0235" (id 0) (at 254 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 109.855 0))
     (property "Footprint" "" (id 2) (at 250.19 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4616,13 +4616,13 @@
     (pin "1" (uuid 80041fdd-6d68-4b33-a151-45029133d9ff))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 69d29bb6-a172-494c-b144-37c53e0ea817)
     (property "Reference" "#PWR0182" (id 0) (at 190.5 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 99.06 0))
     (property "Footprint" "" (id 2) (at 186.69 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4664,13 +4664,13 @@
     (pin "1" (uuid 303141a2-fb9d-4da4-8e4a-9b2cdf07be24))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6c8650a0-59dc-4dc2-85ac-d660b6058028)
     (property "Reference" "#PWR077" (id 0) (at 63.5 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 131.445 0))
     (property "Footprint" "" (id 2) (at 59.69 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4680,13 +4680,13 @@
     (pin "1" (uuid 4a41e0c8-5b4f-4b84-be54-be3d0af21411))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6d54cd02-666c-4bd1-a78d-fa7603a4d10f)
     (property "Reference" "#PWR0229" (id 0) (at 254 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 45.085 0))
     (property "Footprint" "" (id 2) (at 250.19 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4696,13 +4696,13 @@
     (pin "1" (uuid 1d634b7c-c650-4c32-ae61-285767a6e3b2))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6d9fb6dc-b168-45a6-bd0d-0f497dda0c50)
     (property "Reference" "#PWR097" (id 0) (at 95.25 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 45.085 0))
     (property "Footprint" "" (id 2) (at 91.44 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4712,13 +4712,13 @@
     (pin "1" (uuid c5348129-625a-4015-89d7-f61d14c15bfb))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 703a4550-3ddd-43f8-a3b2-f5df27dda1a9)
     (property "Reference" "#PWR0187" (id 0) (at 190.5 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 153.035 0))
     (property "Footprint" "" (id 2) (at 186.69 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4745,13 +4745,13 @@
     (pin "4" (uuid beaf555b-dace-4768-a509-953f22bc8fdb))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 71686e1a-033f-472f-a2d1-28c0d065f7ee)
     (property "Reference" "#PWR0204" (id 0) (at 222.25 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 55.88 0))
     (property "Footprint" "" (id 2) (at 218.44 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4794,13 +4794,13 @@
     (pin "4" (uuid 69f43322-8a43-43be-95f5-0a726099a4d2))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 748fc589-8df8-43a1-aaf3-58e0bb77fb74)
     (property "Reference" "#PWR0133" (id 0) (at 127 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 131.445 0))
     (property "Footprint" "" (id 2) (at 123.19 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4826,13 +4826,13 @@
     (pin "1" (uuid 8b02cd45-2996-4e50-a11b-36c9268c0baa))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 76528891-55fd-499c-9e61-8a8f30bf4754)
     (property "Reference" "#PWR099" (id 0) (at 95.25 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 66.675 0))
     (property "Footprint" "" (id 2) (at 91.44 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4842,13 +4842,13 @@
     (pin "1" (uuid 6691a104-daf1-46ed-b14f-781b5f4ecb0e))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 776ad856-ae20-4416-afb6-9d0985c43dcb)
     (property "Reference" "#PWR0175" (id 0) (at 190.5 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 23.495 0))
     (property "Footprint" "" (id 2) (at 186.69 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4858,13 +4858,13 @@
     (pin "1" (uuid cb55303e-a6d5-4968-ae1d-5148e2926c30))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 776adb95-8ecb-479b-9f85-a23d58a4b690)
     (property "Reference" "#PWR0126" (id 0) (at 127 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 55.88 0))
     (property "Footprint" "" (id 2) (at 123.19 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4907,13 +4907,13 @@
     (pin "4" (uuid 2c6d4e35-a392-434d-9451-8f2507023322))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7971b97f-b191-4ac8-bde0-875b6541ae66)
     (property "Reference" "#PWR0230" (id 0) (at 254 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 55.88 0))
     (property "Footprint" "" (id 2) (at 250.19 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4973,13 +4973,13 @@
     (pin "1" (uuid 3cda5fea-b653-437d-bf63-57bdcd549ad4))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7ca0fc78-6111-4825-b6e1-e9b90b62eccd)
     (property "Reference" "#PWR0157" (id 0) (at 158.75 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 109.855 0))
     (property "Footprint" "" (id 2) (at 154.94 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4989,13 +4989,13 @@
     (pin "1" (uuid 19d0e5fb-7e1a-4d99-9c62-371dd9c2f7e0))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7cd0e105-1921-4889-9d8a-b874cf5d3051)
     (property "Reference" "#PWR072" (id 0) (at 63.5 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 77.47 0))
     (property "Footprint" "" (id 2) (at 59.69 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5005,13 +5005,13 @@
     (pin "1" (uuid 14d3c5a4-f657-49fb-b9fa-36f8fe9472b0))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7d8bcbe9-2ee8-4796-b04b-94b872bfe496)
     (property "Reference" "#PWR069" (id 0) (at 63.5 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 45.085 0))
     (property "Footprint" "" (id 2) (at 59.69 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5104,13 +5104,13 @@
     (pin "4" (uuid 79b7c9f7-44f3-46d9-abf6-6c76544fd9f1))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8206d914-3fae-4ab8-b3ed-b009b42b581b)
     (property "Reference" "#PWR0212" (id 0) (at 222.25 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 142.24 0))
     (property "Footprint" "" (id 2) (at 218.44 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5136,13 +5136,13 @@
     (pin "1" (uuid f2022077-041e-4c65-a40e-2e304ef80c6c))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 163.83 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 163.83 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8298b079-1c60-42b6-83cb-8c9b95765dd6)
     (property "Reference" "#PWR080" (id 0) (at 63.5 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 163.83 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 163.83 0))
     (property "Footprint" "" (id 2) (at 59.69 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5218,13 +5218,13 @@
     (pin "1" (uuid 82996b37-f739-43dd-9000-cb9d0afc676f))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 874edc43-6068-44c9-8e8b-c35f038264e8)
     (property "Reference" "#PWR074" (id 0) (at 63.5 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 99.06 0))
     (property "Footprint" "" (id 2) (at 59.69 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5234,13 +5234,13 @@
     (pin "1" (uuid 1110a756-a926-4219-8f98-e46620e3b6c3))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 87e65532-f55f-412c-b194-e16bc2ea1ed3)
     (property "Reference" "#PWR0125" (id 0) (at 127 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 45.085 0))
     (property "Footprint" "" (id 2) (at 123.19 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5267,13 +5267,13 @@
     (pin "4" (uuid 247c659f-547f-4c4d-9d2a-e24a32fdc8f8))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 89d5b81e-7180-42ed-8b1e-d4f6e73652a7)
     (property "Reference" "#PWR0208" (id 0) (at 222.25 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 99.06 0))
     (property "Footprint" "" (id 2) (at 218.44 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5332,13 +5332,13 @@
     (pin "4" (uuid f7aaf932-db7a-495e-a76c-191c2bb6dd22))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8afd7022-d287-41d0-841f-6c2374940da5)
     (property "Reference" "#PWR0185" (id 0) (at 190.5 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 131.445 0))
     (property "Footprint" "" (id 2) (at 186.69 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5348,13 +5348,13 @@
     (pin "1" (uuid 64362aaa-e15d-4328-877c-e446a6a61d98))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8c1dc077-fcb5-4aee-9c33-0e82acd821e8)
     (property "Reference" "#PWR042" (id 0) (at 31.75 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 55.88 0))
     (property "Footprint" "" (id 2) (at 27.94 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5381,13 +5381,13 @@
     (pin "4" (uuid 4b194017-7379-4e87-bd27-f036d497b046))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8f1854b0-1566-479a-bf8b-579a18e36a2e)
     (property "Reference" "#PWR098" (id 0) (at 95.25 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 55.88 0))
     (property "Footprint" "" (id 2) (at 91.44 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5478,13 +5478,13 @@
     (pin "4" (uuid e49fec6d-0e53-4e18-a25d-948c8d55f0ea))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 939dfade-ebcc-4200-8088-65142be535ee)
     (property "Reference" "#PWR045" (id 0) (at 31.75 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 88.265 0))
     (property "Footprint" "" (id 2) (at 27.94 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5526,13 +5526,13 @@
     (pin "1" (uuid 4228b036-41b9-4289-9e0f-f5ce22816fa4))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 96baca18-000e-4da3-83e1-6af57f2249a5)
     (property "Reference" "#PWR0107" (id 0) (at 95.25 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 153.035 0))
     (property "Footprint" "" (id 2) (at 91.44 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5542,13 +5542,13 @@
     (pin "1" (uuid 9748e90c-2b48-4b61-9d2b-1a03609259f5))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 971b7cd3-a5d1-40bb-a3e5-dd28b4237d61)
     (property "Reference" "#PWR0155" (id 0) (at 158.75 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 88.265 0))
     (property "Footprint" "" (id 2) (at 154.94 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5558,13 +5558,13 @@
     (pin "1" (uuid 7ffa145d-e531-4462-806e-cee95b673e95))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 163.83 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 163.83 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9821ef8c-5d8b-4fd6-bb83-51db448e01fd)
     (property "Reference" "#PWR0108" (id 0) (at 95.25 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 163.83 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 163.83 0))
     (property "Footprint" "" (id 2) (at 91.44 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5590,13 +5590,13 @@
     (pin "1" (uuid 7ffd544d-d2fd-4f35-9e43-edb2786670d0))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 99e5b7d9-c972-41f4-829b-d39eb59939eb)
     (property "Reference" "#PWR047" (id 0) (at 31.75 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 109.855 0))
     (property "Footprint" "" (id 2) (at 27.94 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5606,13 +5606,13 @@
     (pin "1" (uuid 187678d9-4770-44a6-9dae-76d4d5bd0b30))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9ae6180a-acaa-49c5-a9e9-140aa9384ec0)
     (property "Reference" "#PWR0130" (id 0) (at 127 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 99.06 0))
     (property "Footprint" "" (id 2) (at 123.19 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5622,13 +5622,13 @@
     (pin "1" (uuid 10c65bf3-7d54-4161-8d0f-2fe58ad04036))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9c6dd518-104c-480e-9f99-5f03f0a46ad8)
     (property "Reference" "#PWR0135" (id 0) (at 127 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 153.035 0))
     (property "Footprint" "" (id 2) (at 123.19 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5672,13 +5672,13 @@
     (pin "4" (uuid aba58378-502d-411a-a31d-761cd4031ef3))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9de31731-2086-4f6b-9439-4572fd371311)
     (property "Reference" "#PWR0129" (id 0) (at 127 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 88.265 0))
     (property "Footprint" "" (id 2) (at 123.19 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5705,13 +5705,13 @@
     (pin "4" (uuid f2a72649-98ce-453b-bd06-de27e8166945))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9e415372-ffe2-482d-adca-1379717b8e26)
     (property "Reference" "#PWR0210" (id 0) (at 222.25 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 120.65 0))
     (property "Footprint" "" (id 2) (at 218.44 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5721,13 +5721,13 @@
     (pin "1" (uuid 8f2bd5b1-002e-43fc-9afd-e07c5bf34548))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9ea16443-a736-4649-8ca3-d7b8fd6ef8cf)
     (property "Reference" "#PWR0102" (id 0) (at 95.25 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 99.06 0))
     (property "Footprint" "" (id 2) (at 91.44 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5836,13 +5836,13 @@
     (pin "1" (uuid 02075867-1164-4ad6-bbfa-4e51955563e8))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a4ce7545-52f2-43d5-957b-6713c53df4f3)
     (property "Reference" "#PWR0128" (id 0) (at 127 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 77.47 0))
     (property "Footprint" "" (id 2) (at 123.19 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5852,13 +5852,13 @@
     (pin "1" (uuid 32b448df-e0e0-4d70-86a3-cff40b18cefa))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a4d103a5-26ad-4746-8e5f-cbf20439865c)
     (property "Reference" "#PWR0237" (id 0) (at 254 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 131.445 0))
     (property "Footprint" "" (id 2) (at 250.19 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5969,13 +5969,13 @@
     (pin "4" (uuid 01b815a9-8571-4b35-a622-1c3263a5d59e))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a8debd4a-b002-4878-9eb5-567f8c0fcf11)
     (property "Reference" "#PWR076" (id 0) (at 63.5 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 120.65 0))
     (property "Footprint" "" (id 2) (at 59.69 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6034,13 +6034,13 @@
     (pin "4" (uuid 3d834194-22d6-4233-980a-861a6d8d2c37))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid acb9ef4a-035b-46b2-9273-198eb00acbd7)
     (property "Reference" "#PWR075" (id 0) (at 63.5 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 109.855 0))
     (property "Footprint" "" (id 2) (at 59.69 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6084,13 +6084,13 @@
     (pin "4" (uuid 1de70ac8-ea91-4615-9e91-3840876d0b06))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ad19f8f8-fd40-47b5-b4f2-db261a47d5b8)
     (property "Reference" "#PWR0186" (id 0) (at 190.5 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 142.24 0))
     (property "Footprint" "" (id 2) (at 186.69 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6117,13 +6117,13 @@
     (pin "4" (uuid 2185730e-962c-4066-bf77-75f049a36a47))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b00f7605-8b13-4c13-bf20-8a3ca52740ed)
     (property "Reference" "#PWR0228" (id 0) (at 254 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 34.29 0))
     (property "Footprint" "" (id 2) (at 250.19 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6197,13 +6197,13 @@
     (pin "1" (uuid ba519ab6-1156-4ea1-b9e6-b9cf085b8c7f))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 88.265 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 88.265 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b7b1b377-92c9-494d-8a15-33de916c28f7)
     (property "Reference" "#PWR0101" (id 0) (at 95.25 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 88.265 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 88.265 0))
     (property "Footprint" "" (id 2) (at 91.44 88.265 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6263,13 +6263,13 @@
     (pin "1" (uuid 5ced5b37-8e40-4561-9734-26ca64d60ffe))
   )
 
-  (symbol (lib_id "power:VDD") (at 91.44 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 91.44 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b878ae01-314a-472b-af50-e75eba168281)
     (property "Reference" "#PWR0104" (id 0) (at 95.25 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 87.63 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 87.63 120.65 0))
     (property "Footprint" "" (id 2) (at 91.44 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6345,13 +6345,13 @@
     (pin "1" (uuid 3d92cd9f-6f87-4d3b-a733-8e1267f63396))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c0877ca1-4897-4dd9-9b78-ea63515883e7)
     (property "Reference" "#PWR0227" (id 0) (at 254 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 23.495 0))
     (property "Footprint" "" (id 2) (at 250.19 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6410,13 +6410,13 @@
     (pin "4" (uuid c6310981-aa62-4c98-93ea-a2a812a92006))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c1d4c171-8696-41b8-9b66-ff8440482bac)
     (property "Reference" "#PWR0206" (id 0) (at 222.25 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 77.47 0))
     (property "Footprint" "" (id 2) (at 218.44 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6459,13 +6459,13 @@
     (pin "4" (uuid 58850121-aaa1-4acd-b2eb-5eec02ba4583))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 55.88 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 55.88 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c2cfe3f0-cdec-4a2a-b018-9bd1f0b3bdd8)
     (property "Reference" "#PWR070" (id 0) (at 63.5 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 55.88 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 55.88 0))
     (property "Footprint" "" (id 2) (at 59.69 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6574,13 +6574,13 @@
     (pin "1" (uuid 62caced3-a257-4a05-9dc3-177327f748b6))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c8a3f6c9-e526-4db3-8c23-7e4bfd5a2e53)
     (property "Reference" "#PWR050" (id 0) (at 31.75 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 142.24 0))
     (property "Footprint" "" (id 2) (at 27.94 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6688,13 +6688,13 @@
     (pin "1" (uuid 9f3bfcf7-05fc-4abb-af83-cac736430580))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 163.83 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 163.83 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cd9ac5ad-7b94-4d75-afb5-80e07a014efb)
     (property "Reference" "#PWR052" (id 0) (at 31.75 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 163.83 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 163.83 0))
     (property "Footprint" "" (id 2) (at 27.94 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6820,13 +6820,13 @@
     (pin "4" (uuid fb9e3bb1-5990-4102-b1b0-2020195f287d))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d250ad8c-140f-483e-8cf0-4220bfcbe47d)
     (property "Reference" "#PWR0239" (id 0) (at 254 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 153.035 0))
     (property "Footprint" "" (id 2) (at 250.19 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6852,13 +6852,13 @@
     (pin "1" (uuid 086a7de1-9489-4672-851a-1c561b42e974))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d2a0037d-eac4-425a-9468-9ce788c5260e)
     (property "Reference" "#PWR0159" (id 0) (at 158.75 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 131.445 0))
     (property "Footprint" "" (id 2) (at 154.94 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7017,13 +7017,13 @@
     (pin "4" (uuid 710c914d-0a1f-4201-ad67-9d8fa823ee86))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 142.24 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 142.24 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dc417f9d-0f72-4947-bc3d-053f4be1f448)
     (property "Reference" "#PWR0160" (id 0) (at 158.75 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 142.24 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 142.24 0))
     (property "Footprint" "" (id 2) (at 154.94 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7066,13 +7066,13 @@
     (pin "1" (uuid 13753059-88b8-4bb9-8a78-9e7ade3d25ae))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e21a9297-f548-4d15-a5bb-cf362fa7b277)
     (property "Reference" "#PWR0153" (id 0) (at 158.75 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 66.675 0))
     (property "Footprint" "" (id 2) (at 154.94 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7149,13 +7149,13 @@
     (pin "1" (uuid b3d0ec54-7d8e-4a05-9e54-8c29611f78be))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e62f5a6e-dace-4e72-814d-f24c35a559d8)
     (property "Reference" "#PWR0232" (id 0) (at 254 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 77.47 0))
     (property "Footprint" "" (id 2) (at 250.19 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7216,13 +7216,13 @@
     (pin "4" (uuid 10e71f6f-2bef-4566-b4ce-45c8914ee27c))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 153.035 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 153.035 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e95443a7-27f3-4af1-b263-1a756c0ea71b)
     (property "Reference" "#PWR0161" (id 0) (at 158.75 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 153.035 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 153.035 0))
     (property "Footprint" "" (id 2) (at 154.94 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7249,13 +7249,13 @@
     (pin "4" (uuid 457dadb1-ea52-4bf2-ab4d-169efb4ae4c7))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 77.47 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 77.47 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid edb87abb-b097-4ef2-93a6-e2ee784afcb7)
     (property "Reference" "#PWR0154" (id 0) (at 158.75 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 77.47 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 77.47 0))
     (property "Footprint" "" (id 2) (at 154.94 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7298,13 +7298,13 @@
     (pin "4" (uuid b2569381-f6ce-40b4-87d3-d3d69f5dc87a))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 109.855 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 109.855 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f027fbe6-751c-44d6-8e39-d048c0e3042d)
     (property "Reference" "#PWR0183" (id 0) (at 190.5 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 109.855 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 109.855 0))
     (property "Footprint" "" (id 2) (at 186.69 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7314,13 +7314,13 @@
     (pin "1" (uuid d196d19f-592d-43bf-b06d-568ebcd7b590))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f0481c6a-2800-480a-a737-9396bb136114)
     (property "Reference" "#PWR0156" (id 0) (at 158.75 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 99.06 0))
     (property "Footprint" "" (id 2) (at 154.94 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7330,13 +7330,13 @@
     (pin "1" (uuid e5e52b2e-74b1-4c81-bf75-9de537be7cd3))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f0a3414e-2516-45fa-8c48-8b8f5b3cfcb0)
     (property "Reference" "#PWR0234" (id 0) (at 254 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 99.06 0))
     (property "Footprint" "" (id 2) (at 250.19 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7363,13 +7363,13 @@
     (pin "4" (uuid fe25e6ce-6b92-4798-9fa3-fe5345abfc72))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 66.675 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 66.675 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f173a6c3-a38a-4ca3-9c59-964e38246f9c)
     (property "Reference" "#PWR0179" (id 0) (at 190.5 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 66.675 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 66.675 0))
     (property "Footprint" "" (id 2) (at 186.69 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7428,13 +7428,13 @@
     (pin "1" (uuid 2c531aa9-0192-451b-81ef-6257bb6c0e5b))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 99.06 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 99.06 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f30be132-07f9-4c3f-8dfa-20239f3ff17d)
     (property "Reference" "#PWR046" (id 0) (at 31.75 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 99.06 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 99.06 0))
     (property "Footprint" "" (id 2) (at 27.94 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7444,13 +7444,13 @@
     (pin "1" (uuid 889d98f7-7b14-4d3e-a2f4-53d1b3c044c7))
   )
 
-  (symbol (lib_id "power:VDD") (at 186.69 45.085 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 186.69 45.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f4549fa7-a3c8-45d0-843e-5443b2a49789)
     (property "Reference" "#PWR0177" (id 0) (at 190.5 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 182.88 45.085 0))
+    (property "Value" "VBUS" (id 1) (at 182.88 45.085 0))
     (property "Footprint" "" (id 2) (at 186.69 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7477,13 +7477,13 @@
     (pin "4" (uuid 5c4f6fcf-f67e-4483-a51c-cee3583b39a9))
   )
 
-  (symbol (lib_id "power:VDD") (at 27.94 131.445 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 27.94 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f53da0b1-73f0-46b5-a97f-2d8a2b4f0019)
     (property "Reference" "#PWR049" (id 0) (at 31.75 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 24.13 131.445 0))
+    (property "Value" "VBUS" (id 1) (at 24.13 131.445 0))
     (property "Footprint" "" (id 2) (at 27.94 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7510,13 +7510,13 @@
     (pin "4" (uuid 46b11aad-a58a-4277-8240-87a8e291703c))
   )
 
-  (symbol (lib_id "power:VDD") (at 218.44 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 218.44 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f756c8b9-98e3-41f4-91d5-695cea05adee)
     (property "Reference" "#PWR0201" (id 0) (at 222.25 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 214.63 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 214.63 23.495 0))
     (property "Footprint" "" (id 2) (at 218.44 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7558,13 +7558,13 @@
     (pin "1" (uuid 137f1b3d-6964-49b8-9d99-6e6bf81a7ffb))
   )
 
-  (symbol (lib_id "power:VDD") (at 250.19 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 250.19 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f877e208-5f94-4229-8f7b-2a4a711f7f50)
     (property "Reference" "#PWR0236" (id 0) (at 254 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 246.38 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 246.38 120.65 0))
     (property "Footprint" "" (id 2) (at 250.19 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7607,13 +7607,13 @@
     (pin "1" (uuid 6f5e3d9b-f948-4bc8-933e-9f5f00218fd2))
   )
 
-  (symbol (lib_id "power:VDD") (at 59.69 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 59.69 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fba1398c-17cc-453d-90fd-1b2b62723170)
     (property "Reference" "#PWR067" (id 0) (at 63.5 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 55.88 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 55.88 23.495 0))
     (property "Footprint" "" (id 2) (at 59.69 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7672,13 +7672,13 @@
     (pin "4" (uuid 2b288bda-5b04-4c9f-b4b6-1e2855ea6ba7))
   )
 
-  (symbol (lib_id "power:VDD") (at 154.94 34.29 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 154.94 34.29 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fe69342b-43a8-408f-b02e-6858ef9e03a9)
     (property "Reference" "#PWR0150" (id 0) (at 158.75 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 151.13 34.29 0))
+    (property "Value" "VBUS" (id 1) (at 151.13 34.29 0))
     (property "Footprint" "" (id 2) (at 154.94 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7688,13 +7688,13 @@
     (pin "1" (uuid a5305814-5c70-4247-804b-ca5d318059b4))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 23.495 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 23.495 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fea95752-98cd-48f4-a078-6be5a4232002)
     (property "Reference" "#PWR0123" (id 0) (at 127 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 23.495 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 23.495 0))
     (property "Footprint" "" (id 2) (at 123.19 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7704,13 +7704,13 @@
     (pin "1" (uuid 9e036130-fe58-44ad-ab32-75d60f4eb06e))
   )
 
-  (symbol (lib_id "power:VDD") (at 123.19 120.65 90) (unit 1)
+  (symbol (lib_id "power:VBUS") (at 123.19 120.65 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ff774182-cec5-49b2-abbd-44fbbe652853)
     (property "Reference" "#PWR0132" (id 0) (at 127 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDD" (id 1) (at 119.38 120.65 0))
+    (property "Value" "VBUS" (id 1) (at 119.38 120.65 0))
     (property "Footprint" "" (id 2) (at 123.19 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7718,5 +7718,975 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 540062c5-e8fd-4469-8127-d4dd5baf871c))
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+    (path "/44de044d-8eb1-4ccd-a47a-b0ca3ed44dde"
+      (reference "#PWR053") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c69b794f-d080-4efd-a4a0-c62eef722573"
+      (reference "#PWR054") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ca379c63-49c6-4268-a9d1-3329630d2c9e"
+      (reference "#PWR055") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f8721a4d-2399-4a12-812e-fd2958d6065f"
+      (reference "#PWR056") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2f65f458-2738-43a4-b1e1-9eca3f55660d"
+      (reference "#PWR057") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/407dd0ad-7802-48a6-94d4-7804b13706a2"
+      (reference "#PWR058") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a4a1ebb8-f7e4-4b6f-992a-8019b7057fb1"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0c4bd11-95ad-42f2-8c44-778455c7bcb7"
+      (reference "#PWR060") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2f1281cd-c979-4ecf-9e70-8745f5d3dff0"
+      (reference "#PWR061") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/aa820331-e6e4-4a14-86da-cc76cf715674"
+      (reference "#PWR062") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/44c54b1c-f012-4484-bbd4-b5f1bbbc5dab"
+      (reference "#PWR063") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b54da54c-429c-4d85-a623-3d43d1ff0925"
+      (reference "#PWR064") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/18b5d18d-a4ab-4602-aff9-9ccc6d439d8d"
+      (reference "#PWR065") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d80dd903-79a1-45c6-bcff-53e31e23feb3"
+      (reference "#PWR066") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4f42e594-b7b2-4e2c-8401-d39c1a2e68dc"
+      (reference "#PWR081") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4f8ba15b-55ea-4436-a953-7fd34cbc2666"
+      (reference "#PWR082") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5d81bafc-1d63-4689-8676-754231201329"
+      (reference "#PWR083") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d291001c-b4d7-4639-836c-3f2709034bc0"
+      (reference "#PWR084") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a01c3163-1c80-4c34-8eb8-9e1d232387c5"
+      (reference "#PWR085") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7f994ed4-858f-4b42-a53a-13211927d7de"
+      (reference "#PWR086") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/390df583-4650-4f93-aa0f-b644e7aca749"
+      (reference "#PWR087") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4221d61c-b002-4ddf-8a38-ba81cfc2149f"
+      (reference "#PWR088") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/77c4b69e-e979-4e99-ad8d-3fc76c084495"
+      (reference "#PWR089") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8a0442b9-b438-4bd4-97db-f25f61e463f1"
+      (reference "#PWR090") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/17f7e850-49e5-429b-a2f0-4741ea584055"
+      (reference "#PWR091") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f8576389-40b9-4120-9ad8-c425a6c69f36"
+      (reference "#PWR092") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c853dd5b-d052-4301-a11d-3796b0ef532d"
+      (reference "#PWR093") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b4d70ae0-7dfd-4958-9af1-6efc504c7bfb"
+      (reference "#PWR094") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/09bd1c42-2d38-4394-ab96-8cb568f7caa8"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ca92478d-e67b-444d-a998-d747ab0d4bb5"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/45599949-a5ba-4ecd-8895-c0c180c1604d"
+      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/270f2688-a9fe-48fa-bd69-e3e5a09b491c"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/27e4f6f2-97f3-43eb-b793-c7a276aa1bf5"
+      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/aa0218c5-0248-4f70-b2ad-49f581a91cb5"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4f6f671f-fdd8-41ff-b9d2-0d9cf48d0848"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/836585c5-b02a-4f16-ae48-d4d041aa033c"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f91dac61-3a35-4c6d-90df-61332648dbf1"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2919fe88-fe92-4adf-93ca-8f7dfda3f82a"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7b1198a0-c6da-4dd2-b7be-9b45eb389168"
+      (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5623dc57-c673-4c51-8e40-62669fea550f"
+      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/da2ced81-bfc1-44d2-a3d3-f72e0db4ce07"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/158f7fe7-abb3-4c97-b938-788224dcea2a"
+      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7fa17826-fd52-4040-b5aa-d13e7438e9ae"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9eda37f9-5a6c-404b-9e70-fba201f8df66"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/151b5c4e-609e-4ce4-988d-d6dad9681369"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3dc59a95-c44a-43ab-9472-a653bdcdde60"
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/30b4776e-141c-42d4-9892-cd9ac70c06bc"
+      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ced2e9f9-950f-4275-90bb-71eabe157e7e"
+      (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a6bfee5a-e8c9-46aa-860c-0ff50442db0d"
+      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f191ac1d-b9e7-4cc2-bc7e-c52d90b74c57"
+      (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d01318e1-811d-4666-93c2-07bab7d6c120"
+      (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cbf4e8ca-db3f-4c5d-b375-40b71325cd39"
+      (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/36550480-2bbc-4992-acb7-e7264f0dbead"
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/39f322d2-122b-449f-84ad-54d7465f039c"
+      (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/71c90b68-1f39-4ca2-b85d-3c9bc2a73f0d"
+      (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0bc2b9a5-fc90-4656-ab12-1415502d7c20"
+      (reference "#PWR0162") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/06976115-3693-49f4-bcb5-0fd6e7a76b06"
+      (reference "#PWR0163") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/324c95f2-687e-4e8d-a57a-07cee0a15f5f"
+      (reference "#PWR0164") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6aa8474a-d8da-4251-bcb4-0fa4a4ab6d8f"
+      (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/93ca7b0e-fd9b-4669-bf41-23c9ab665e1a"
+      (reference "#PWR0166") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0bb8f13a-deb3-4b26-9787-4ec6263dc719"
+      (reference "#PWR0167") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/825aca82-34ba-45b2-bb42-165a29a28534"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e18c1e09-8f2d-4753-aff2-b42d6c9edb11"
+      (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/da52a4a8-a473-4c19-8fb7-cedfc666047f"
+      (reference "#PWR0170") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5aea11d6-fe5e-4dde-ae0b-26140f0ed76d"
+      (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3d0f06c4-82de-40c4-b063-0870a2cb8da3"
+      (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fc65bec7-202f-44f5-83d6-895e62e6b2f6"
+      (reference "#PWR0173") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0dc2f0e-d064-4212-bc14-0c0c57668a2d"
+      (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/89daf006-6c2c-4912-88a4-f7303984dcc4"
+      (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1d2b614b-2d7b-4d7f-8d41-8c35a5bdc437"
+      (reference "#PWR0189") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c23aa635-39c0-4ec1-b289-34e58d1f09f0"
+      (reference "#PWR0190") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d126932d-c4fb-45d4-8001-5a4a75eb215f"
+      (reference "#PWR0191") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/86fc1a13-aaba-4886-9497-2a64a6e69927"
+      (reference "#PWR0192") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/98bd1ce5-235e-4bce-a424-5bcd764d7507"
+      (reference "#PWR0193") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5f8ff61f-e00c-4aef-8b84-bef265fa8e4d"
+      (reference "#PWR0194") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/fbadc29b-4e17-4ec8-8336-e2dd60fc3f0f"
+      (reference "#PWR0195") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/16a2c1b4-fbcc-4090-8bc7-2ce24a686f08"
+      (reference "#PWR0196") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/eded1d71-52f3-4c2e-aa14-d677d0d5bd74"
+      (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/69e1193c-2043-4129-adad-a9bca5752bac"
+      (reference "#PWR0198") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2575a7e6-eef8-41d2-bb0b-9d4e16273821"
+      (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9130c967-1282-48e5-98ce-44b82b1a170d"
+      (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/47ca9551-f299-4eb0-b1df-6009f2d9cb82"
+      (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ba44e715-92bc-4176-9b19-94050207dc52"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0f876e49-7f8e-403e-bef3-55bb05e3c272"
+      (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b85ccbaf-9065-425c-b33b-35114b3e2f2b"
+      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f2538572-f3f3-4f54-8cfb-108bdb5a84a4"
+      (reference "#PWR0218") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/968ab718-d314-4a13-a292-8361888fcd47"
+      (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/37abdb2d-0115-4a92-b429-d9b1ed5a1b3d"
+      (reference "#PWR0220") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/31aa9d6a-acf2-4682-a143-2755ed281661"
+      (reference "#PWR0221") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0755b90a-746b-4503-a5a8-56ef5785c4ce"
+      (reference "#PWR0222") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/0e305f12-fd6f-4a9c-9e4e-c7a85baae043"
+      (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9206b2da-3f22-4a69-a2ec-422efc861f8c"
+      (reference "#PWR0224") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/90e29e19-fff4-474d-a46d-9265509113e6"
+      (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e45d4960-d4d8-460f-a291-345b0b4c7e64"
+      (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6484d24f-38eb-424e-8bcf-faa717bc253e"
+      (reference "#PWR0240") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cbb63190-ad2d-4749-a60d-fbcd2858ffec"
+      (reference "#PWR0241") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/bcbfcc8d-fbc7-4950-9aab-ef4cd63fd539"
+      (reference "#PWR0242") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/74ce15a8-0bc3-4097-9a2b-16a3b7b6d67c"
+      (reference "#PWR0243") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/da8f54a7-c7c7-4e60-910b-6f779439a120"
+      (reference "#PWR0244") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/90ccb18f-f50f-4d43-909d-6d8d3061d866"
+      (reference "#PWR0245") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c59dfcb7-e2f6-41c1-8c6b-213bc3274b8d"
+      (reference "#PWR0246") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b53523c7-b4da-4058-90d0-a5b8f11d3b9a"
+      (reference "#PWR0247") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/372c5133-2844-4bb1-9d73-1149655dda62"
+      (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b3abd843-f5b8-4dfe-967a-9143a08dd3f1"
+      (reference "#PWR0249") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/37b39705-3ad2-4d15-a1c9-154c3dc307cf"
+      (reference "#PWR0250") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3a8ec8a6-7b59-4c96-8a01-bcc8d5c616ef"
+      (reference "#PWR0251") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5070c3a4-b0b5-4958-af3b-7e68f623dc21"
+      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00dd9215-34d0-4a72-8a4f-0cfc181bdcd9"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/00fa0318-0063-4983-a106-ac6129e08771"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/0160e2d5-aeaf-4ddf-bc8e-37c1e2bd7e02"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/01e03224-5c4e-4ae9-8628-4fe2df627623"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/05b75678-4327-49db-ae72-8169c1753b31"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/08709af9-c0ff-4770-9035-7037d69d1ec6"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/0e1a0979-dd13-4872-beb1-75f37dce85c3"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1051b7cc-4db3-482a-8e06-91e529f76a16"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/105218b4-c889-41c5-a46c-80b670b89314"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/12064a7f-34ce-437c-a20a-101d889f51a6"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/12dd68a5-9f6c-4320-85e1-6deebf886719"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/13adbdda-dbaf-45b6-a04c-2692cb48938f"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/13f0cfbe-0c07-492a-97f9-0a06811142a2"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1882dc20-1649-4fb0-91a5-83c9bf5e7696"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1e3a53e5-9ece-44d8-82b6-e89afdc2b048"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1e52dc98-3bbb-4484-a141-60947f103160"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1f34ee50-8cd1-4bab-9034-cf8f31639a2f"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/1ff60e36-66d7-42b0-88a8-be02702a8406"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/247b944e-79e3-4913-ab7c-4d7b524cc948"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/27653e94-9dd7-4769-ada8-a6da1509d5d0"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/288a05c1-a37f-4ec7-8682-d21121f44e92"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/2d1c0112-5e16-4a7a-9260-afd934271531"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/2ded5c1b-d841-44f3-bd75-b416932c603d"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/2fed9b89-7f54-4247-83ec-dc9254c3af31"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/30920b31-f545-4e67-a768-866f9af83976"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/34fc57bc-0d8d-461b-8286-d42b46672eb8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/37482a9b-4e3f-4011-9a7f-9cd3d57ded74"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/3a043014-07cb-4154-9f92-bd192541b737"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/49326e10-b613-46ed-b054-0a7cc4f14371"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/49ddbe4b-9b15-4952-b021-8c235154c9e5"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/4cc89933-1f79-4f45-9ae2-d39056a4de12"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/4e5ce8c8-6f3a-49ad-9df2-1a127c1ee84e"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/4e9a4660-620e-46f4-9f8c-adb7aa41862f"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/4f56c5a5-c564-41cb-bfd8-1e9bb410fb94"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/530f5549-e50c-4aa0-9d2a-fb1b3e182de1"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/53c4dbe2-30ea-40e3-b674-9ac24262a851"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/5c815fc5-cc04-4b1f-9842-972ae489e6a2"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/5d442452-c90b-4c62-8175-eb852b74753f"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/5d9bed00-efbd-4762-80c0-7ff99eba3c4d"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/5f20da60-42dc-404d-b2d1-7faa34815cbc"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/62f1831e-b4eb-41d8-9dc1-740ab02d0e4e"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/66e66604-aba2-43d1-9666-fbf85a068c36"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/69d29bb6-a172-494c-b144-37c53e0ea817"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/6c8650a0-59dc-4dc2-85ac-d660b6058028"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/6d54cd02-666c-4bd1-a78d-fa7603a4d10f"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/6d9fb6dc-b168-45a6-bd0d-0f497dda0c50"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/703a4550-3ddd-43f8-a3b2-f5df27dda1a9"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/71686e1a-033f-472f-a2d1-28c0d065f7ee"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/748fc589-8df8-43a1-aaf3-58e0bb77fb74"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/76528891-55fd-499c-9e61-8a8f30bf4754"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/776ad856-ae20-4416-afb6-9d0985c43dcb"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/776adb95-8ecb-479b-9f85-a23d58a4b690"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/7971b97f-b191-4ac8-bde0-875b6541ae66"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/7ca0fc78-6111-4825-b6e1-e9b90b62eccd"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/7cd0e105-1921-4889-9d8a-b874cf5d3051"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/7d8bcbe9-2ee8-4796-b04b-94b872bfe496"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/8206d914-3fae-4ab8-b3ed-b009b42b581b"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/8298b079-1c60-42b6-83cb-8c9b95765dd6"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/874edc43-6068-44c9-8e8b-c35f038264e8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/87e65532-f55f-412c-b194-e16bc2ea1ed3"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/89d5b81e-7180-42ed-8b1e-d4f6e73652a7"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/8afd7022-d287-41d0-841f-6c2374940da5"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/8c1dc077-fcb5-4aee-9c33-0e82acd821e8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/8f1854b0-1566-479a-bf8b-579a18e36a2e"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/939dfade-ebcc-4200-8088-65142be535ee"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/96baca18-000e-4da3-83e1-6af57f2249a5"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/971b7cd3-a5d1-40bb-a3e5-dd28b4237d61"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9821ef8c-5d8b-4fd6-bb83-51db448e01fd"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/99e5b7d9-c972-41f4-829b-d39eb59939eb"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9ae6180a-acaa-49c5-a9e9-140aa9384ec0"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9c6dd518-104c-480e-9f99-5f03f0a46ad8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9de31731-2086-4f6b-9439-4572fd371311"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e415372-ffe2-482d-adca-1379717b8e26"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9ea16443-a736-4649-8ca3-d7b8fd6ef8cf"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/a4ce7545-52f2-43d5-957b-6713c53df4f3"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/a4d103a5-26ad-4746-8e5f-cbf20439865c"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/a8debd4a-b002-4878-9eb5-567f8c0fcf11"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/acb9ef4a-035b-46b2-9273-198eb00acbd7"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/ad19f8f8-fd40-47b5-b4f2-db261a47d5b8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/b00f7605-8b13-4c13-bf20-8a3ca52740ed"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/b7b1b377-92c9-494d-8a15-33de916c28f7"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/b878ae01-314a-472b-af50-e75eba168281"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/c0877ca1-4897-4dd9-9b78-ea63515883e7"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/c1d4c171-8696-41b8-9b66-ff8440482bac"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/c2cfe3f0-cdec-4a2a-b018-9bd1f0b3bdd8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/c8a3f6c9-e526-4db3-8c23-7e4bfd5a2e53"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/cd9ac5ad-7b94-4d75-afb5-80e07a014efb"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/d250ad8c-140f-483e-8cf0-4220bfcbe47d"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/d2a0037d-eac4-425a-9468-9ce788c5260e"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/dc417f9d-0f72-4947-bc3d-053f4be1f448"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/e21a9297-f548-4d15-a5bb-cf362fa7b277"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/e62f5a6e-dace-4e72-814d-f24c35a559d8"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/e95443a7-27f3-4af1-b263-1a756c0ea71b"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/edb87abb-b097-4ef2-93a6-e2ee784afcb7"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f027fbe6-751c-44d6-8e39-d048c0e3042d"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f0481c6a-2800-480a-a737-9396bb136114"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f0a3414e-2516-45fa-8c48-8b8f5b3cfcb0"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f173a6c3-a38a-4ca3-9c59-964e38246f9c"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f30be132-07f9-4c3f-8dfa-20239f3ff17d"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f4549fa7-a3c8-45d0-843e-5443b2a49789"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f53da0b1-73f0-46b5-a97f-2d8a2b4f0019"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f756c8b9-98e3-41f4-91d5-695cea05adee"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/f877e208-5f94-4229-8f7b-2a4a711f7f50"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/fba1398c-17cc-453d-90fd-1b2b62723170"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/fe69342b-43a8-408f-b02e-6858ef9e03a9"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/fea95752-98cd-48f4-a078-6be5a4232002"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/ff774182-cec5-49b2-abbd-44fbbe652853"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/7a7edaa8-d372-4d2e-9a3c-76eefbd11fe4"
+      (reference "U16") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/d1d2ab00-0a80-4ace-b31c-694d87055dad"
+      (reference "U17") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/56e37891-2a2f-4892-a6e4-9ad54f93ba2c"
+      (reference "U18") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/52c98cbb-0949-4356-8e90-c85d71ee271c"
+      (reference "U19") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/651b78a8-0873-4d0d-8b9f-c1748c6a0acc"
+      (reference "U20") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9d3e3fc7-9638-438b-bc64-f271f246565b"
+      (reference "U21") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e7f3316d-95eb-42ed-a7cd-7968daf10b7e"
+      (reference "U22") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/14fc540c-3023-4909-80e4-af2c49e04032"
+      (reference "U23") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/8a27484a-a50f-4436-8ff1-c9b94455cc39"
+      (reference "U24") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/417fcc42-7283-48ea-bc1f-d3847eeb19bf"
+      (reference "U25") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/8803afda-e5ae-49d1-bd88-d6ef4ef6bcf4"
+      (reference "U26") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/3120d354-1dd6-4224-8160-238b5d236442"
+      (reference "U27") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/0275a371-47bd-4243-a08a-58223909be97"
+      (reference "U28") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/8192f247-180e-41f9-9876-f70b4a3f6963"
+      (reference "U29") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/cf1edfa6-b253-4759-a3a1-b50c0c377ba8"
+      (reference "U30") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/52ba72c9-99af-44c9-92cc-c3b654b31dbf"
+      (reference "U31") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/04b73229-4c24-48eb-8acd-abde09d1a444"
+      (reference "U32") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/ec5ac806-28d2-43d4-8fd4-c531edea3867"
+      (reference "U33") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/b7caa210-2a4b-47c2-b4c7-ae4cf20d51d2"
+      (reference "U34") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/45516151-4105-40a3-a3a7-65c0b3e44655"
+      (reference "U35") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/23c00f3f-29ba-4aec-80f6-b6282c3b9932"
+      (reference "U36") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/ad01cad6-9656-4142-aaa6-9b1bc1c749f3"
+      (reference "U37") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/79f34886-e63b-4fd0-9d87-a7605e6d505c"
+      (reference "U38") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/1984f89c-7ee5-4fc1-9574-9029472b2aa5"
+      (reference "U39") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/7efac57f-3497-4b1b-95b5-c84af72aaa20"
+      (reference "U40") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/4d5231e8-8102-4514-a169-aeddb51c9025"
+      (reference "U41") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/eeb05790-5940-4b9b-8e83-2d938b913d0b"
+      (reference "U42") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/da3557d5-425c-459b-9a76-8d67afd4913e"
+      (reference "U43") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/b9c64439-507d-43e0-bf1d-8d745720e81e"
+      (reference "U44") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/19344d0d-16bf-4df3-af52-8c2bf4e78aa7"
+      (reference "U45") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/f64956a2-341b-4cc6-8588-c98b22171ac0"
+      (reference "U46") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e85a255c-4765-4ce4-b42a-f5d17aafa4e5"
+      (reference "U47") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c139c500-679b-40b5-a1c6-e2e65937cff7"
+      (reference "U48") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/acfb97fc-6c2d-490e-94bc-a517830dd2f6"
+      (reference "U49") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a684c5d0-f4bd-4941-b054-ab1fff0c4a45"
+      (reference "U50") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/d98df5c5-009b-47fe-baba-1f6839b553b9"
+      (reference "U51") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/574d9b82-3415-40a6-95f9-b48485445314"
+      (reference "U52") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/73237e38-18df-4cf8-b407-cc898f699e2d"
+      (reference "U53") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/0ba4bf60-6f1a-4920-a418-71f257bc7e92"
+      (reference "U54") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/f21a127a-26c6-4e58-8ad5-ef2e7192fb89"
+      (reference "U55") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a8cb946c-3f92-4be6-b496-55b7a0cc1bc5"
+      (reference "U56") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/1ca790bf-839d-4b2b-a96e-27f882daea73"
+      (reference "U57") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/f5306314-c5ff-40a6-9343-ad15b608e882"
+      (reference "U58") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9f776d78-ed17-4690-ba63-ccc504431b59"
+      (reference "U59") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c96fa331-d983-4ff9-9057-1dcdade0b6f1"
+      (reference "U60") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/1ef3c02a-5377-4707-a604-103c3371b0b2"
+      (reference "U61") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/175280c5-1f1e-4173-9d70-243fbf2f07d7"
+      (reference "U62") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e8d6dd20-ebc0-495e-80a4-5c9902b6c0b7"
+      (reference "U63") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/15d9b729-8400-481c-bb2a-04278d39048a"
+      (reference "U64") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/f0ffd1d3-5c51-4469-a401-a93f95f51f08"
+      (reference "U65") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/072776f2-1dbf-4d11-b45c-73eabb45d5cd"
+      (reference "U66") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/55e0a5d3-62b4-4292-97f3-3ba20ed4d45d"
+      (reference "U67") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/85105179-b571-4100-97b8-3029f328c11c"
+      (reference "U68") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/3667152f-ecb5-4713-83ee-23cef24bfcd3"
+      (reference "U69") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c298c47b-a71a-40e3-aa90-ca979f966e5b"
+      (reference "U70") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/66b48a7c-a6d9-46d6-b589-ec2c3bbd9ca4"
+      (reference "U71") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a2a89674-b720-4724-b3e7-6b3a17177494"
+      (reference "U72") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/ab04cfdd-ca12-4c26-bc99-3af01d50bf38"
+      (reference "U73") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/78e0f93b-dddd-4f81-9dc0-201d77318341"
+      (reference "U74") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e43e8ec9-fe88-4c43-a8d1-42f44776bc85"
+      (reference "U75") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9dd11c6c-6997-4dcc-992f-fa86f422e0ea"
+      (reference "U76") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a5301ddb-3b42-45be-a544-fe470e086921"
+      (reference "U77") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/321e6fe0-e254-4b15-bf2d-fd1a7eb0d49b"
+      (reference "U78") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/5540e9d8-0dcb-40fa-8ee2-93eb93da0e0a"
+      (reference "U79") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/858e5cf7-9e96-4dd5-ae80-9fab91654be8"
+      (reference "U80") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/cf6efdce-51f7-4444-b618-c3ac14ca89a2"
+      (reference "U81") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e3ce6cdd-9116-4eca-972d-7ab7beaa6195"
+      (reference "U82") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/5e8830d9-e3ca-428b-b01f-3d5e79bd9f1e"
+      (reference "U83") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/2dfa487b-a971-4ffb-b81c-b58abe7402ac"
+      (reference "U84") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/b7d26bf3-d661-4657-9cb0-cedd8d4de0da"
+      (reference "U85") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/4729bdfd-e2f1-4ce4-9a63-75156a165b94"
+      (reference "U86") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/4b43cd38-bfc7-41c3-9972-3c34cedd210d"
+      (reference "U87") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c5a5c304-1595-4df2-8044-ca0b130b1892"
+      (reference "U88") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/469c8b9e-ca8f-4152-9b23-86b6103317a3"
+      (reference "U89") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/0314ee46-4b7a-4830-8b25-9abac59348f6"
+      (reference "U90") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/662e5055-29e5-4254-aa11-8e92c7f0e69a"
+      (reference "U91") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/e3d729cf-dfc3-4211-ac43-447133ccffe7"
+      (reference "U92") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/f8c497f5-5f32-42a6-afcf-8157a8e6203e"
+      (reference "U93") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a693c579-a694-4b20-8d20-97e18524e7e1"
+      (reference "U94") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/a4e2c338-73b9-4303-80b1-4e79a94acf8b"
+      (reference "U95") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/083e4c7e-57a7-406d-8218-663ccbbd6317"
+      (reference "U96") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/1260a3bb-16ac-46e4-a888-05ff4a34968b"
+      (reference "U97") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/d42d505f-98e1-42b4-9e4e-6042fb592d59"
+      (reference "U98") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/dde1c9d9-544a-4b91-af5d-5176a6113dc1"
+      (reference "U99") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/8cae6983-f528-49d4-a667-7620feb5db74"
+      (reference "U100") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/7fd7bc24-c3b4-49b4-b252-dd3ea008351c"
+      (reference "U101") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/aea7ad84-8cab-4952-8786-e3a83d59eea1"
+      (reference "U102") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e1f4123-ddb8-49c8-81c6-6cfe29469af6"
+      (reference "U103") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c8fc0289-5c9d-4c24-af1a-b2a77cb00744"
+      (reference "U104") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/520e1f9f-f6a2-4958-b55e-46f5b92dae80"
+      (reference "U105") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/ba22a120-201c-4a8c-9457-9687b76d7549"
+      (reference "U106") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/011f5f79-9a2b-4a01-9c30-5333506e6ce8"
+      (reference "U107") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/927f690c-fa79-4871-af31-8e0748c367d0"
+      (reference "U108") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c6b6c502-2c2a-4859-b2a9-3a537fb6e7ec"
+      (reference "U109") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/55460c73-4d53-4cee-ac3a-709f234c0def"
+      (reference "U110") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/cf887f2c-28d2-4b11-b89c-b8fe969aa924"
+      (reference "U111") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/71092aba-8486-4631-a6c0-bd506a0578f1"
+      (reference "U112") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/15bdf078-92a4-4920-867d-c85dee7128f9"
+      (reference "U113") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/437c9429-f7db-4a68-9362-6adaf40e011f"
+      (reference "U114") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/d2f966c6-004d-4e2e-9c75-d8d8188334f9"
+      (reference "U115") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/db6c4732-5105-40aa-8495-4aae2e64e1c1"
+      (reference "U116") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/fc90995d-cbf0-4fb9-9420-65373ffe08ba"
+      (reference "U117") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/3ed94a92-b5be-4bcd-adb4-ef9df3d3f226"
+      (reference "U118") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/c7d1b9de-111b-4b79-bebc-31b741297cdd"
+      (reference "U119") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9fb03621-92dc-4020-96e0-af4e97574d1b"
+      (reference "U120") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/34485d65-1542-45df-bb6a-ce23fdbfd8dd"
+      (reference "U121") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/39608fa4-db6a-4c08-94f4-63114a1b3f15"
+      (reference "U122") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
   )
 )

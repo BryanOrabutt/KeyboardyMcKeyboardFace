@@ -3921,46 +3921,46 @@
       (reference "#PWR038") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/01e03224-5c4e-4ae9-8628-4fe2df627623"
-      (reference "#PWR039") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR039") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/105218b4-c889-41c5-a46c-80b670b89314"
-      (reference "#PWR040") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR040") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1e52dc98-3bbb-4484-a141-60947f103160"
-      (reference "#PWR041") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR041") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8c1dc077-fcb5-4aee-9c33-0e82acd821e8"
-      (reference "#PWR042") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR042") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4e5ce8c8-6f3a-49ad-9df2-1a127c1ee84e"
-      (reference "#PWR043") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR043") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/3a043014-07cb-4154-9f92-bd192541b737"
-      (reference "#PWR044") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR044") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/939dfade-ebcc-4200-8088-65142be535ee"
-      (reference "#PWR045") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR045") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f30be132-07f9-4c3f-8dfa-20239f3ff17d"
-      (reference "#PWR046") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR046") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/99e5b7d9-c972-41f4-829b-d39eb59939eb"
-      (reference "#PWR047") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR047") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4cc89933-1f79-4f45-9ae2-d39056a4de12"
-      (reference "#PWR048") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR048") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f53da0b1-73f0-46b5-a97f-2d8a2b4f0019"
-      (reference "#PWR049") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR049") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c8a3f6c9-e526-4db3-8c23-7e4bfd5a2e53"
-      (reference "#PWR050") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR050") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1f34ee50-8cd1-4bab-9034-cf8f31639a2f"
-      (reference "#PWR051") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR051") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/cd9ac5ad-7b94-4d75-afb5-80e07a014efb"
-      (reference "#PWR052") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR052") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/44de044d-8eb1-4ccd-a47a-b0ca3ed44dde"
       (reference "#PWR053") (unit 1) (value "GND") (footprint "")
@@ -4005,46 +4005,46 @@
       (reference "#PWR066") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fba1398c-17cc-453d-90fd-1b2b62723170"
-      (reference "#PWR067") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR067") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4e9a4660-620e-46f4-9f8c-adb7aa41862f"
-      (reference "#PWR068") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR068") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7d8bcbe9-2ee8-4796-b04b-94b872bfe496"
-      (reference "#PWR069") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR069") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c2cfe3f0-cdec-4a2a-b018-9bd1f0b3bdd8"
-      (reference "#PWR070") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR070") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1ff60e36-66d7-42b0-88a8-be02702a8406"
-      (reference "#PWR071") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR071") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7cd0e105-1921-4889-9d8a-b874cf5d3051"
-      (reference "#PWR072") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR072") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0e1a0979-dd13-4872-beb1-75f37dce85c3"
-      (reference "#PWR073") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR073") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/874edc43-6068-44c9-8e8b-c35f038264e8"
-      (reference "#PWR074") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR074") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/acb9ef4a-035b-46b2-9273-198eb00acbd7"
-      (reference "#PWR075") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR075") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a8debd4a-b002-4878-9eb5-567f8c0fcf11"
-      (reference "#PWR076") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR076") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6c8650a0-59dc-4dc2-85ac-d660b6058028"
-      (reference "#PWR077") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR077") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/27653e94-9dd7-4769-ada8-a6da1509d5d0"
-      (reference "#PWR078") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR078") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5c815fc5-cc04-4b1f-9842-972ae489e6a2"
-      (reference "#PWR079") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR079") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8298b079-1c60-42b6-83cb-8c9b95765dd6"
-      (reference "#PWR080") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR080") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f42e594-b7b2-4e2c-8401-d39c1a2e68dc"
       (reference "#PWR081") (unit 1) (value "GND") (footprint "")
@@ -4089,46 +4089,46 @@
       (reference "#PWR094") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/37482a9b-4e3f-4011-9a7f-9cd3d57ded74"
-      (reference "#PWR095") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR095") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/13adbdda-dbaf-45b6-a04c-2692cb48938f"
-      (reference "#PWR096") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR096") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6d9fb6dc-b168-45a6-bd0d-0f497dda0c50"
-      (reference "#PWR097") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR097") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8f1854b0-1566-479a-bf8b-579a18e36a2e"
-      (reference "#PWR098") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR098") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/76528891-55fd-499c-9e61-8a8f30bf4754"
-      (reference "#PWR099") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR099") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2fed9b89-7f54-4247-83ec-dc9254c3af31"
-      (reference "#PWR0100") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0100") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b7b1b377-92c9-494d-8a15-33de916c28f7"
-      (reference "#PWR0101") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9ea16443-a736-4649-8ca3-d7b8fd6ef8cf"
-      (reference "#PWR0102") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/12dd68a5-9f6c-4320-85e1-6deebf886719"
-      (reference "#PWR0103") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b878ae01-314a-472b-af50-e75eba168281"
-      (reference "#PWR0104") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0104") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/05b75678-4327-49db-ae72-8169c1753b31"
-      (reference "#PWR0105") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0105") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/12064a7f-34ce-437c-a20a-101d889f51a6"
-      (reference "#PWR0106") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0106") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/96baca18-000e-4da3-83e1-6af57f2249a5"
-      (reference "#PWR0107") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0107") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9821ef8c-5d8b-4fd6-bb83-51db448e01fd"
-      (reference "#PWR0108") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0108") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/09bd1c42-2d38-4394-ab96-8cb568f7caa8"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
@@ -4173,43 +4173,43 @@
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fea95752-98cd-48f4-a078-6be5a4232002"
-      (reference "#PWR0123") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0123") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/00fa0318-0063-4983-a106-ac6129e08771"
-      (reference "#PWR0124") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0124") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/87e65532-f55f-412c-b194-e16bc2ea1ed3"
-      (reference "#PWR0125") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0125") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/776adb95-8ecb-479b-9f85-a23d58a4b690"
-      (reference "#PWR0126") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0126") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2ded5c1b-d841-44f3-bd75-b416932c603d"
-      (reference "#PWR0127") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0127") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4ce7545-52f2-43d5-957b-6713c53df4f3"
-      (reference "#PWR0128") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0128") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9de31731-2086-4f6b-9439-4572fd371311"
-      (reference "#PWR0129") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0129") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9ae6180a-acaa-49c5-a9e9-140aa9384ec0"
-      (reference "#PWR0130") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0130") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5d9bed00-efbd-4762-80c0-7ff99eba3c4d"
-      (reference "#PWR0131") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0131") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ff774182-cec5-49b2-abbd-44fbbe652853"
-      (reference "#PWR0132") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0132") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/748fc589-8df8-43a1-aaf3-58e0bb77fb74"
-      (reference "#PWR0133") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0133") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5d442452-c90b-4c62-8175-eb852b74753f"
-      (reference "#PWR0134") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0134") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9c6dd518-104c-480e-9f99-5f03f0a46ad8"
-      (reference "#PWR0135") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0135") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7fa17826-fd52-4040-b5aa-d13e7438e9ae"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
@@ -4251,43 +4251,43 @@
       (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/00dd9215-34d0-4a72-8a4f-0cfc181bdcd9"
-      (reference "#PWR0149") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0149") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/fe69342b-43a8-408f-b02e-6858ef9e03a9"
-      (reference "#PWR0150") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0150") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/34fc57bc-0d8d-461b-8286-d42b46672eb8"
-      (reference "#PWR0151") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0151") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1051b7cc-4db3-482a-8e06-91e529f76a16"
-      (reference "#PWR0152") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0152") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e21a9297-f548-4d15-a5bb-cf362fa7b277"
-      (reference "#PWR0153") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0153") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/edb87abb-b097-4ef2-93a6-e2ee784afcb7"
-      (reference "#PWR0154") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0154") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/971b7cd3-a5d1-40bb-a3e5-dd28b4237d61"
-      (reference "#PWR0155") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0155") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f0481c6a-2800-480a-a737-9396bb136114"
-      (reference "#PWR0156") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0156") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7ca0fc78-6111-4825-b6e1-e9b90b62eccd"
-      (reference "#PWR0157") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0157") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/530f5549-e50c-4aa0-9d2a-fb1b3e182de1"
-      (reference "#PWR0158") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0158") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d2a0037d-eac4-425a-9468-9ce788c5260e"
-      (reference "#PWR0159") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0159") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/dc417f9d-0f72-4947-bc3d-053f4be1f448"
-      (reference "#PWR0160") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0160") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e95443a7-27f3-4af1-b263-1a756c0ea71b"
-      (reference "#PWR0161") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0161") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0bc2b9a5-fc90-4656-ab12-1415502d7c20"
       (reference "#PWR0162") (unit 1) (value "GND") (footprint "")
@@ -4329,43 +4329,43 @@
       (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/776ad856-ae20-4416-afb6-9d0985c43dcb"
-      (reference "#PWR0175") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0175") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/13f0cfbe-0c07-492a-97f9-0a06811142a2"
-      (reference "#PWR0176") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0176") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f4549fa7-a3c8-45d0-843e-5443b2a49789"
-      (reference "#PWR0177") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0177") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/08709af9-c0ff-4770-9035-7037d69d1ec6"
-      (reference "#PWR0178") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0178") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f173a6c3-a38a-4ca3-9c59-964e38246f9c"
-      (reference "#PWR0179") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0179") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/62f1831e-b4eb-41d8-9dc1-740ab02d0e4e"
-      (reference "#PWR0180") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0180") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/0160e2d5-aeaf-4ddf-bc8e-37c1e2bd7e02"
-      (reference "#PWR0181") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0181") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/69d29bb6-a172-494c-b144-37c53e0ea817"
-      (reference "#PWR0182") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0182") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f027fbe6-751c-44d6-8e39-d048c0e3042d"
-      (reference "#PWR0183") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0183") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5f20da60-42dc-404d-b2d1-7faa34815cbc"
-      (reference "#PWR0184") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0184") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8afd7022-d287-41d0-841f-6c2374940da5"
-      (reference "#PWR0185") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0185") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/ad19f8f8-fd40-47b5-b4f2-db261a47d5b8"
-      (reference "#PWR0186") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0186") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/703a4550-3ddd-43f8-a3b2-f5df27dda1a9"
-      (reference "#PWR0187") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0187") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/89daf006-6c2c-4912-88a4-f7303984dcc4"
       (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
@@ -4407,43 +4407,43 @@
       (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f756c8b9-98e3-41f4-91d5-695cea05adee"
-      (reference "#PWR0201") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0201") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/49ddbe4b-9b15-4952-b021-8c235154c9e5"
-      (reference "#PWR0202") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0202") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1e3a53e5-9ece-44d8-82b6-e89afdc2b048"
-      (reference "#PWR0203") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0203") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/71686e1a-033f-472f-a2d1-28c0d065f7ee"
-      (reference "#PWR0204") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0204") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2d1c0112-5e16-4a7a-9260-afd934271531"
-      (reference "#PWR0205") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0205") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c1d4c171-8696-41b8-9b66-ff8440482bac"
-      (reference "#PWR0206") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0206") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/53c4dbe2-30ea-40e3-b674-9ac24262a851"
-      (reference "#PWR0207") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0207") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/89d5b81e-7180-42ed-8b1e-d4f6e73652a7"
-      (reference "#PWR0208") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0208") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/4f56c5a5-c564-41cb-bfd8-1e9bb410fb94"
-      (reference "#PWR0209") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0209") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/9e415372-ffe2-482d-adca-1379717b8e26"
-      (reference "#PWR0210") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0210") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/288a05c1-a37f-4ec7-8682-d21121f44e92"
-      (reference "#PWR0211") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0211") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/8206d914-3fae-4ab8-b3ed-b009b42b581b"
-      (reference "#PWR0212") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0212") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/247b944e-79e3-4913-ab7c-4d7b524cc948"
-      (reference "#PWR0213") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0213") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/47ca9551-f299-4eb0-b1df-6009f2d9cb82"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
@@ -4485,43 +4485,43 @@
       (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/c0877ca1-4897-4dd9-9b78-ea63515883e7"
-      (reference "#PWR0227") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0227") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/b00f7605-8b13-4c13-bf20-8a3ca52740ed"
-      (reference "#PWR0228") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0228") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6d54cd02-666c-4bd1-a78d-fa7603a4d10f"
-      (reference "#PWR0229") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0229") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7971b97f-b191-4ac8-bde0-875b6541ae66"
-      (reference "#PWR0230") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0230") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/49326e10-b613-46ed-b054-0a7cc4f14371"
-      (reference "#PWR0231") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0231") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/e62f5a6e-dace-4e72-814d-f24c35a559d8"
-      (reference "#PWR0232") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0232") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/1882dc20-1649-4fb0-91a5-83c9bf5e7696"
-      (reference "#PWR0233") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0233") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f0a3414e-2516-45fa-8c48-8b8f5b3cfcb0"
-      (reference "#PWR0234") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0234") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/66e66604-aba2-43d1-9666-fbf85a068c36"
-      (reference "#PWR0235") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0235") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/f877e208-5f94-4229-8f7b-2a4a711f7f50"
-      (reference "#PWR0236") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0236") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/a4d103a5-26ad-4746-8e5f-cbf20439865c"
-      (reference "#PWR0237") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0237") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/30920b31-f545-4e67-a768-866f9af83976"
-      (reference "#PWR0238") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0238") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/d250ad8c-140f-483e-8cf0-4220bfcbe47d"
-      (reference "#PWR0239") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR0239") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6484d24f-38eb-424e-8bcf-faa717bc253e"
       (reference "#PWR0240") (unit 1) (value "GND") (footprint "")
@@ -5031,7 +5031,7 @@
       (reference "U14") (unit 1) (value "TLV1117LV") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/818d94df-4bd8-4592-9461-937e162d5258"
-      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "QFP64-10x10MC_MCH")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7a7edaa8-d372-4d2e-9a3c-76eefbd11fe4"
       (reference "U16") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
