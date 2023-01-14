@@ -444,6 +444,10 @@
     [
       "ca47bd5b-a0a5-4e61-97d4-061cb4e586d8",
       "RGB LEDs"
+    ],
+    [
+      "558078b4-4b5e-46df-b4d8-9664c31facd8",
+      "LED Decoupling"
     ]
   ],
   "text_variables": {}

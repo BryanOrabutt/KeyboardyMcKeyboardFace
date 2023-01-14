@@ -2074,7 +2074,7 @@
     (uuid 00fa7605-e738-4f03-b10e-908b1b433acf)
     (property "Reference" "SW72" (id 0) (at 262.89 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 195.58 0)
@@ -2089,7 +2089,7 @@
     (uuid 030b797e-c689-4460-a59d-a49505592fc1)
     (property "Reference" "SW32" (id 0) (at 130.81 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 195.58 0)
@@ -2104,7 +2104,7 @@
     (uuid 04971321-0e33-471a-8d1b-a88107e1ae87)
     (property "Reference" "SW95" (id 0) (at 342.9 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 173.99 0)
@@ -2119,7 +2119,7 @@
     (uuid 088ac1b1-efa4-4a14-b658-632d284a1375)
     (property "Reference" "SW64" (id 0) (at 236.22 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 195.58 0)
@@ -2134,7 +2134,7 @@
     (uuid 0adc260b-54ef-46ca-b368-49f3286bf9ae)
     (property "Reference" "SW14" (id 0) (at 78.74 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 152.4 0)
@@ -2149,7 +2149,7 @@
     (uuid 0ba6ab2a-a025-4d60-8b09-985b26d7a228)
     (property "Reference" "SW73" (id 0) (at 289.56 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 43.18 0)
@@ -2164,7 +2164,7 @@
     (uuid 1737c18a-fc5d-424b-a08a-adb69f3c092a)
     (property "Reference" "SW50" (id 0) (at 210.82 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 64.77 0)
@@ -2179,7 +2179,7 @@
     (uuid 18925365-ba61-4472-a5fe-ff8c8d89e5c4)
     (property "Reference" "SW74" (id 0) (at 289.56 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 64.77 0)
@@ -2194,7 +2194,7 @@
     (uuid 19eb32ef-40d6-4ca7-8711-ad4eba6d54cd)
     (property "Reference" "SW35" (id 0) (at 157.48 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 86.36 0)
@@ -2209,7 +2209,7 @@
     (uuid 1a5b58b1-3660-4fb8-9f7f-a66f27187cc1)
     (property "Reference" "SW18" (id 0) (at 105.41 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 64.77 0)
@@ -2224,7 +2224,7 @@
     (uuid 1a9d8ec2-27d5-4ba4-a47d-907f6c04d753)
     (property "Reference" "SW51" (id 0) (at 210.82 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 86.36 0)
@@ -2239,7 +2239,7 @@
     (uuid 1d82f223-c405-469a-904d-c9e8c7b7a9c9)
     (property "Reference" "SW38" (id 0) (at 157.48 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 152.4 0)
@@ -2254,7 +2254,7 @@
     (uuid 1eb7ca1a-609b-44bc-94d7-8e2c4c73fd32)
     (property "Reference" "SW46" (id 0) (at 184.15 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 152.4 0)
@@ -2269,7 +2269,7 @@
     (uuid 1f9fd93c-4030-4c42-8bdf-fe2671334853)
     (property "Reference" "SW88" (id 0) (at 316.23 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 195.58 0)
@@ -2284,7 +2284,7 @@
     (uuid 22cea168-1c89-4a13-9d35-eec0802408ce)
     (property "Reference" "SW4" (id 0) (at 52.07 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 107.95 0)
@@ -2299,7 +2299,7 @@
     (uuid 22d762aa-311b-4361-84b2-020380b6c19d)
     (property "Reference" "SW83" (id 0) (at 316.23 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 86.36 0)
@@ -2314,7 +2314,7 @@
     (uuid 24c5fda0-3fbe-4e06-a63f-8e7611a043b3)
     (property "Reference" "SW33" (id 0) (at 157.48 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 43.18 0)
@@ -2329,7 +2329,7 @@
     (uuid 27963062-b367-49bd-bdcb-45a3bd1f404b)
     (property "Reference" "SW96" (id 0) (at 342.9 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 195.58 0)
@@ -2344,7 +2344,7 @@
     (uuid 2955eb85-5ac2-4577-b655-d295d4aad692)
     (property "Reference" "SW37" (id 0) (at 157.48 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 130.81 0)
@@ -2359,7 +2359,7 @@
     (uuid 2b590353-621c-449c-9152-ca32365f08aa)
     (property "Reference" "SW99" (id 0) (at 368.3 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 86.36 0)
@@ -2374,7 +2374,7 @@
     (uuid 32f960aa-af92-436c-a801-d017a0b335e0)
     (property "Reference" "SW10" (id 0) (at 78.74 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 64.77 0)
@@ -2389,7 +2389,7 @@
     (uuid 33e01b85-1552-473a-84b9-55a891d19f24)
     (property "Reference" "SW101" (id 0) (at 368.3 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 130.81 0)
@@ -2404,7 +2404,7 @@
     (uuid 34d0f21a-8a80-464f-b545-8c3a0ad8d409)
     (property "Reference" "SW7" (id 0) (at 52.07 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 173.99 0)
@@ -2419,7 +2419,7 @@
     (uuid 361a0f88-f2a5-4c3d-ac49-5838f70c9819)
     (property "Reference" "SW39" (id 0) (at 157.48 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 173.99 0)
@@ -2434,7 +2434,7 @@
     (uuid 3a55d62a-1c6e-46af-a03c-d128247e04a2)
     (property "Reference" "SW16" (id 0) (at 78.74 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 195.58 0)
@@ -2449,7 +2449,7 @@
     (uuid 3c1083b9-b67f-410b-955c-8666d7860386)
     (property "Reference" "SW68" (id 0) (at 262.89 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 107.95 0)
@@ -2464,7 +2464,7 @@
     (uuid 3c2bb5d3-cd45-4326-b314-138a7e596d5c)
     (property "Reference" "SW41" (id 0) (at 184.15 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 43.18 0)
@@ -2479,7 +2479,7 @@
     (uuid 3d9fda1f-48cf-4c64-b694-68304189270b)
     (property "Reference" "SW79" (id 0) (at 289.56 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 173.99 0)
@@ -2494,7 +2494,7 @@
     (uuid 3f656d27-82e5-4f5e-8389-2eb0f2ea2823)
     (property "Reference" "SW24" (id 0) (at 105.41 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 195.58 0)
@@ -2509,7 +2509,7 @@
     (uuid 40ed6fcd-bc70-4ba3-8b0d-2fcb82fa9c2d)
     (property "Reference" "SW81" (id 0) (at 316.23 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 43.18 0)
@@ -2524,7 +2524,7 @@
     (uuid 425e6efa-7edb-40b1-9b45-24669e35d0b7)
     (property "Reference" "SW82" (id 0) (at 316.23 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 64.77 0)
@@ -2539,7 +2539,7 @@
     (uuid 43e5ec73-f2a1-4c85-b147-41bf0f85243e)
     (property "Reference" "SW89" (id 0) (at 342.9 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 43.18 0)
@@ -2554,7 +2554,7 @@
     (uuid 45a374b0-b25f-4919-bf55-e75f9aaecf7e)
     (property "Reference" "SW28" (id 0) (at 130.81 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 107.95 0)
@@ -2569,7 +2569,7 @@
     (uuid 46d19547-48aa-40a4-be49-c49fb440b3be)
     (property "Reference" "SW26" (id 0) (at 130.81 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 64.77 0)
@@ -2584,7 +2584,7 @@
     (uuid 49fcf459-4cc7-46b9-8168-57ad9a57cc25)
     (property "Reference" "SW60" (id 0) (at 236.22 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 107.95 0)
@@ -2599,7 +2599,7 @@
     (uuid 4c247bb9-4bdf-4a0d-899f-0259a27dfe84)
     (property "Reference" "SW15" (id 0) (at 78.74 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 173.99 0)
@@ -2614,7 +2614,7 @@
     (uuid 4dc2e541-9e26-4588-96dc-759798f22bed)
     (property "Reference" "SW23" (id 0) (at 105.41 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 173.99 0)
@@ -2629,7 +2629,7 @@
     (uuid 4e0e8b0b-8b64-4091-b419-292c438a517a)
     (property "Reference" "SW94" (id 0) (at 342.9 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 152.4 0)
@@ -2644,7 +2644,7 @@
     (uuid 4f8522ad-1c85-4689-9b7a-556e83d815d4)
     (property "Reference" "SW53" (id 0) (at 210.82 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 130.81 0)
@@ -2659,7 +2659,7 @@
     (uuid 55e3488f-6d6c-4f4c-8016-c2a0655d9f60)
     (property "Reference" "SW75" (id 0) (at 289.56 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 86.36 0)
@@ -2674,7 +2674,7 @@
     (uuid 579b7ed0-25ff-47ac-b7b3-d5b7916d0a17)
     (property "Reference" "SW97" (id 0) (at 368.3 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 43.18 0)
@@ -2689,7 +2689,7 @@
     (uuid 57d75b57-5c91-482d-83ff-d2cc12e70970)
     (property "Reference" "SW77" (id 0) (at 289.56 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 130.81 0)
@@ -2704,7 +2704,7 @@
     (uuid 58dfaf50-7caf-4730-a621-385ca7d1d1b0)
     (property "Reference" "SW80" (id 0) (at 289.56 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 195.58 0)
@@ -2719,7 +2719,7 @@
     (uuid 58f572a4-ee1f-4f56-a70d-c6b698608f2a)
     (property "Reference" "SW17" (id 0) (at 105.41 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 43.18 0)
@@ -2734,7 +2734,7 @@
     (uuid 5c048b27-25ec-47fe-9399-766cddfc8e8e)
     (property "Reference" "SW25" (id 0) (at 130.81 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 43.18 0)
@@ -2749,7 +2749,7 @@
     (uuid 654304e0-1a14-4891-a9c9-2034740fa33c)
     (property "Reference" "SW22" (id 0) (at 105.41 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 152.4 0)
@@ -2764,7 +2764,7 @@
     (uuid 6c1df78a-3234-424d-9974-a6d75a6f95ef)
     (property "Reference" "SW78" (id 0) (at 289.56 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 152.4 0)
@@ -2779,7 +2779,7 @@
     (uuid 6d3e1e38-993f-4970-b08c-067d6a0c544e)
     (property "Reference" "SW2" (id 0) (at 52.07 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 64.77 0)
@@ -2794,7 +2794,7 @@
     (uuid 6f87bebb-d871-451d-8093-bcdbb1c372d4)
     (property "Reference" "SW43" (id 0) (at 184.15 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 86.36 0)
@@ -2809,7 +2809,7 @@
     (uuid 75e8dfee-d0e7-4a4e-99b9-bf7aa910928f)
     (property "Reference" "SW47" (id 0) (at 184.15 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 173.99 0)
@@ -2824,7 +2824,7 @@
     (uuid 75eba17d-0a3e-41f3-a47a-0d0d2aee08ab)
     (property "Reference" "SW55" (id 0) (at 210.82 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 173.99 0)
@@ -2839,7 +2839,7 @@
     (uuid 7779bfb0-a1e0-4088-95de-e6d92cac627d)
     (property "Reference" "SW42" (id 0) (at 184.15 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 64.77 0)
@@ -2854,7 +2854,7 @@
     (uuid 828818cc-a7a7-49fd-9c5b-e1dadc787a5f)
     (property "Reference" "SW49" (id 0) (at 210.82 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 43.18 0)
@@ -2869,7 +2869,7 @@
     (uuid 837f8481-c1ab-4fb3-a7a7-b1763d6291bd)
     (property "Reference" "SW98" (id 0) (at 368.3 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 64.77 0)
@@ -2884,7 +2884,7 @@
     (uuid 86182424-3ad2-47f4-be47-76205bd19a50)
     (property "Reference" "SW90" (id 0) (at 342.9 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 64.77 0)
@@ -2899,7 +2899,7 @@
     (uuid 86767e9d-3f22-4281-992f-2f3d75049e5c)
     (property "Reference" "SW48" (id 0) (at 184.15 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 195.58 0)
@@ -2914,7 +2914,7 @@
     (uuid 897ba867-b445-479f-b932-a957e3e2b0cd)
     (property "Reference" "SW44" (id 0) (at 184.15 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 107.95 0)
@@ -2929,7 +2929,7 @@
     (uuid 8a996ce5-5753-43d3-9a2e-2c9dba3a429c)
     (property "Reference" "SW91" (id 0) (at 342.9 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 86.36 0)
@@ -2944,7 +2944,7 @@
     (uuid 8f8873cf-6ece-4528-abcc-6f45999a2cf3)
     (property "Reference" "SW63" (id 0) (at 236.22 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 173.99 0)
@@ -2959,7 +2959,7 @@
     (uuid 945b4619-982f-4f56-9ef5-6e3569c86721)
     (property "Reference" "SW76" (id 0) (at 289.56 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 289.56 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 289.56 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 289.56 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 289.56 107.95 0)
@@ -2974,7 +2974,7 @@
     (uuid 956c8953-87fe-4089-9a8a-7294e3bc2f5c)
     (property "Reference" "SW45" (id 0) (at 184.15 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 184.15 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 184.15 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 184.15 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 130.81 0)
@@ -2989,7 +2989,7 @@
     (uuid 980c21ed-4162-4959-b18e-33090dd99e08)
     (property "Reference" "SW71" (id 0) (at 262.89 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 173.99 0)
@@ -3004,7 +3004,7 @@
     (uuid 99a65a7b-7ff3-4b3a-b17f-438c09eced5d)
     (property "Reference" "SW84" (id 0) (at 316.23 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 107.95 0)
@@ -3019,7 +3019,7 @@
     (uuid 99db0a6d-8176-4428-b9b4-f607e734c551)
     (property "Reference" "SW69" (id 0) (at 262.89 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 130.81 0)
@@ -3034,7 +3034,7 @@
     (uuid 9b694c33-3c8f-4d93-b67d-158907bb4ffa)
     (property "Reference" "SW1" (id 0) (at 52.07 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 43.18 0)
@@ -3049,7 +3049,7 @@
     (uuid 9f47fa17-3aca-48db-904a-bdc961a95170)
     (property "Reference" "SW29" (id 0) (at 130.81 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 130.81 0)
@@ -3064,7 +3064,7 @@
     (uuid a3e8aa3e-422e-484a-acc4-128ae45cfb76)
     (property "Reference" "SW19" (id 0) (at 105.41 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 86.36 0)
@@ -3079,7 +3079,7 @@
     (uuid a51254bf-7f27-407e-95cb-d8e09b05884d)
     (property "Reference" "SW31" (id 0) (at 130.81 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 173.99 0)
@@ -3094,7 +3094,7 @@
     (uuid a51df3b6-2677-40b5-a5cb-f0a0f9a42dfc)
     (property "Reference" "SW57" (id 0) (at 236.22 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 43.18 0)
@@ -3109,7 +3109,7 @@
     (uuid a5a77ece-8f75-4464-a3b4-4366d96a98b7)
     (property "Reference" "SW5" (id 0) (at 52.07 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 130.81 0)
@@ -3124,7 +3124,7 @@
     (uuid a69439cd-9588-48f9-bdc5-0ab3bdfa84ce)
     (property "Reference" "SW52" (id 0) (at 210.82 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 107.95 0)
@@ -3139,7 +3139,7 @@
     (uuid a6dd8b54-8bea-4d93-a47b-ec28fafb4783)
     (property "Reference" "SW62" (id 0) (at 236.22 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 152.4 0)
@@ -3154,7 +3154,7 @@
     (uuid ac648043-336b-4157-b719-8038f4f5615b)
     (property "Reference" "SW102" (id 0) (at 368.3 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 152.4 0)
@@ -3169,7 +3169,7 @@
     (uuid af47600a-154f-4528-bda2-e936a70f352c)
     (property "Reference" "SW54" (id 0) (at 210.82 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 152.4 0)
@@ -3184,7 +3184,7 @@
     (uuid b47b0e7e-ea09-493e-993d-213a09418ca3)
     (property "Reference" "SW93" (id 0) (at 342.9 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 130.81 0)
@@ -3199,7 +3199,7 @@
     (uuid b4ac7007-3d1a-462b-b85b-e010decbd5b2)
     (property "Reference" "SW104" (id 0) (at 368.3 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 195.58 0)
@@ -3214,7 +3214,7 @@
     (uuid b5703b30-6b23-42a6-a2f4-d31dd8c9d6b4)
     (property "Reference" "SW34" (id 0) (at 157.48 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 64.77 0)
@@ -3229,7 +3229,7 @@
     (uuid b6525903-2efd-4b80-92fc-981a6b8007b1)
     (property "Reference" "SW30" (id 0) (at 130.81 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 152.4 0)
@@ -3244,7 +3244,7 @@
     (uuid b84a99f8-28d3-4c4e-9e25-3e011e89e94f)
     (property "Reference" "SW40" (id 0) (at 157.48 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 195.58 0)
@@ -3259,7 +3259,7 @@
     (uuid b9003e4a-40c7-455d-bcf5-b25730368bb2)
     (property "Reference" "SW100" (id 0) (at 368.3 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 107.95 0)
@@ -3274,7 +3274,7 @@
     (uuid bb00df15-ff04-43ad-81ae-94a4517c0cf4)
     (property "Reference" "SW8" (id 0) (at 52.07 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 195.58 0)
@@ -3289,7 +3289,7 @@
     (uuid bdbe5c16-cc36-42e3-a259-571afa16bcf0)
     (property "Reference" "SW70" (id 0) (at 262.89 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 152.4 0)
@@ -3304,7 +3304,7 @@
     (uuid befb92c2-53cf-4ff5-868b-c0d92bf84d3b)
     (property "Reference" "SW67" (id 0) (at 262.89 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 86.36 0)
@@ -3319,7 +3319,7 @@
     (uuid c3e2fd2a-4b42-4835-8ccb-c0ad8493103d)
     (property "Reference" "SW13" (id 0) (at 78.74 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 130.81 0)
@@ -3334,7 +3334,7 @@
     (uuid c5088851-b192-4c98-906a-f6638ed4a7ff)
     (property "Reference" "SW65" (id 0) (at 262.89 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 43.18 0)
@@ -3349,7 +3349,7 @@
     (uuid c9d16be1-e1ff-4620-8d3e-a2dad2d07dc9)
     (property "Reference" "SW66" (id 0) (at 262.89 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 262.89 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 262.89 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 262.89 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 262.89 64.77 0)
@@ -3364,7 +3364,7 @@
     (uuid cb87baf3-6302-4158-bec6-a5fb2060cfdc)
     (property "Reference" "SW3" (id 0) (at 52.07 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 86.36 0)
@@ -3379,7 +3379,7 @@
     (uuid d107a214-46a4-4021-93e3-9097beb7d1a7)
     (property "Reference" "SW11" (id 0) (at 78.74 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 86.36 0)
@@ -3394,7 +3394,7 @@
     (uuid d110a327-5eab-44ec-ac0c-c0fa4233b551)
     (property "Reference" "SW6" (id 0) (at 52.07 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 52.07 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 52.07 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 52.07 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 152.4 0)
@@ -3409,7 +3409,7 @@
     (uuid d1aa0a6c-b2ee-48c8-a2b0-66996a4b7212)
     (property "Reference" "SW56" (id 0) (at 210.82 187.96 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 210.82 190.5 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 210.82 195.58 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 210.82 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 195.58 0)
@@ -3424,7 +3424,7 @@
     (uuid d244cb4b-6fdc-4eae-8b5f-64ee308f6ce7)
     (property "Reference" "SW58" (id 0) (at 236.22 57.15 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 59.69 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 64.77 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 64.77 0)
@@ -3439,7 +3439,7 @@
     (uuid d341944c-c60a-48ad-a6ac-5bc440b9b7a3)
     (property "Reference" "SW87" (id 0) (at 316.23 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 173.99 0)
@@ -3454,7 +3454,7 @@
     (uuid e893eebf-7fb5-4bc4-8be3-4db97ea7938c)
     (property "Reference" "SW103" (id 0) (at 368.3 166.37 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 368.3 168.91 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 368.3 173.99 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 368.3 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 368.3 173.99 0)
@@ -3469,7 +3469,7 @@
     (uuid e8abde90-ab7e-4df3-abc3-9d50cf30b88c)
     (property "Reference" "SW92" (id 0) (at 342.9 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 342.9 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 342.9 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 342.9 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 342.9 107.95 0)
@@ -3484,7 +3484,7 @@
     (uuid ec1a2a84-7467-47a2-a822-a96bb90e7872)
     (property "Reference" "SW85" (id 0) (at 316.23 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 130.81 0)
@@ -3499,7 +3499,7 @@
     (uuid ec43d550-0a0d-4254-9e19-63fc0cd3f6bc)
     (property "Reference" "SW61" (id 0) (at 236.22 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 130.81 0)
@@ -3514,7 +3514,7 @@
     (uuid eded1802-62b3-48e6-b4da-302d3d31ba52)
     (property "Reference" "SW9" (id 0) (at 78.74 35.56 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 38.1 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 43.18 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 43.18 0)
@@ -3529,7 +3529,7 @@
     (uuid f06daaf9-f380-496f-9e0a-aa054218b4a7)
     (property "Reference" "SW59" (id 0) (at 236.22 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 236.22 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 236.22 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 236.22 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 86.36 0)
@@ -3544,7 +3544,7 @@
     (uuid f2c5f095-49b1-4092-a437-ec7d56ed53b1)
     (property "Reference" "SW36" (id 0) (at 157.48 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 157.48 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 157.48 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 157.48 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 107.95 0)
@@ -3559,7 +3559,7 @@
     (uuid f66761f0-35dd-449c-9b3f-9b606862ec22)
     (property "Reference" "SW86" (id 0) (at 316.23 144.78 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 316.23 147.32 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 316.23 152.4 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 316.23 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 316.23 152.4 0)
@@ -3574,7 +3574,7 @@
     (uuid f6cd31aa-6764-4af1-9781-30444b8b5980)
     (property "Reference" "SW27" (id 0) (at 130.81 78.74 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 130.81 81.28 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 130.81 86.36 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 130.81 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 86.36 0)
@@ -3589,7 +3589,7 @@
     (uuid f9297c4d-297e-431b-bdcb-fd4bc5c946e9)
     (property "Reference" "SW21" (id 0) (at 105.41 123.19 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 125.73 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 130.81 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 130.81 0)
@@ -3604,7 +3604,7 @@
     (uuid faf1c224-6c02-40f5-ba0d-299c2e40b04e)
     (property "Reference" "SW20" (id 0) (at 105.41 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 105.41 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 105.41 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 105.41 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 107.95 0)
@@ -3619,7 +3619,7 @@
     (uuid fe1b3bb1-e9c2-4d5c-99bc-3f611fd6af4d)
     (property "Reference" "SW12" (id 0) (at 78.74 100.33 0))
     (property "Value" "SW_DIP_x01" (id 1) (at 78.74 102.87 0))
-    (property "Footprint" "keyswitches:Kailh_socket_MX_optional_reversible" (id 2) (at 78.74 107.95 0)
+    (property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX" (id 2) (at 78.74 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 107.95 0)
@@ -3794,6 +3794,7 @@
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1" (page "2"))
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485" (page "3"))
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8" (page "4"))
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8" (page "5"))
   )
 
   (symbol_instances
@@ -3814,9 +3815,6 @@
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/f3c7c4a5-d619-4ef9-b799-06ce472b2e74"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b806580f-80a8-4636-b816-9de86dbbd3fc"
-      (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b1f2b439-5d5d-4c62-9102-b6f215989c8f"
       (reference "#PWR05") (unit 1) (value "VDD") (footprint "")
@@ -4562,6 +4560,672 @@
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/5070c3a4-b0b5-4958-af3b-7e68f623dc21"
       (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/07bab4cb-a24c-4f7d-ab36-ab8d8cf3677e"
+      (reference "#PWR0253") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/195ffc6a-42a8-40fb-9631-4a400856d342"
+      (reference "#PWR0254") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7c296974-cdfc-420b-937b-49e82823d3b2"
+      (reference "#PWR0255") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/32d7ce85-9296-4399-a2f2-b4b803e91813"
+      (reference "#PWR0256") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ef3c54fe-e688-4bf4-9719-a86eca5f6a23"
+      (reference "#PWR0257") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8d4c3ac2-303b-4a84-9509-0a7e2707e85b"
+      (reference "#PWR0258") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4a6e7e5e-adcf-42f9-a57e-712a9dc36e74"
+      (reference "#PWR0259") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6e8e3d95-8d8c-469b-aa76-f168c7f6beed"
+      (reference "#PWR0260") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f6af6ab2-43d3-4ca9-a3dd-fb37e888fe14"
+      (reference "#PWR0261") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b05f1cab-cbe8-4469-a617-d0f50c81acf5"
+      (reference "#PWR0262") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a2356314-d760-4fa1-b469-e2e8fa4d07c3"
+      (reference "#PWR0263") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5dff4d2b-45bf-4faf-b65e-773a6740b934"
+      (reference "#PWR0264") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2b7896c8-01a0-4c59-8a3c-2e1b8febc117"
+      (reference "#PWR0265") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/968e415a-a93a-405d-a012-aa794ca64dc4"
+      (reference "#PWR0266") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/caa2290f-f3a1-4230-a4f3-e05b1a615d31"
+      (reference "#PWR0267") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5932a74e-a985-4edf-b362-11e63039f756"
+      (reference "#PWR0268") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/185723fc-ca49-4414-a077-92aef0a0fde3"
+      (reference "#PWR0269") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d732c67c-dab3-4a52-83ff-97a17853eb88"
+      (reference "#PWR0270") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/642a6a8f-5aa3-4dd4-86bb-7ba7dcd9673a"
+      (reference "#PWR0271") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b6e9f3cb-e9d4-40c0-9ca4-df2601a28e5c"
+      (reference "#PWR0272") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e680322d-5588-4fcb-a55b-c7f1fee0ba97"
+      (reference "#PWR0273") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6a0c20ea-3817-4b27-8ec0-ef8cc23f267d"
+      (reference "#PWR0274") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/cc4339f9-cee1-4841-adf8-1563e9c7a380"
+      (reference "#PWR0275") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0eb6734d-5a70-4676-94ba-9633fb5a54e7"
+      (reference "#PWR0276") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5f3f8c20-4b6a-4948-b893-0f32b8e6ecb3"
+      (reference "#PWR0277") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e2f8b449-d4e8-441f-a11b-37bf521fc4b4"
+      (reference "#PWR0278") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dae1d750-4203-4c6a-ba83-c00ac73604d0"
+      (reference "#PWR0279") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/00cde148-f791-481f-88e7-6f6d1340b67d"
+      (reference "#PWR0280") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/29d7b2c8-70a8-427b-bdd3-9945b286d865"
+      (reference "#PWR0281") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2e62c5fb-0225-471c-bb41-b6765af02fd8"
+      (reference "#PWR0282") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8f9b8597-8ae6-4180-9eef-2779946f519a"
+      (reference "#PWR0283") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/80c246d6-6f84-43fa-9f15-dcb6fac044ac"
+      (reference "#PWR0284") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a0251c27-0166-4997-9eb3-c25b396cf591"
+      (reference "#PWR0285") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3be06436-5b29-4e43-bb9b-62b8e19583f7"
+      (reference "#PWR0286") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5de6c757-17c9-46f3-a156-eebdccb5c4f8"
+      (reference "#PWR0287") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c250dc53-c8af-4434-8546-b036a18bdff4"
+      (reference "#PWR0288") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/40c6fce4-1856-4c6d-8313-d924bb939b86"
+      (reference "#PWR0289") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5c2b7087-48f3-48d1-a05c-ec9fa6ff12e6"
+      (reference "#PWR0290") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bced5659-c98f-474a-800e-f4343bf129a8"
+      (reference "#PWR0291") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/109d6a75-3dff-432f-b723-f83d085d2b15"
+      (reference "#PWR0292") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/865cc35b-9596-49ac-984d-a8dfa49ef534"
+      (reference "#PWR0293") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/24a53ae5-a98a-47b2-8a93-cacffa56ea1f"
+      (reference "#PWR0294") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6f12188b-0c42-4d6b-a51f-7d15f0303d2e"
+      (reference "#PWR0295") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d9168400-7ab5-4aaf-b704-b8735f96029e"
+      (reference "#PWR0296") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e6c392c8-f7ee-4ac8-93e8-5cbd9fae73cf"
+      (reference "#PWR0297") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/262415b8-416b-4ed8-bd75-77601fe5ff1c"
+      (reference "#PWR0298") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/920bcb4a-9075-491e-9d31-8059ae1c3f64"
+      (reference "#PWR0299") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/557b0809-9e5c-4e44-b8e3-f945fad85c5b"
+      (reference "#PWR0300") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/256f208c-42fb-4a50-8b2a-772840ee889a"
+      (reference "#PWR0301") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ef96ac6c-e819-4506-8686-24558818567a"
+      (reference "#PWR0302") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0e92697f-f446-4efd-943f-c2a9994d82d8"
+      (reference "#PWR0303") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e0f02e6c-d6d5-4e77-b070-36a3a9d741dd"
+      (reference "#PWR0304") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/98c41a37-773e-415c-8aab-a704db0f4234"
+      (reference "#PWR0305") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/adb8b084-204b-4f51-8add-597770db342a"
+      (reference "#PWR0306") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c5c45ce4-d62c-43c2-899a-9317d36c35cc"
+      (reference "#PWR0307") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b50319a7-97d8-42a4-8bad-8e248c758636"
+      (reference "#PWR0308") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2d05cc94-5b69-4989-94b4-28b877fdbed2"
+      (reference "#PWR0309") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e2e3ffb2-e4e2-462c-88ed-606f466d43f2"
+      (reference "#PWR0310") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d89b1254-82a8-4eab-a841-4b4f63e463d1"
+      (reference "#PWR0311") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5934475b-0f4e-4c71-9477-523a2826b718"
+      (reference "#PWR0312") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5e8e5a39-29c1-420b-adb1-3539767a7e1b"
+      (reference "#PWR0313") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dfd1b4c3-3b3e-4291-acc4-e9b5e39e215e"
+      (reference "#PWR0314") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a7146f9f-853d-4490-99af-d09256ccc96d"
+      (reference "#PWR0315") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/acfd77be-cc5b-444c-96e1-efbac0278f24"
+      (reference "#PWR0316") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4169da8e-f8cb-4c14-a7d7-8e2e3b7e1031"
+      (reference "#PWR0317") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8394d081-1f12-43ac-a8be-9363e3ee01df"
+      (reference "#PWR0318") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/13887da3-4ce3-420d-8658-9eeb4970ad68"
+      (reference "#PWR0319") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/61e6e16a-22a3-43c3-b593-64bbef0db6f0"
+      (reference "#PWR0320") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3a0d44fa-ee03-4cf5-801f-1115d0103028"
+      (reference "#PWR0321") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/205b4bc2-3a48-4d4c-92aa-7242f5014ebb"
+      (reference "#PWR0322") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f330b1d9-836b-4755-b838-fce67cc96ebc"
+      (reference "#PWR0323") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/614fc534-ab6e-4e38-8b70-57c76d6bcaae"
+      (reference "#PWR0324") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/18f08d23-57f6-4bee-8102-d2626340133d"
+      (reference "#PWR0325") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e5b1ce78-7461-4d09-84ec-d1df1b655e28"
+      (reference "#PWR0326") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/26d4a4f2-6cbb-4c30-a39a-2c8a05e535e0"
+      (reference "#PWR0327") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8ff62663-1533-4dcd-803e-1db975fc2b2e"
+      (reference "#PWR0328") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/122c9108-c336-41f2-badc-b3a5d0f94a99"
+      (reference "#PWR0329") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/cf32d48a-6f30-452f-bc52-a8fb5b7a1afa"
+      (reference "#PWR0330") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5eca6912-8342-4501-9ea7-77c75c8fb48a"
+      (reference "#PWR0331") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/820a90da-7408-41e9-8375-7243e0b62c45"
+      (reference "#PWR0332") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6814cf33-b460-46b5-9b34-e85ee5c4d9c5"
+      (reference "#PWR0333") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9ddc27e0-5674-4a41-a724-20ed1aff1ab9"
+      (reference "#PWR0334") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9d3c1c9a-9986-4a61-8549-06a3a05e585a"
+      (reference "#PWR0335") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6d3231c1-2d0a-40f3-8b00-83ec6abcc1c9"
+      (reference "#PWR0336") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7b803ed6-f03c-4eb5-bd64-70d04948aeed"
+      (reference "#PWR0337") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7d0ead83-a40f-4a8f-a9f9-eb8c9346d1cb"
+      (reference "#PWR0338") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/29382735-71dd-41f4-8687-cf58946d9556"
+      (reference "#PWR0339") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f47313d5-40bf-4b65-a150-f9880f30fa65"
+      (reference "#PWR0340") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/cdc8e18d-53b6-49c9-9113-03862d355332"
+      (reference "#PWR0341") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b9ed79fb-1852-4621-87d7-c7fb902cdb99"
+      (reference "#PWR0342") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/94a91ef7-6b23-4dbd-92af-e7e49979557b"
+      (reference "#PWR0343") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/30e5c80b-b4a0-4956-adda-f22287f2a9a1"
+      (reference "#PWR0344") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/57449af1-8d38-400b-857c-42bd55868cc6"
+      (reference "#PWR0345") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/909ee1e0-6c80-424b-92ca-59e012d95429"
+      (reference "#PWR0346") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1ed572e8-fa41-4005-b0de-c05c9ce21ca8"
+      (reference "#PWR0347") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dd1581dc-f16f-40d6-a2c5-b562547bac76"
+      (reference "#PWR0348") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6bc2708f-af32-4e7b-8577-eeee3500f8a3"
+      (reference "#PWR0349") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/27710bb5-eb56-4160-87ad-adc43a1c7045"
+      (reference "#PWR0350") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/239b0d1c-bdb8-47ab-a3a9-d70707ffb1d8"
+      (reference "#PWR0351") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3991bc7b-0d29-4449-b87f-31b6b2bc9f24"
+      (reference "#PWR0352") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0d268bce-c6e4-458b-a07b-8fa470108c93"
+      (reference "#PWR0353") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a7f9f4f9-e64e-4387-b844-03fb8d171e3f"
+      (reference "#PWR0354") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9c524750-d718-47fc-ae04-8c7710d9243f"
+      (reference "#PWR0355") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b6d94062-3c81-48c3-b694-1dc1eca8d307"
+      (reference "#PWR0356") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/23e36cc9-087b-4659-9544-dc6c232ce90b"
+      (reference "#PWR0357") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/68b9010a-dde0-4e71-9423-0c0cfc42da61"
+      (reference "#PWR0358") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b4e9b31e-526a-47e8-986c-076f1adc0f41"
+      (reference "#PWR0359") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a01c9740-8655-42ae-b495-7c0993e2a746"
+      (reference "#PWR0360") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c691cd18-7db9-4e91-b38c-9f2eaacfed20"
+      (reference "#PWR0361") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/853cf4a7-ce8d-428b-b3f2-6a1fcf34cd76"
+      (reference "#PWR0362") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/86a3639f-445d-4cf9-8c56-6a86f38b16d2"
+      (reference "#PWR0363") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ca030bc6-ebe2-465e-87a8-ac4a058d57c2"
+      (reference "#PWR0364") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9c617b65-5bd6-44df-ae9f-323bcfa9da5f"
+      (reference "#PWR0365") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5ef92c91-f479-4673-82c3-a639a3fe4fde"
+      (reference "#PWR0366") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/94bd109e-708d-4763-866f-68f74bc1a468"
+      (reference "#PWR0367") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f7c6274f-88ff-4d00-ab84-e4135ac41b28"
+      (reference "#PWR0368") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7c2ac8d1-8900-4b67-9c0a-549890b38e71"
+      (reference "#PWR0369") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5f2c8e3b-a416-4a9a-b46e-26407d7f2e75"
+      (reference "#PWR0370") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1559a08f-f248-4783-b92f-fd2a50fc4232"
+      (reference "#PWR0371") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2b8de008-4ef3-4f79-9331-3e66bb6e36f1"
+      (reference "#PWR0372") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/60e46704-8d2c-4899-b650-5e88970b84a0"
+      (reference "#PWR0373") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e41afe06-7a4c-40fc-a94c-55f85d786f4e"
+      (reference "#PWR0374") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ccccb106-724b-457d-a498-e17b7ddb7f0e"
+      (reference "#PWR0375") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d231b162-3e4e-49b3-810c-13a065287ded"
+      (reference "#PWR0376") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/91c743ed-c3d5-4391-92e4-f24cde470069"
+      (reference "#PWR0377") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/112d3f1f-9182-4ba1-a4e2-c3effee28705"
+      (reference "#PWR0378") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1b34aa4b-6f72-4631-b33f-ae3adcf803aa"
+      (reference "#PWR0379") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/96f548c2-0e5a-4e51-86d2-51ce68578c2e"
+      (reference "#PWR0380") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4004c8ec-0c3e-48f5-a0fc-e72fce84c9e7"
+      (reference "#PWR0381") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/13a7fe95-881a-4bc7-9f32-a5c583aea2b4"
+      (reference "#PWR0382") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6bbeb063-2727-42b1-aac6-fea457c4fcd5"
+      (reference "#PWR0383") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8fa658cb-d893-4350-a4a7-355500eeb8a2"
+      (reference "#PWR0384") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7636862c-f849-470c-8a1c-d9bf0788f8e4"
+      (reference "#PWR0385") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e1d5e8fd-7dd3-4986-ab7c-ef0aafdee6b1"
+      (reference "#PWR0386") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6c56f343-6ebc-468d-90a5-cd4cb9bc5bac"
+      (reference "#PWR0387") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6045e5c5-1ef0-4667-b351-a670d3fce6e5"
+      (reference "#PWR0388") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/522519fc-4145-486e-9fc9-ecfbc7b1fc63"
+      (reference "#PWR0389") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/02991e77-24af-4da7-8fd7-5f723a5ba486"
+      (reference "#PWR0390") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/47ed8ddf-9df7-4de1-b864-2acdd5dc0f45"
+      (reference "#PWR0391") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c7ed1299-fe84-45b6-8157-5a3c8005177f"
+      (reference "#PWR0392") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6ff83014-b2d7-48ee-bdb0-a079030c1bbb"
+      (reference "#PWR0393") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/65e30a19-7ff4-42c6-8b1b-d7e0e640b4a9"
+      (reference "#PWR0394") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f13ace1a-9f95-476b-bfe7-4ac065ad6d81"
+      (reference "#PWR0395") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e0336af5-9b79-4217-944b-3293a668bbdd"
+      (reference "#PWR0396") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/cf746ada-41b6-48b5-8bd0-22d8e5eb9edb"
+      (reference "#PWR0397") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/42452fd9-fbd9-4b58-8d87-a9c2f2d3b7af"
+      (reference "#PWR0398") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3aedf926-7056-49ff-bd11-ba85f9e599e5"
+      (reference "#PWR0399") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5dd8d38c-9d33-4421-bd25-f3c89acabb8e"
+      (reference "#PWR0400") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/165a1c48-da79-4c96-b906-08d653d49728"
+      (reference "#PWR0401") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/383f3480-213f-4f46-99c4-46c52728d394"
+      (reference "#PWR0402") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/da1957de-1adc-4d7e-a781-cc606be4f17b"
+      (reference "#PWR0403") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/339cb100-c41b-490f-9bef-37e1f7be0282"
+      (reference "#PWR0404") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/59162a9a-b501-42d3-8451-25c6bd86b3b2"
+      (reference "#PWR0405") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/67dcea13-f85d-416a-9d46-6c8cbc869655"
+      (reference "#PWR0406") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/943bf193-9528-4609-b254-c6935d956d0c"
+      (reference "#PWR0407") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6818bed5-ff76-4d3e-a3f6-490a8165378e"
+      (reference "#PWR0408") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/95d2a5f4-435d-4f6a-9e25-bf541269179c"
+      (reference "#PWR0409") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6cfd3177-81d8-4ccf-bde6-efa9aa620bb7"
+      (reference "#PWR0410") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/39680fa9-4ee6-4e8b-a3b2-3a5942cf92af"
+      (reference "#PWR0411") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5b455739-3e88-4d5c-aa8a-f8d566c0090b"
+      (reference "#PWR0412") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/76e150d0-3536-493b-bc90-e1999aff7857"
+      (reference "#PWR0413") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/58432db2-ab5c-4ff5-b621-351e54d6818c"
+      (reference "#PWR0414") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/558ef524-56d7-41b1-a9b4-15443104df0f"
+      (reference "#PWR0415") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dfcc8f6b-08ea-4fac-a6be-d5693b28d917"
+      (reference "#PWR0416") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c8956e67-2915-4811-85f4-a8bd2c9047ec"
+      (reference "#PWR0417") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/14c855b5-cfc4-4e0d-9ecb-ff87b64c9ef0"
+      (reference "#PWR0418") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0176a7fb-97d7-4f08-8dfc-381aa93306fa"
+      (reference "#PWR0419") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/983055ba-b746-4cb7-9d71-6759065616cd"
+      (reference "#PWR0420") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0571ff97-6572-4306-ba5e-92ce952b1d6d"
+      (reference "#PWR0421") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/41a140ff-feae-4026-8b18-3334e35492e4"
+      (reference "#PWR0422") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/10402b63-63ef-434b-b25b-3e60cba14d1b"
+      (reference "#PWR0423") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/920416b0-2206-466f-b13e-986754a53fdb"
+      (reference "#PWR0424") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d9df92ac-daf3-4151-b036-8175237b5e28"
+      (reference "#PWR0425") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/564e93f6-0a5f-4e30-98b8-daddfa0024da"
+      (reference "#PWR0426") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2f72b50a-5e65-4eaf-be66-141569fe7dd5"
+      (reference "#PWR0427") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d11d7df8-9d4a-451f-b4c9-4f6cd831a6fd"
+      (reference "#PWR0428") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b9d79238-734f-46bf-ab75-9b47df0915fc"
+      (reference "#PWR0429") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e8ccae4a-9857-418c-81dc-718d98b9a73a"
+      (reference "#PWR0430") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a83ccef1-c2f0-405a-8a7b-fc8a92b95a44"
+      (reference "#PWR0431") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/03adcc57-8d09-4cb2-9eae-8708d3ca6882"
+      (reference "#PWR0432") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a7cbb1f7-5731-41aa-b559-8c774f01ac6e"
+      (reference "#PWR0433") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5bc4f164-2f6a-4d9b-b581-208eeec0a345"
+      (reference "#PWR0434") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3205dca5-80d7-4034-8fe4-4aa7cbe6b80f"
+      (reference "#PWR0435") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a933efc1-09ff-46e3-8987-797f2657049a"
+      (reference "#PWR0436") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/904fc311-e125-4eef-87f1-db0754ae8f37"
+      (reference "#PWR0437") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d5eb2e14-e9d7-4209-a41c-c87c9b6980b2"
+      (reference "#PWR0438") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/84e8522f-334f-4787-862d-d6ca38d9e60b"
+      (reference "#PWR0439") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d67e3fa4-0623-4bba-ac12-30bb4bc3ba0c"
+      (reference "#PWR0440") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5a8466a6-bd98-4cb3-abcb-8e886507c4b2"
+      (reference "#PWR0441") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0de3f593-4d16-45b5-a030-7837bae0fdc6"
+      (reference "#PWR0442") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a8b89cf1-210f-4aab-af20-78880a3c2729"
+      (reference "#PWR0443") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3b69d0f4-e304-41c3-b0c3-596bf4455f8a"
+      (reference "#PWR0444") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a1cc24d0-a49f-4308-a7f3-bd6734507015"
+      (reference "#PWR0445") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bfcfd279-32d8-4cfb-a718-d2ae9ae5305c"
+      (reference "#PWR0446") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6055ff9a-7cc6-48b1-bc67-47b66b197c44"
+      (reference "#PWR0447") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7d8b639b-6131-45dd-829e-81d72ea9bbc9"
+      (reference "#PWR0448") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0705ba42-8039-44db-9159-dadca6d5995a"
+      (reference "#PWR0449") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c70061f4-40c3-42ce-a412-a615ae3bc073"
+      (reference "#PWR0450") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e076973b-16cd-4392-888a-6e5f52a0ebdf"
+      (reference "#PWR0451") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5392baa0-03c9-4bcb-87a4-17bed7dac305"
+      (reference "#PWR0452") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c5b833e1-4f0d-4ff2-95e5-30f7e839c594"
+      (reference "#PWR0453") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b22d067d-7620-4a24-b700-36ea56408f09"
+      (reference "#PWR0454") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ee41170a-fd33-4e2f-9d64-3b329a454319"
+      (reference "#PWR0455") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f1450e21-5b60-4fa7-8c43-7202551527f5"
+      (reference "#PWR0456") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f25a38aa-8ee2-488e-ac70-65bed8411ed5"
+      (reference "#PWR0457") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7b946795-a292-4039-bd3e-f7a8bdbc3aa4"
+      (reference "#PWR0458") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a63fea3d-bf00-4524-aa6a-a76e46741d56"
+      (reference "#PWR0459") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c7c94753-ea3a-499a-8a46-691ef94911f1"
+      (reference "#PWR0460") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1416253c-2838-4cbc-b1c1-3cf8440ad261"
+      (reference "#PWR0461") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8bf4d23c-2c5a-41da-8677-8f875954ca5c"
+      (reference "#PWR0462") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/aeee8709-d08e-408a-b44e-d0b6636f338b"
+      (reference "#PWR0463") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2b03f020-ec47-4fdb-8273-6d5aa7aea28a"
+      (reference "#PWR0464") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/fa825fa8-780f-41e3-86b7-6bd665c7a5c2"
+      (reference "#PWR0465") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/55abc92d-6c3e-4158-b318-8bd463f8d8df"
+      (reference "#PWR0466") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/518fbe13-0155-4c8f-96c8-575d97c8adfe"
+      (reference "#PWR0467") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f80c6c92-fed0-4f9d-885a-c861c8c8beaa"
+      (reference "#PWR0468") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c2582461-1ba1-49e2-9684-30de39f988b0"
+      (reference "#PWR0469") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bb9ed89b-7205-461f-a943-11b76f006e84"
+      (reference "#PWR0470") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5e0d1758-761d-4974-9b87-f56778c168fa"
+      (reference "#PWR0471") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c95c43d1-ac9f-45cd-98a4-eaff639bbf87"
+      (reference "#PWR0472") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/614e06b3-b25a-4ab4-aa85-d0fe74c69bbb"
+      (reference "#PWR0473") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6f9abca8-3eb5-4be8-abca-de2b346a9db2"
+      (reference "#PWR0474") (unit 1) (value "GND") (footprint "")
+    )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/917033a0-4769-4bae-8967-5b2bebee1e29"
       (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -4583,26 +5247,335 @@
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/626b75e9-3ee5-4480-ab77-93f67205bdc0"
       (reference "C7") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ab1a81d3-2daf-4754-a3d1-423961f666d8"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d86d1898-d606-4f70-9953-6b5d730de2a4"
+      (reference "C8") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/84a09a01-2ef6-49bb-be4c-94b276821b3b"
-      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/45ab78e0-b591-44b9-9e29-7492a5eb46df"
+      (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aea6479a-1cda-43a0-95be-1d5bed838f4c"
-      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d0ea328d-905d-47aa-936d-4f7584d70280"
+      (reference "C10") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/59f39b99-31d3-4899-aa59-22e31a529d5c"
+      (reference "C11") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/fd3288dc-a57f-493e-8fac-67c91729fcef"
+      (reference "C12") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/476d46ec-4973-455a-905f-cccdc49ed1f7"
+      (reference "C13") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1e37d183-ab7b-48c0-893b-565250c2ea58"
+      (reference "C14") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/24aa547b-da39-4755-ab1d-ab0d28f7bce6"
+      (reference "C15") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f2e1a02f-409a-4608-aeb0-83008c7f2150"
+      (reference "C16") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/de57351c-d2bd-4316-a356-bd12916493b0"
+      (reference "C17") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9615fa4c-ad62-4608-ba80-17a7e95ce11c"
+      (reference "C18") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/45eacc4a-d51f-43a7-8458-3ec36595b43a"
+      (reference "C19") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/19bc6172-f3d3-4b67-8734-c320575a6511"
+      (reference "C20") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ad6a2691-c2db-4755-8e45-026c2c732262"
+      (reference "C21") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/903629af-e1fa-4988-b886-0cb3e2dad5f1"
+      (reference "C22") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c7159a11-9c90-4ed6-a690-84da1ac03c19"
+      (reference "C23") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/502f3580-390c-4c44-af6b-90efefe074d3"
+      (reference "C24") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f3c3f874-ad88-4974-9184-075188def654"
+      (reference "C25") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/fb21321d-b5b8-479f-a250-0fb47b3e19c9"
+      (reference "C26") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/65491f8c-7a80-44ae-9d93-67ad0b89e0e4"
+      (reference "C27") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f17cc621-b600-4dc0-897a-b3bae6d8380d"
+      (reference "C28") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/01a9be6f-78ba-4c1a-a3bb-870c22c034f3"
+      (reference "C29") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0761941c-3699-4f65-9260-4d92428691e2"
+      (reference "C30") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/396ce1c9-19d3-4423-b9e5-3ca22a0f7755"
+      (reference "C31") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e5cc78f8-db15-4ac8-a53e-c9b712208fff"
+      (reference "C32") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1cb2f378-0335-47e8-95d8-e86faae10177"
+      (reference "C33") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dd701e61-10f7-43aa-985d-285ab29ce91e"
+      (reference "C34") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ccc36d6c-d937-4100-b146-c8be3a8e03e5"
+      (reference "C35") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4841f2f6-3978-40d3-ae5c-01a40c8b6475"
+      (reference "C36") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/935c0321-b551-415a-a4e2-2a4acbe978cf"
+      (reference "C37") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e918c655-3363-4e8a-b553-77c0e39e73f4"
+      (reference "C38") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/957e89f0-521e-4ddc-8515-6405d14e0272"
+      (reference "C39") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3efeeb29-986e-40d8-975e-241103872e32"
+      (reference "C40") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a00e0de5-0bea-45e4-9d4b-26c0e45d7ae4"
+      (reference "C41") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dcfdf0f8-e4c7-4c15-9c5c-d8d662cc9f34"
+      (reference "C42") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ef3aaa62-2235-4321-9525-87ea70a7ffc9"
+      (reference "C43") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/49c85dbe-90f5-41c1-8e3d-641a2567142d"
+      (reference "C44") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/80f75d2f-9640-4e35-a936-67739785d5f1"
+      (reference "C45") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/16859f2e-9e10-45b9-8e26-c18cd04aa758"
+      (reference "C46") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0bd44ad9-d65e-4d19-abee-f53e29c0af55"
+      (reference "C47") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a9d2c51f-db35-462a-82b6-89abcaa5a883"
+      (reference "C48") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2f453cdc-95c6-42a2-99ce-a1240b8cea62"
+      (reference "C49") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1db4a838-289f-45b8-a343-f05d939d0892"
+      (reference "C50") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c96dd102-a755-42d2-a1cd-d695216165ff"
+      (reference "C51") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/109e9351-b456-4738-a453-daab014c19e7"
+      (reference "C52") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/00334381-3fd4-40b6-9677-fe8305172123"
+      (reference "C53") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/553c1418-5e30-4ef6-9d41-865212a7f49d"
+      (reference "C54") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1fb6ba0a-d332-4640-87fc-b024a03a76a9"
+      (reference "C55") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1da95aa7-8356-43ab-b45a-4da426bf923a"
+      (reference "C56") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7c92499f-f256-4d04-8557-2c87e3b60dfc"
+      (reference "C57") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/36ca345e-af88-44ea-b4cd-e78e507557e5"
+      (reference "C58") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3335ba09-2fd5-4507-b2b4-0090776fc88e"
+      (reference "C59") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/dcf76cde-2151-4c71-9400-9623201f170a"
+      (reference "C60") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/772b5da9-c13b-41f1-b014-6dc01a1ce10d"
+      (reference "C61") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8414a2bd-b2ec-4cf9-9b42-592cfc5afe63"
+      (reference "C62") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/71d95992-3793-4d84-bcf2-81464d4f8e22"
+      (reference "C63") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/415726c1-d932-4c0d-9f05-408a1242db58"
+      (reference "C64") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/022ce506-0866-4054-88b6-8aa1e288672c"
+      (reference "C65") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5c3e287f-e9f6-4a3a-9e92-7a6ef4c9bb7d"
+      (reference "C66") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c565e1fc-6824-4151-8947-35d004541f22"
+      (reference "C67") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/24f2cb83-640e-463e-bf86-4f03e61e96e4"
+      (reference "C68") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ab60e8c9-e0a5-4f0d-a748-d27dc046ec60"
+      (reference "C69") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/77ebc805-b0ce-46fc-bd90-f1be919d523d"
+      (reference "C70") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b48089b2-d36f-4d99-9510-1818c494354f"
+      (reference "C71") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8422f333-8157-4b56-bde6-574c837bcd26"
+      (reference "C72") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c9773d03-20c7-45d4-a093-09736fe5fe1b"
+      (reference "C73") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6f8d90d1-52e7-4316-8197-ed979b73d447"
+      (reference "C74") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/d415fbed-8593-4e2d-8dfc-66f87b1c5599"
+      (reference "C75") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a2f02cfa-3f29-4e4c-b225-546d5895526a"
+      (reference "C76") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4891ff8a-46ff-4388-ae3a-923956c1a4ee"
+      (reference "C77") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1a6b3e5a-186d-4d40-b0b8-ef3908c4416a"
+      (reference "C78") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5f4cc9b4-b5c1-46f0-b570-f5acd8f651ed"
+      (reference "C79") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/4bc91f13-6e91-4e49-8b8e-9a65423e9985"
+      (reference "C80") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/08b556f7-3700-40b1-9242-1ff306afa2c1"
+      (reference "C81") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c66a36c0-5caf-42fd-ac75-4330c86ed4ca"
+      (reference "C82") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/108feef2-8bb9-487c-b8ea-907abd5b7c03"
+      (reference "C83") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/2c44f04e-835d-4a59-9bc5-36d0ad6f659e"
+      (reference "C84") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bec2b615-b634-416c-96d7-b308290cc299"
+      (reference "C85") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/85ccbdc5-6d91-4f25-ae04-15a265552a7b"
+      (reference "C86") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/3e253eea-b729-491a-b69f-1a8621bbad04"
+      (reference "C87") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a5742002-ebb2-4e33-8d46-3663ab07b756"
+      (reference "C88") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e34348bf-8b76-44ee-a4e4-0f780c933cda"
+      (reference "C89") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5c1485c1-213f-4f48-935c-416e3d101039"
+      (reference "C90") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/1a836c93-c363-499d-910b-76800d4409a9"
+      (reference "C91") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a183574f-ecf2-4cfb-bcfe-8271dade7807"
+      (reference "C92") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b7221b60-f0c3-43d3-9f09-9865b4076829"
+      (reference "C93") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c5bc614e-a704-40fe-b400-49fbe18ebb1b"
+      (reference "C94") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/b029f481-d9c8-4fe4-8736-5861863f237c"
+      (reference "C95") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/362821e8-d07f-4082-a2b1-3dd9d4661318"
+      (reference "C96") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/7b4b5b4a-a215-4d0e-b321-3ce5cc8a2afe"
+      (reference "C97") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ac82a768-be02-46dc-8200-29977608e805"
+      (reference "C98") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/e754174f-2a59-4be2-a7ff-70148cb1f45f"
+      (reference "C99") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/a632b824-17b2-43d0-a30e-e542ca5c6a59"
+      (reference "C100") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bd5f34e2-93d2-4133-ba50-20c94c574974"
+      (reference "C101") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ffb1e8ca-71c8-476d-9a4b-2d0bfca63a71"
+      (reference "C102") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/5946b049-9db8-4d52-964b-274789ee2b69"
+      (reference "C103") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/236b71de-093c-40d3-be65-c74bb76577ea"
+      (reference "C104") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/8555e253-5c62-472b-aa31-3b09c03d7b61"
+      (reference "C105") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/747340ab-57dd-409e-a238-0119c58ee2c4"
+      (reference "C106") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/bff5e00b-92fc-405d-bece-b9464af0d760"
+      (reference "C107") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/c0beda13-3a32-483f-9a0b-598742267e0e"
+      (reference "C108") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/f54a29bb-da33-4764-a294-5045b91d4b9c"
+      (reference "C109") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/aeb8c1cf-d134-4cf7-a40a-c09681a5a8ce"
+      (reference "C110") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/9b4e823b-360d-4bfe-8cb5-aa2573724357"
+      (reference "C111") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/167c766a-2b99-4979-8319-d0446571908b"
+      (reference "C112") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/226abb44-3a8a-4fe5-88df-af176953581a"
+      (reference "C113") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/ed76b789-3e46-4a44-bb8c-2cefbd8dcd9c"
+      (reference "C114") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/6728c70b-2995-431d-bbae-db63b1b621dd"
+      (reference "C115") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/558078b4-4b5e-46df-b4d8-9664c31facd8/0c5c3808-0787-4813-8f32-2f2c65671f54"
+      (reference "C116") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/79bf98bd-c0fc-450d-a86a-b29531f20dc5"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/9c406405-a624-4002-a0b7-d220d69a76d9"
-      (reference "R1") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/a19e659d-abc3-46cf-8f19-53ac2cd752de"
-      (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/fa90c4da-5c50-44e2-8823-0fcc7f8703e5"
-      (reference "R3") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/15419263-ae95-4408-bb7a-26842f0d6d79"
       (reference "R4") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -4664,329 +5637,335 @@
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/e492243f-3043-497e-aae7-7c19fd17f41f"
       (reference "R23") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/6447bcdc-23e1-47e6-8fd4-de0d382ab596"
+      (reference "R24") (unit 1) (value "500") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/2236afd6-e88d-41f7-8f0a-eb08dc98318d"
+      (reference "R25") (unit 1) (value "500") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
     (path "/9b694c33-3c8f-4d93-b67d-158907bb4ffa"
-      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/6d3e1e38-993f-4970-b08c-067d6a0c544e"
-      (reference "SW2") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW2") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/cb87baf3-6302-4158-bec6-a5fb2060cfdc"
-      (reference "SW3") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW3") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/22cea168-1c89-4a13-9d35-eec0802408ce"
-      (reference "SW4") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW4") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a5a77ece-8f75-4464-a3b4-4366d96a98b7"
-      (reference "SW5") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW5") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/d110a327-5eab-44ec-ac0c-c0fa4233b551"
-      (reference "SW6") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW6") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/34d0f21a-8a80-464f-b545-8c3a0ad8d409"
-      (reference "SW7") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW7") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/bb00df15-ff04-43ad-81ae-94a4517c0cf4"
-      (reference "SW8") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW8") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/eded1802-62b3-48e6-b4da-302d3d31ba52"
-      (reference "SW9") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW9") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/32f960aa-af92-436c-a801-d017a0b335e0"
-      (reference "SW10") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW10") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/d107a214-46a4-4021-93e3-9097beb7d1a7"
-      (reference "SW11") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW11") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/fe1b3bb1-e9c2-4d5c-99bc-3f611fd6af4d"
-      (reference "SW12") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW12") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/c3e2fd2a-4b42-4835-8ccb-c0ad8493103d"
-      (reference "SW13") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW13") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/0adc260b-54ef-46ca-b368-49f3286bf9ae"
-      (reference "SW14") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW14") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/4c247bb9-4bdf-4a0d-899f-0259a27dfe84"
-      (reference "SW15") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW15") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/3a55d62a-1c6e-46af-a03c-d128247e04a2"
-      (reference "SW16") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW16") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/58f572a4-ee1f-4f56-a70d-c6b698608f2a"
-      (reference "SW17") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW17") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1a5b58b1-3660-4fb8-9f7f-a66f27187cc1"
-      (reference "SW18") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW18") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a3e8aa3e-422e-484a-acc4-128ae45cfb76"
-      (reference "SW19") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW19") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/faf1c224-6c02-40f5-ba0d-299c2e40b04e"
-      (reference "SW20") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW20") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/f9297c4d-297e-431b-bdcb-fd4bc5c946e9"
-      (reference "SW21") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW21") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/654304e0-1a14-4891-a9c9-2034740fa33c"
-      (reference "SW22") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW22") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/4dc2e541-9e26-4588-96dc-759798f22bed"
-      (reference "SW23") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW23") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/3f656d27-82e5-4f5e-8389-2eb0f2ea2823"
-      (reference "SW24") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW24") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/5c048b27-25ec-47fe-9399-766cddfc8e8e"
-      (reference "SW25") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW25") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/46d19547-48aa-40a4-be49-c49fb440b3be"
-      (reference "SW26") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW26") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/f6cd31aa-6764-4af1-9781-30444b8b5980"
-      (reference "SW27") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW27") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/45a374b0-b25f-4919-bf55-e75f9aaecf7e"
-      (reference "SW28") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW28") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/9f47fa17-3aca-48db-904a-bdc961a95170"
-      (reference "SW29") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW29") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b6525903-2efd-4b80-92fc-981a6b8007b1"
-      (reference "SW30") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW30") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a51254bf-7f27-407e-95cb-d8e09b05884d"
-      (reference "SW31") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW31") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/030b797e-c689-4460-a59d-a49505592fc1"
-      (reference "SW32") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW32") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/24c5fda0-3fbe-4e06-a63f-8e7611a043b3"
-      (reference "SW33") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW33") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b5703b30-6b23-42a6-a2f4-d31dd8c9d6b4"
-      (reference "SW34") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW34") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/19eb32ef-40d6-4ca7-8711-ad4eba6d54cd"
-      (reference "SW35") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW35") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/f2c5f095-49b1-4092-a437-ec7d56ed53b1"
-      (reference "SW36") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW36") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/2955eb85-5ac2-4577-b655-d295d4aad692"
-      (reference "SW37") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW37") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1d82f223-c405-469a-904d-c9e8c7b7a9c9"
-      (reference "SW38") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW38") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/361a0f88-f2a5-4c3d-ac49-5838f70c9819"
-      (reference "SW39") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW39") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b84a99f8-28d3-4c4e-9e25-3e011e89e94f"
-      (reference "SW40") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW40") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/3c2bb5d3-cd45-4326-b314-138a7e596d5c"
-      (reference "SW41") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW41") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/7779bfb0-a1e0-4088-95de-e6d92cac627d"
-      (reference "SW42") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW42") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/6f87bebb-d871-451d-8093-bcdbb1c372d4"
-      (reference "SW43") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW43") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/897ba867-b445-479f-b932-a957e3e2b0cd"
-      (reference "SW44") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW44") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/956c8953-87fe-4089-9a8a-7294e3bc2f5c"
-      (reference "SW45") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW45") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1eb7ca1a-609b-44bc-94d7-8e2c4c73fd32"
-      (reference "SW46") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW46") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/75e8dfee-d0e7-4a4e-99b9-bf7aa910928f"
-      (reference "SW47") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW47") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/86767e9d-3f22-4281-992f-2f3d75049e5c"
-      (reference "SW48") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW48") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/828818cc-a7a7-49fd-9c5b-e1dadc787a5f"
-      (reference "SW49") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW49") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1737c18a-fc5d-424b-a08a-adb69f3c092a"
-      (reference "SW50") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW50") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1a9d8ec2-27d5-4ba4-a47d-907f6c04d753"
-      (reference "SW51") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW51") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a69439cd-9588-48f9-bdc5-0ab3bdfa84ce"
-      (reference "SW52") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW52") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/4f8522ad-1c85-4689-9b7a-556e83d815d4"
-      (reference "SW53") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW53") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/af47600a-154f-4528-bda2-e936a70f352c"
-      (reference "SW54") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW54") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/75eba17d-0a3e-41f3-a47a-0d0d2aee08ab"
-      (reference "SW55") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW55") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/d1aa0a6c-b2ee-48c8-a2b0-66996a4b7212"
-      (reference "SW56") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW56") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a51df3b6-2677-40b5-a5cb-f0a0f9a42dfc"
-      (reference "SW57") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW57") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/d244cb4b-6fdc-4eae-8b5f-64ee308f6ce7"
-      (reference "SW58") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW58") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/f06daaf9-f380-496f-9e0a-aa054218b4a7"
-      (reference "SW59") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW59") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/49fcf459-4cc7-46b9-8168-57ad9a57cc25"
-      (reference "SW60") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW60") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/ec43d550-0a0d-4254-9e19-63fc0cd3f6bc"
-      (reference "SW61") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW61") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/a6dd8b54-8bea-4d93-a47b-ec28fafb4783"
-      (reference "SW62") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW62") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/8f8873cf-6ece-4528-abcc-6f45999a2cf3"
-      (reference "SW63") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW63") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/088ac1b1-efa4-4a14-b658-632d284a1375"
-      (reference "SW64") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW64") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/c5088851-b192-4c98-906a-f6638ed4a7ff"
-      (reference "SW65") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW65") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/c9d16be1-e1ff-4620-8d3e-a2dad2d07dc9"
-      (reference "SW66") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW66") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/befb92c2-53cf-4ff5-868b-c0d92bf84d3b"
-      (reference "SW67") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW67") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/3c1083b9-b67f-410b-955c-8666d7860386"
-      (reference "SW68") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW68") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/99db0a6d-8176-4428-b9b4-f607e734c551"
-      (reference "SW69") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW69") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/bdbe5c16-cc36-42e3-a259-571afa16bcf0"
-      (reference "SW70") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW70") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/980c21ed-4162-4959-b18e-33090dd99e08"
-      (reference "SW71") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW71") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/00fa7605-e738-4f03-b10e-908b1b433acf"
-      (reference "SW72") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW72") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/0ba6ab2a-a025-4d60-8b09-985b26d7a228"
-      (reference "SW73") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW73") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/18925365-ba61-4472-a5fe-ff8c8d89e5c4"
-      (reference "SW74") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW74") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/55e3488f-6d6c-4f4c-8016-c2a0655d9f60"
-      (reference "SW75") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW75") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/945b4619-982f-4f56-9ef5-6e3569c86721"
-      (reference "SW76") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW76") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/57d75b57-5c91-482d-83ff-d2cc12e70970"
-      (reference "SW77") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW77") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/6c1df78a-3234-424d-9974-a6d75a6f95ef"
-      (reference "SW78") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW78") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/3d9fda1f-48cf-4c64-b694-68304189270b"
-      (reference "SW79") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW79") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/58dfaf50-7caf-4730-a621-385ca7d1d1b0"
-      (reference "SW80") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW80") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/40ed6fcd-bc70-4ba3-8b0d-2fcb82fa9c2d"
-      (reference "SW81") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW81") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/425e6efa-7edb-40b1-9b45-24669e35d0b7"
-      (reference "SW82") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW82") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/22d762aa-311b-4361-84b2-020380b6c19d"
-      (reference "SW83") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW83") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/99a65a7b-7ff3-4b3a-b17f-438c09eced5d"
-      (reference "SW84") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW84") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/ec1a2a84-7467-47a2-a822-a96bb90e7872"
-      (reference "SW85") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW85") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/f66761f0-35dd-449c-9b3f-9b606862ec22"
-      (reference "SW86") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW86") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/d341944c-c60a-48ad-a6ac-5bc440b9b7a3"
-      (reference "SW87") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW87") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/1f9fd93c-4030-4c42-8bdf-fe2671334853"
-      (reference "SW88") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW88") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/43e5ec73-f2a1-4c85-b147-41bf0f85243e"
-      (reference "SW89") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW89") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/86182424-3ad2-47f4-be47-76205bd19a50"
-      (reference "SW90") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW90") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/8a996ce5-5753-43d3-9a2e-2c9dba3a429c"
-      (reference "SW91") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW91") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/e8abde90-ab7e-4df3-abc3-9d50cf30b88c"
-      (reference "SW92") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW92") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b47b0e7e-ea09-493e-993d-213a09418ca3"
-      (reference "SW93") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW93") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/4e0e8b0b-8b64-4091-b419-292c438a517a"
-      (reference "SW94") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW94") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/04971321-0e33-471a-8d1b-a88107e1ae87"
-      (reference "SW95") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW95") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/27963062-b367-49bd-bdcb-45a3bd1f404b"
-      (reference "SW96") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW96") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/579b7ed0-25ff-47ac-b7b3-d5b7916d0a17"
-      (reference "SW97") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW97") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/837f8481-c1ab-4fb3-a7a7-b1763d6291bd"
-      (reference "SW98") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW98") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/2b590353-621c-449c-9152-ca32365f08aa"
-      (reference "SW99") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW99") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b9003e4a-40c7-455d-bcf5-b25730368bb2"
-      (reference "SW100") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW100") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/33e01b85-1552-473a-84b9-55a891d19f24"
-      (reference "SW101") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW101") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/ac648043-336b-4157-b719-8038f4f5615b"
-      (reference "SW102") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW102") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/e893eebf-7fb5-4bc4-8be3-4db97ea7938c"
-      (reference "SW103") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW103") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/b4ac7007-3d1a-462b-b85b-e010decbd5b2"
-      (reference "SW104") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW104") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/5fe589ea-3cf1-46b3-8382-2e682b269f17"
       (reference "SW105") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Bourns_Vertical_PEC12R-3xxxF-Sxxxx")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/b2301261-f732-4593-999e-2141e93dc747"
-      (reference "SW106") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW106") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/49c7d7b1-6bc7-4b54-9dc6-bfa2f72977f6"
-      (reference "SW107") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW107") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/aa8e004f-446c-42a6-86de-3c88f2ede2d1"
-      (reference "SW108") (unit 1) (value "SW_DIP_x01") (footprint "keyswitches:Kailh_socket_MX_optional_reversible")
+      (reference "SW108") (unit 1) (value "SW_DIP_x01") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX")
     )
     (path "/7dc9c916-febc-4440-93a8-d6dc06c2aff1/438f713f-f1ca-45d9-99da-0090020455f0"
       (reference "U1") (unit 1) (value "S16-4148") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
@@ -5031,7 +6010,7 @@
       (reference "U14") (unit 1) (value "TLV1117LV") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/818d94df-4bd8-4592-9461-937e162d5258"
-      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "QFP64-10x10MC_MCH")
+      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "Package_QFP:TQFP-64_10x10mm_P0.5mm")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7a7edaa8-d372-4d2e-9a3c-76eefbd11fe4"
       (reference "U16") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
@@ -5353,6 +6332,12 @@
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/39608fa4-db6a-4c08-94f4-63114a1b3f15"
       (reference "U122") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/40ca8917-9ea2-47c3-8de4-252bf37f8104"
+      (reference "U123") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
+    )
+    (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/67d81be8-b013-4412-a506-b99cbcd4496e"
+      (reference "U124") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/983d2e15-168f-42e2-a578-b185a713cff8"
       (reference "Y1") (unit 1) (value "XTAL-12M") (footprint "Crystal:Crystal_SMD_HC49-SD_HandSoldering")
