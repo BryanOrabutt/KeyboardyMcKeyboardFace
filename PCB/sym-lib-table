@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name "SAM4_User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SAM4_User.kicad_sym")(options "")(descr ""))
-  (lib (name "Arrays")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Arrays.kicad_sym")(options "")(descr ""))
-  (lib (name "LDOs")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LDOs.kicad_sym")(options "")(descr ""))
+  (lib (name "Arrays_User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Arrays.kicad_sym")(options "")(descr ""))
+  (lib (name "LDOs_User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LDOs.kicad_sym")(options "")(descr ""))
   (lib (name "LED_User")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LED_User.kicad_sym")(options "")(descr ""))
 )
