@@ -6010,7 +6010,7 @@
       (reference "U14") (unit 1) (value "TLV1117LV") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/818d94df-4bd8-4592-9461-937e162d5258"
-      (reference "U15") (unit 1) (value "ATSAM4S4BA-AU") (footprint "Package_QFP:TQFP-64_10x10mm_P0.5mm")
+      (reference "U15") (unit 1) (value "ATSAM4S-64-LQFP") (footprint "QFP64-10x10MC_MCH")
     )
     (path "/9e0c78dd-5d55-4e6a-a58b-ab669270d485/ca47bd5b-a0a5-4e61-97d4-061cb4e586d8/7a7edaa8-d372-4d2e-9a3c-76eefbd11fe4"
       (reference "U16") (unit 1) (value "IN-PI20TATPRPGPB") (footprint "LED_Adressable_User:IN-PI20TATPRPGPB")

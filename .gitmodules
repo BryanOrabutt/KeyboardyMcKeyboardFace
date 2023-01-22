@@ -4,3 +4,6 @@
 [submodule "firmware/edbg"]
 	path = firmware/edbg
 	url = https://github.com/ataradov/edbg
+[submodule "firmware/FreeRTOS"]
+	path = firmware/FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS

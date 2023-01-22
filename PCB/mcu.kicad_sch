@@ -613,11 +613,11 @@
         )
       )
     )
-    (symbol "SAM4_User:ATSAM4S4BA-AU" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+    (symbol "SAM4_User:ATSAM4S-64-LQFP" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 48.26 10.16 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Value" "ATSAM4S4BA-AU" (id 1) (at 48.26 7.62 0)
+      (property "Value" "ATSAM4S-64-LQFP" (id 1) (at 48.26 7.62 0)
         (effects (font (size 1.524 1.524)))
       )
       (property "Footprint" "QFP64-10x10MC_MCH" (id 2) (at 48.26 6.096 0)
@@ -632,7 +632,7 @@
       (property "ki_fp_filters" "QFP64-10x10MC_MCH QFP64-10x10MC_MCH-M QFP64-10x10MC_MCH-L" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "ATSAM4S4BA-AU_1_1"
+      (symbol "ATSAM4S-64-LQFP_1_1"
         (polyline
           (pts
             (xy 7.62 -83.82)
@@ -2742,16 +2742,16 @@
     (pin "2" (uuid 2b50e411-b638-473f-bb19-a24b3f715fd2))
   )
 
-  (symbol (lib_id "SAM4_User:ATSAM4S4BA-AU") (at 53.34 46.355 0) (unit 1)
+  (symbol (lib_id "SAM4_User:ATSAM4S-64-LQFP") (at 53.34 46.355 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 818d94df-4bd8-4592-9461-937e162d5258)
-    (property "Reference" "U15" (id 0) (at 130.81 132.08 0)
+    (property "Reference" "U15" (id 0) (at 101.6 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "ATSAM4S4BA-AU" (id 1) (at 102.235 40.005 0)
+    (property "Value" "ATSAM4S-64-LQFP" (id 1) (at 101.6 38.735 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_QFP:TQFP-64_10x10mm_P0.5mm" (id 2) (at 101.6 40.259 0)
+    (property "Footprint" "QFP64-10x10MC_MCH" (id 2) (at 101.6 40.259 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 53.34 46.355 0)
