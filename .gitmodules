@@ -1,9 +1,6 @@
 [submodule "PCB/Libraries/keyswitches.pretty"]
 	path = PCB/Libraries/keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty
-[submodule "firmware/FreeRTOS-Kernel"]
-	path = firmware/FreeRTOS-Kernel
-	url = git@github.com:FreeRTOS/FreeRTOS-Kernel.git
 [submodule "firmware/edbg"]
 	path = firmware/edbg
 	url = https://github.com/ataradov/edbg
