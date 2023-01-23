@@ -31,9 +31,3 @@ fp-info-cache
 # Backup folders
 bak/
 
-# Unused ASF folders
-asf/avr32/
-asf/common2/
-asf/mega/
-asf/sam0/
-asf/xmega/
