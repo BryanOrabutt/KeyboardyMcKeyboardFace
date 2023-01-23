@@ -31,3 +31,12 @@ fp-info-cache
 # Backup folders
 bak/
 
+# Build files
+build/
+*.hex
+*.elf
+*.bin
+*.lss
+*.map
+*.sym
+*.o
