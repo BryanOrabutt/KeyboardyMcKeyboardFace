@@ -17,9 +17,10 @@ build/asf/sam/boards/sam4s_xplained_pro/init.o: \
  /usr/arm-none-eabi/include/sys/_intsup.h \
  /usr/arm-none-eabi/include/sys/_stdint.h \
  asf/thirdparty/CMSIS/Include/core_cm4.h \
- asf/thirdparty/CMSIS/Include/core_cmInstr.h \
- asf/thirdparty/CMSIS/Include/core_cmFunc.h \
- asf/thirdparty/CMSIS/Include/core_cm4_simd.h \
+ asf/thirdparty/CMSIS/Include/cmsis_version.h \
+ asf/thirdparty/CMSIS/Include/cmsis_compiler.h \
+ asf/thirdparty/CMSIS/Include/cmsis_gcc.h \
+ asf/thirdparty/CMSIS/Include/mpu_armv7.h \
  asf/sam/utils/cmsis/sam4s/include/system_sam4s.h \
  asf/sam/utils/cmsis/sam4s/include/component/component_acc.h \
  asf/sam/utils/cmsis/sam4s/include/component/component_adc.h \
@@ -140,9 +141,10 @@ asf/sam/utils/cmsis/sam4s/include/sam4sd32c.h:
 /usr/arm-none-eabi/include/sys/_intsup.h:
 /usr/arm-none-eabi/include/sys/_stdint.h:
 asf/thirdparty/CMSIS/Include/core_cm4.h:
-asf/thirdparty/CMSIS/Include/core_cmInstr.h:
-asf/thirdparty/CMSIS/Include/core_cmFunc.h:
-asf/thirdparty/CMSIS/Include/core_cm4_simd.h:
+asf/thirdparty/CMSIS/Include/cmsis_version.h:
+asf/thirdparty/CMSIS/Include/cmsis_compiler.h:
+asf/thirdparty/CMSIS/Include/cmsis_gcc.h:
+asf/thirdparty/CMSIS/Include/mpu_armv7.h:
 asf/sam/utils/cmsis/sam4s/include/system_sam4s.h:
 asf/sam/utils/cmsis/sam4s/include/component/component_acc.h:
 asf/sam/utils/cmsis/sam4s/include/component/component_adc.h:

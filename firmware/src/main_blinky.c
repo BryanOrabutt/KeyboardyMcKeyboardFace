@@ -81,7 +81,7 @@
 
 /* The rate at which data is sent to the queue.  The 200ms value is converted
 to ticks using the portTICK_PERIOD_MS constant. */
-#define mainQUEUE_SEND_FREQUENCY_MS			( 200 / portTICK_PERIOD_MS )
+#define mainQUEUE_SEND_FREQUENCY_MS			( 1000 / portTICK_PERIOD_MS )
 
 /* The number of items the queue can hold.  This is 1 as the receive task
 will remove items as they are added, meaning the send task should always find
@@ -93,7 +93,6 @@ functionality. */
 #define mainQUEUE_SEND_PARAMETER			( 0x1111UL )
 #define mainQUEUE_RECEIVE_PARAMETER			( 0x22UL )
 
-/*-----------------------------------------------------------*/
 
 /*
  * The tasks as described in the comments at the top of this file.
@@ -101,21 +100,19 @@ functionality. */
 static void prvQueueReceiveTask( void *pvParameters );
 static void prvQueueSendTask( void *pvParameters );
 
-/*
- * Called by main() to create the simply blinky style application if
- * mainCREATE_SIMPLE_BLINKY_DEMO_ONLY is set to 1.
- */
-void main_blinky( void );
+/* Initialize the GPIO registers, IRQs, and system/board hardware  */
+static void prvSetupHardware( void );
 
-/*-----------------------------------------------------------*/
+
 
 /* The queue used by both tasks. */
 static QueueHandle_t xQueue = NULL;
 
-/*-----------------------------------------------------------*/
 
-void main_blinky( void )
+int main( void )
 {
+	prvSetupHardware();
+
 	/* Create the queue. */
 	xQueue = xQueueCreate( mainQUEUE_LENGTH, sizeof( unsigned long ) );
 
@@ -141,14 +138,34 @@ void main_blinky( void )
 	there was insufficient FreeRTOS heap memory available for the idle and/or
 	timer tasks	to be created.  See the memory management section on the
 	FreeRTOS web site for more details. */
-	for( ;; );
+	while(1);
+
+	return 0;
 }
-/*-----------------------------------------------------------*/
+
+static void prvSetupHardware( void )
+{
+	/* Determine System Core clock from clock registers */
+	extern void SystemCoreClockUpdate( void );
+
+	/* ASF function to setup clocking. */
+	sysclk_init();
+
+	/* Ensure all priority bits are assigned as preemption priority bits. */
+	NVIC_SetPriorityGrouping( 0 );
+
+	/* Atmel library function to setup for the evaluation kit being used. */
+	board_init();
+
+	/* Perform any configuration necessary to use the ParTest LED output
+	functions. */
+	vParTestInitialise();
+}
 
 static void prvQueueSendTask( void *pvParameters )
 {
-TickType_t xNextWakeTime;
-const unsigned long ulValueToSend = 100UL;
+	TickType_t xNextWakeTime;
+	const unsigned long ulValueToSend = 100UL;
 
 	/* Check the task parameter is as expected. */
 	configASSERT( ( ( unsigned long ) pvParameters ) == mainQUEUE_SEND_PARAMETER );
@@ -175,7 +192,7 @@ const unsigned long ulValueToSend = 100UL;
 
 static void prvQueueReceiveTask( void *pvParameters )
 {
-unsigned long ulReceivedValue;
+	unsigned long ulReceivedValue;
 
 	/* Check the task parameter is as expected. */
 	configASSERT( ( ( unsigned long ) pvParameters ) == mainQUEUE_RECEIVE_PARAMETER );

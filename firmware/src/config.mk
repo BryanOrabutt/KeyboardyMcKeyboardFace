@@ -54,9 +54,7 @@ TARGET_SRAM = free_rtos_demo.elf
 
 # List of C source files.
 CSRCS = \
-       main.c								\
        main_blinky.c							\
-       main_full.c							\
        ParTest.c							\
        asf/common/services/clock/sam4s/sysclk.c             		\
        asf/common/services/delay/sam/cycle_counter.c        		\
