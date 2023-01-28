@@ -71,6 +71,7 @@
 
 /* Atmel library includes. */
 #include "asf.h"
+#include "samg55_xplained_pro.h"
 
 /* Common demo includes. */
 #include "partest.h"
@@ -81,7 +82,7 @@
 
 /* The rate at which data is sent to the queue.  The 200ms value is converted
 to ticks using the portTICK_PERIOD_MS constant. */
-#define mainQUEUE_SEND_FREQUENCY_MS			( 1000 / portTICK_PERIOD_MS )
+#define mainQUEUE_SEND_FREQUENCY_MS			( 500 / portTICK_PERIOD_MS )
 
 /* The number of items the queue can hold.  This is 1 as the receive task
 will remove items as they are added, meaning the send task should always find
@@ -111,6 +112,7 @@ static QueueHandle_t xQueue = NULL;
 
 int main( void )
 {
+	board_init();
 	prvSetupHardware();
 
 	/* Create the queue. */

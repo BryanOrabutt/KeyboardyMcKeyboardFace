@@ -44,29 +44,36 @@ OBJ_DIR = obj
 # Target CPU architecture: cortex-m3, cortex-m4
 ARCH = cortex-m4
 
-# Target part: none, sam3n4 or sam4l4aa
-PART = sam4sd32c
+# Target part
+PART = samg55j19
+
+BASENAME = main_blinky
 
 # Application target name. Given with suffix .a for library and .elf for a
 # standalone application.
-TARGET_FLASH = free_rtos_demo.elf
-TARGET_SRAM = free_rtos_demo.elf
+TARGET_FLASH = $(BASENAME).elf
+TARGET_SRAM = $(BASENAME).elf
+
+ENTRY_FILE = $(BASENAME).c
 
 # List of C source files.
 CSRCS = \
-       main_blinky.c							\
-       ParTest.c							\
-       asf/common/services/clock/sam4s/sysclk.c             		\
+       $(ENTRY_FILE)							\
+       ParTest.c \
+       asf/common/services/clock/samg/sysclk.c             		\
+       asf/common/utils/interrupt/interrupt_sam_nvic.c        \
        asf/common/services/delay/sam/cycle_counter.c        		\
-       asf/sam/boards/sam4s_xplained_pro/init.c             		\
+       asf/sam/boards/samg55_xplained_pro/board_init.c             		\
        asf/sam/drivers/pio/pio.c                            		\
        asf/sam/drivers/pio/pio_handler.c                    		\
        asf/sam/drivers/pmc/pmc.c                            		\
        asf/sam/drivers/pmc/sleep.c                          		\
        asf/sam/drivers/wdt/wdt.c                                	\
        asf/sam/drivers/tc/tc.c                                	\
-       asf/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.c 	\
-       asf/sam/utils/cmsis/sam4s/source/templates/system_sam4s.c 	\
+       asf/sam/drivers/efc/efc.c                              \
+       asf/sam/drivers/supc/supc.c                            \
+       asf/sam/utils/cmsis/samg/samg55/source/templates/gcc/startup_samg55.c 	\
+       asf/sam/utils/cmsis/samg/samg55/source/templates/system_samg55.c 	\
        asf/sam/utils/syscalls/gcc/syscalls.c				\
        asf/thirdparty/FreeRTOS/event_groups.c				\
        asf/thirdparty/FreeRTOS/list.c					\
@@ -86,33 +93,40 @@ INC_PATH = \
        tests						\
        tests/include					\
        asf/common/boards                                \
+       asf/sam/drivers/supc                                   \
+       asf/sam/drivers/efc                                    \
        asf/common/services/clock                        \
        asf/common/services/gpio                         \
        asf/common/services/ioport/sam                   \
        asf/common/services/ioport                       \
        asf/common/services/delay                        \
-       asf/common/services/serial/sam_uart              \
        asf/common/services/serial                       \
        asf/common/utils                                 \
-       asf/common/utils/interrupt                       \
        asf/common/utils/stdio/stdio_serial              \
        asf/sam/boards                                   \
-       asf/sam/boards/sam4s_xplained_pro                \
+       asf/sam/boards/samg55_xplained_pro                \
        asf/sam/drivers/pio                              \
        asf/sam/drivers/pmc                              \
        asf/sam/drivers/wdt                              \
        asf/sam/drivers/uart                             \
        asf/sam/drivers/usart                            \
+       asf/sam/drivers/flexcom                            \
+       asf/common/services/sleepmgr \
+       asf/sam/applications/getting-started/samg55j19_samg_xplained_pro \
        asf/sam/drivers/tc	                        \
        asf/sam/utils                                    \
-       asf/sam/utils/cmsis/sam4s/include                \
-       asf/sam/utils/cmsis/sam4s/source/templates       \
+       asf/sam/applications/getting-started                   \
+       asf/sam/utils/cmsis/samg/samg55/include                \
+       asf/sam/utils/cmsis/samg/samg55/source/templates       \
+       asf/sam/applications/getting-started/samg55j19_samg_xplained_pro/gcc \
        asf/sam/utils/header_files                       \
        asf/sam/utils/preprocessor                       \
+       asf/sam/utils/fpu/ \
        asf/thirdparty/CMSIS/Include                     \
        asf/thirdparty/CMSIS/Lib/GCC			\
        asf/thirdparty/FreeRTOS				\
        asf/thirdparty/FreeRTOS/include			\
+       asf/thirdparty/CMSIS/Lib/GCC \
        asf/thirdparty/FreeRTOS/portable/GCC/ARM_CM3
 
 # Additional search paths for libraries.
@@ -125,12 +139,12 @@ LIBS =  \
        m                                                 
 
 # Path relative to top level directory pointing to a linker script.
-LINKER_SCRIPT_FLASH = ../linker_scripts/sam4sd32/flash.ld
-LINKER_SCRIPT_SRAM  = ../linker_scripts/sam4sd32/sram.ld
+LINKER_SCRIPT_FLASH = ../linker_scripts/samg55j19/flash.ld
+LINKER_SCRIPT_SRAM  = ../linker_scripts/samg55j19/sram.ld
 
 # Path relative to top level directory pointing to a linker script.
-DEBUG_SCRIPT_FLASH = ../debug_scripts/sam4s_xplained_pro_flash.gdb
-DEBUG_SCRIPT_SRAM  = ../debug_scripts/sam4s_xplained_pro_sram.gdb
+DEBUG_SCRIPT_FLASH = ../debug_scripts/samg55_xplained_pro_flash.gdb
+DEBUG_SCRIPT_SRAM  = ../debug_scripts/samg55_xplained_pro_sram.gdb
 
 # Project type parameter: all, sram or flash
 PROJECT_TYPE        = flash
@@ -147,10 +161,14 @@ OPTIMIZATION = -O1
 ARFLAGS = 
 
 # Extra flags to use when assembling.
-ASFLAGS = 
+ASFLAGS =  \
+       -mfloat-abi=softfp                                 \
+       -mfpu=fpv4-sp-d16
 
 # Extra flags to use when compiling.
-CFLAGS = 
+CFLAGS = \
+       -mfloat-abi=softfp                                 \
+       -mfpu=fpv4-sp-d16
 
 # Extra flags to use when preprocessing.
 #
@@ -163,13 +181,15 @@ CFLAGS =
 #   EXT_BOARD  Optional extension board in use, see boards/board.h for a list.
 CPPFLAGS = \
        -D ARM_MATH_CM4=true                               \
-       -D BOARD=SAM4S_XPLAINED_PRO                        \
-       -D __SAM4SD32C__                                    \
+       -D BOARD=SAMG55_XPLAINED_PRO                        \
+       -D __SAMG55J19__                                    \
        -D printf=iprintf                                  \
        -D scanf=iscanf
 
 # Extra flags to use when linking
-LDFLAGS = -lc -u _printf_float \
+#LDFLAGS = -lc -u _printf_float \
+
+LDFLAGS = \
 
 # Pre- and post-build commands
 PREBUILD_CMD = 

@@ -43,7 +43,7 @@
 #define partestNUM_LEDS			( 1UL )
 
 /* Definitions not included in sam4s_ek.h. */
-#define LED2_GPIO 				( PIO_PC23_IDX )
+#define LED2_GPIO 				( PIO_PA6_IDX )
 
 /* One of the LEDs is wired in the inverse to the others as it is also used as
 the power LED. */

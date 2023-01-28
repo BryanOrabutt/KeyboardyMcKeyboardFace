@@ -1,47 +1,37 @@
 /**
  * \file
  *
- * \brief SAM4S clock configuration.
+ * \brief SAMG55 clock configuration.
  *
- * Copyright (c) 2011-2015 Atmel Corporation. All rights reserved.
+ * Copyright (c) 2014-2018 Microchip Technology Inc. and its subsidiaries.
  *
  * \asf_license_start
  *
  * \page License
  *
- * Redistribution and use in source and binary forms, with or without
- * modification, are permitted provided that the following conditions are met:
+ * Subject to your compliance with these terms, you may use Microchip
+ * software and any derivatives exclusively with Microchip products.
+ * It is your responsibility to comply with third party license terms applicable
+ * to your use of third party software (including open source software) that
+ * may accompany Microchip software.
  *
- * 1. Redistributions of source code must retain the above copyright notice,
- *    this list of conditions and the following disclaimer.
- *
- * 2. Redistributions in binary form must reproduce the above copyright notice,
- *    this list of conditions and the following disclaimer in the documentation
- *    and/or other materials provided with the distribution.
- *
- * 3. The name of Atmel may not be used to endorse or promote products derived
- *    from this software without specific prior written permission.
- *
- * 4. This software may only be redistributed and used in connection with an
- *    Atmel microcontroller product.
- *
- * THIS SOFTWARE IS PROVIDED BY ATMEL "AS IS" AND ANY EXPRESS OR IMPLIED
- * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
- * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE
- * EXPRESSLY AND SPECIFICALLY DISCLAIMED. IN NO EVENT SHALL ATMEL BE LIABLE FOR
- * ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
- * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
- * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
- * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
- * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
- * ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
- * POSSIBILITY OF SUCH DAMAGE.
+ * THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES,
+ * WHETHER EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE,
+ * INCLUDING ANY IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY,
+ * AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT WILL MICROCHIP BE
+ * LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL
+ * LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND WHATSOEVER RELATED TO THE
+ * SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS BEEN ADVISED OF THE
+ * POSSIBILITY OR THE DAMAGES ARE FORESEEABLE.  TO THE FULLEST EXTENT
+ * ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN ANY WAY
+ * RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+ * THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
  *
  * \asf_license_stop
  *
  */
 /*
- * Support and FAQ: visit <a href="http://www.atmel.com/design-support/">Atmel Support</a>
+ * Support and FAQ: visit <a href="https://www.microchip.com/support/">Microchip Support</a>
  */
 
 #ifndef CONF_CLOCK_H_INCLUDED
@@ -51,17 +41,16 @@
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_SLCK_RC
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_SLCK_XTAL
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_SLCK_BYPASS
-//#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_4M_RC
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_8M_RC
-//#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_12M_RC
+//#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_16M_RC
+//#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_24M_RC
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_XTAL
 //#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_MAINCK_BYPASS
 #define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_PLLACK
-//#define CONFIG_SYSCLK_SOURCE        SYSCLK_SRC_PLLBCK
 
 // ===== System Clock (MCK) Prescaler Options   (Fmck = Fsys / (SYSCLK_PRES))
-//#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_1
-#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_2
+#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_1
+//#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_2
 //#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_4
 //#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_8
 //#define CONFIG_SYSCLK_PRES          SYSCLK_PRES_16
@@ -71,34 +60,16 @@
 
 // ===== PLL0 (A) Options   (Fpll = (Fclk * PLL_mul) / PLL_div)
 // Use mul and div effective values here.
-#define CONFIG_PLL0_SOURCE          PLL_SRC_MAINCK_XTAL
-#define CONFIG_PLL0_MUL             20
+#define CONFIG_PLL0_SOURCE          PLL_SRC_SLCK_XTAL
+#define CONFIG_PLL0_MUL             3662
 #define CONFIG_PLL0_DIV             1
 
-// ===== PLL1 (B) Options   (Fpll = (Fclk * PLL_mul) / PLL_div)
-// Use mul and div effective values here.
-#define CONFIG_PLL1_SOURCE          PLL_SRC_MAINCK_XTAL
-#define CONFIG_PLL1_MUL             16
-#define CONFIG_PLL1_DIV             2
-
-// ===== USB Clock Source Options   (Fusb = FpllX / USB_div)
-// Use div effective value here.
-//#define CONFIG_USBCLK_SOURCE        USBCLK_SRC_PLL0
-#define CONFIG_USBCLK_SOURCE        USBCLK_SRC_PLL1
-#define CONFIG_USBCLK_DIV           2
-
 // ===== Target frequency (System clock)
-// - XTAL frequency: 12MHz
-// - System clock source: PLLA
-// - System clock prescaler: 2 (divided by 2)
-// - PLLA source: XTAL
-// - PLLA output: XTAL * 20 / 1
-// - System clock: 12 * 20 / 1 / 2 = 120MHz
-// ===== Target frequency (USB Clock)
-// - USB clock source: PLLB
-// - USB clock divider: 2 (divided by 2)
-// - PLLB output: XTAL * 16 / 2
-// - USB clock: 12 * 16 / 2 / 2 = 48MHz
-
+// - External XTAL frequency: 32768Hz
+// - System clock source: SLCK XTAL
+// - System clock prescaler: 1 (divided by 1)
+// - PLLA source: SLCK_XTAL
+// - PLLA output: SLCK_XTAL * 3662 / 1
+// - System clock: SLCK_XTAL * 3662 / 1 / 1 = 120MHz
 
 #endif /* CONF_CLOCK_H_INCLUDED */

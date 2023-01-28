@@ -407,6 +407,7 @@ else
 	$(Q)test -d $(dir $@) || mkdir -p $(dir $@)
 endif
 	@echo $(MSG_COMPILING)
+	@echo $(Q)$(CC) $(c_flags) -c $< -o $@
 	$(Q)$(CC) $(c_flags) -c $< -o $@
 
 # Create object files from C++ source files.
@@ -418,6 +419,7 @@ else
 	$(Q)test -d $(dir $@) || mkdir -p $(dir $@)
 endif
 	@echo $(MSG_COMPILING_CXX)
+	@echo $(Q)$(CXX) $(cxx_flags) -c $< -o $@
 	$(Q)$(CXX) $(cxx_flags) -c $< -o $@
 
 # Preprocess and assemble: create object files from assembler source files.
@@ -429,6 +431,7 @@ else
 	$(Q)test -d $(dir $@) || mkdir -p $(dir $@)
 endif
 	@echo $(MSG_ASSEMBLING)
+	@echo $(Q)$(CC) $(a_flags) -c $< -o $@
 	$(Q)$(CC) $(a_flags) -c $< -o $@
 
 # Include all dependency files to add depedency to all header files in use.
@@ -458,21 +461,25 @@ endif
 # Create extended function listing from target output file.
 %.lss: $(target)
 	@echo $(MSG_EXTENDED_LISTING)
+	@echo $(Q)$(OBJDUMP) -h -S $< > $@
 	$(Q)$(OBJDUMP) -h -S $< > $@
 
 # Create symbol table from target output file.
 %.sym: $(target)
 	@echo $(MSG_SYMBOL_TABLE)
+	@echo $(Q)$(NM) -n $< > $@
 	$(Q)$(NM) -n $< > $@
 
 # Create Intel HEX image from ELF output file.
 %.hex: $(target)
 	@echo $(MSG_IHEX_IMAGE)
+	@echo $(Q)$(OBJCOPY) -O ihex $(flashflags-gnu-y)  $< $@
 	$(Q)$(OBJCOPY) -O ihex $(flashflags-gnu-y)  $< $@
 
 # Create binary image from ELF output file.
 %.bin: $(target)
 	@echo $(MSG_BINARY_IMAGE)
+	@echo $(Q)$(OBJCOPY) -O binary $< $@
 	$(Q)$(OBJCOPY) -O binary $< $@
 
 # Provide information about the detected host operating system.
